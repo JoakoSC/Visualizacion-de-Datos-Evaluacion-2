@@ -1,0 +1,1563 @@
+﻿id_pedido,id_usuario,id_restaurante,fecha_pedido,monto_clp,tiempo_entrega_min,metodo_pago,calificacion,estado,nombre_restaurante,categoria,comuna,fecha_registro,comuna_usuario,tipo_cuenta
+364,299,19,01-05-2026,7500,42.0,Tarjeta,5.0,Entregado,Churros & Más,Comida rápida,Santiago,2024-12-16,La Florida,Premium
+401,239,18,01-05-2026,9800,26.0,Tarjeta,4.0,Entregado,El Rincón Light,Saludable,Santiago,24/04/2026,  Santiago  ,Estándar
+792,114,12,01-05-2026,7500,33.0,TARJETA,5.0,Entregado,Parrilla Andina,Comida rápida,,13/09/2024,Santiago,Premium
+831,136,6,01-05-2026,9800 CLP,34.0,Tarjeta,4.0,Entregado,Café Luna,Asiatica,Santiago,20-09-2024,  Providencia  ,Premium
+1120,104,9,01-05-2026,11900,24.0,Efectivo,,Cancelado,Pizza Nonna,ITALIANA,La Florida,2025-12-22,Las Condes,Premium
+1219,188,14,01-06-2026,8200,28.0,Transferencia,,Entregado,Panadería del Sol, Italiana ,Ñuñoa,2025-08-27,Nunoa,Premium
+627,7,6,01-06-2026,9100,45.0,Tarjeta,3.0,Entregado,Café Luna,Asiatica,Santiago,2024-10-25,Maipú,Estándar
+1278,176,1,01-06-2026,9400,25.0,Tarjeta,4.0,Entregado,  Sabores del Barrio  ,COMIDA RÁPIDA,Providencia,27/03/2025,Santiago,Estándar
+767,179,14,01-06-2026,12800,40.0,Tarjeta,4.0,Entregado,Panadería del Sol, Italiana ,Ñuñoa,2025-03-05,La Florida,Estándar
+908,12,12,01-07-2026,6100,34.0,Tarjeta,5.0,Entregado,Parrilla Andina,Comida rápida,,2025-05-19,  Santiago  ,Estándar
+918,207,7,01-07-2026,$13.200,43.0,Transferencia,4.0,Entregado,El Buen Sazón,Comida rápida,La Florida,27-09-2024,Providencia,Estándar
+310,85,22,01-08-2026,11500,12.0,Tajeta,3.0,entregado,  Ramen Ya  ,Asiática,Maipú,2025-04-17,Las Condes,Premium
+1324,32,30,01-08-2026,6900,36.0,Tarjeta,5.0,Entregado,Dulce Esquina,Postres y café,La Florida,2024-07-25,  Santiago  ,Estándar
+1335,213,28,01-09-2026,8800,26.0,Efectivo,4.0,Entregado,  Pasta & Co  ,Saludable,Santiago,2026-01-14,Las Condes,Estándar
+996,121,10,01-10-2026,7000,30.0,Tarjeta,5.0,Entregado,Wok Express,Saludable,Ñuñoa,2026-01-18,Maipú,Premium
+1495,222,18,01-10-2026,13700,41.0,Tarjeta,3.0, Entregado,El Rincón Light,Saludable,Santiago,2026-03-01,Providencia,Premium
+1242,141,27,01-10-2026,8300,32.0,Tarjeta,5.0,Entregado,  Café Central  ,Saludable,La Florida,2025-06-12,la florida,Estándar
+1220,144,24,01-10-2026,$16.500,25.0,Tarjeta,3.0,Entregado,Pollo al Carbón,Asiatica,,08/12/2025,Ñuñoa,Estándar
+81,214,30,01/07/2026,6700,31.0,tarjeta,, Entregado,Dulce Esquina,Postres y café,La Florida,2025-03-17,La Florida,
+1338,91,17,01/07/2026,8000,34.0,Efectivo,2.0,Entregado,Noodle House,Italiana,Santiago,10/08/2024,Las Condes,Premium
+986,297,6,01/09/2026,12000,24.0,Efectivo,, Entregado,Café Luna,Asiatica,Santiago,20/09/2024,  Ñuñoa  ,
+1424,259,11,01/09/2026,13600,30.0,Tarjeta,3.0,Entregado,Dulce Tentación,Italiana,Providencia,2026-03-03,providencia,Estándar
+754,100,26,01/09/2026,9600,26.0,Tarjeta,4.0,Entregado,Green House,Saludable,Ñuñoa,2026-05-01,La Florida,Estándar
+141,53,3,01/10/2026,10200,28.0,Transferencia,4.0,Entregado,Verde Bowl,Comida rápida,Las Condes,08-01-2026,La Florida,Premium
+158,199,18,01/10/2026,10600,,Tarjeta,5.0,Entregado,El Rincón Light,Saludable,Santiago,30-11-2024,Santiago,Estándar
+108,97,18,02-05-2026,11500,26.0,Transferencia,5.0,Entregado,El Rincón Light,Saludable,Santiago,21/01/2025,Santiago,Estándar
+1164,211,8,02-06-2026,10300 CLP,29.0,Efectivo,5.0,Entregado,Fit & Rico,Asiática,,2025-06-13,Santiago,Estándar
+717,94,19,02-07-2026,9000,38.0,Efectivo,5.0,Entregado,Churros & Más,Comida rápida,Santiago,2026-05-05,Santiago,Estándar
+28,70,7,02-07-2026,8800,20.0,Tarjeta,,Cancelado,El Buen Sazón,Comida rápida,La Florida,2024-10-19,La Florida,Premium
+1055,223,6,02-07-2026,15400,43.0,Tajeta,5.0,Entregado,Café Luna,Asiatica,Santiago,2024-11-21,Ñuñoa,Estándar
+1285,241,29,02-07-2026,10100,33.0,Tarjeta,,Entregado,Mar y Tierra,Saludable,Ñuñoa,2025-05-09,La Florida,Premium
+6,260,9,02-07-2026,10800,25.0,Tarjeta,5.0,Entregado,Pizza Nonna,ITALIANA,La Florida,18-06-2025,Las Condes,Premium
+77,286,14,02-09-2026,16700,,Efectivo,,Entregado,Panadería del Sol, Italiana ,Ñuñoa,2025-07-15,La Florida,
+1489,110,24,02-09-2026,13900,52.0,Tarjeta,5.0,Entregado,Pollo al Carbón,Asiatica,,2025-05-16,Ñuñoa,Premium
+1277,68,25,02-09-2026,9800,45.0,Tarjeta,,Cancelado,Tacos y Punto,Saludable,Providencia,2026-01-26,Las Condes,Estándar
+980,105,14,02-09-2026,15100,26.0,Tarjeta,,Cancelado,Panadería del Sol, Italiana ,Ñuñoa,2026-04-16,Las Condes,Estándar
+230,261,12,02-10-2026,8100,43.0,Tarjeta,,Cancelado,Parrilla Andina,Comida rápida,,2026-03-06,Santiago,Premium
+166,171,12,02-10-2026,13400,36.0,Tarjeta,3.0,Entregado,Parrilla Andina,Comida rápida,,2025-01-03,Santiago,Estándar
+194,80,19,02/07/2026,13100,46.0,Tarjeta,,Cancelado,Churros & Más,Comida rápida,Santiago,2026-04-29,Santiago,Estándar
+1075,138,25,02/08/2026,10400,40.0,TRANSFERENCIA,5.0,Entregado,Tacos y Punto,Saludable,Providencia,2026-05-11,Las Condes,Estándar
+1179,92,6,02/09/2026,8600,37.0,Tarjeta,4.0,Entregado,Café Luna,Asiatica,Santiago,2024-12-10,Providencia,
+312,8,20,02/09/2026,8900,39.0,Efectivo,5.0, Entregado,Brasas del Sur,Saludable,Ñuñoa,2024-11-10,LA FLORIDA,Estándar
+494,229,1,02/09/2026,11400,38.0,Efectivo,3.0,Entregado,  Sabores del Barrio  ,COMIDA RÁPIDA,Providencia,2025-06-14,Providencia,Premium
+1125,61,7,02/09/2026,6100,32.0,Tarjeta,,Entregado,El Buen Sazón,Comida rápida,La Florida,16-08-2025,Santiago,Premium
+246,241,15,02/10/2026,13900,38.0,Tarjeta,5.0,Entregado,Veggie Life,saludable,Las Condes,2025-05-09,La Florida,Premium
+168,120,1,02/10/2026,6400,40.0,Transferencia,3.0,Entregado,  Sabores del Barrio  ,COMIDA RÁPIDA,Providencia,29-04-2025,Providencia,Estándar
+45,12,21,03-05-2026,13800,38.0,Efectivo,3.0,Entregado,Ensalada Fresca, Saludable ,Santiago,2025-05-19,  Santiago  ,Estándar
+122,247,28,03-06-2026,15100,21.0,Tarjeta,3.0,ENTREGADO,  Pasta & Co  ,Saludable,Santiago,2025-01-25,Santiago,Estándar
+244,279,19,03-06-2026,12000 CLP,44.0,Efectivo ,3.0,Entregado,Churros & Más,Comida rápida,Santiago,06-07-2025,Santiago,Estándar
+17,90,12,03-07-2026,11400,34.0,Tarjeta,3.0,ENTREGADO,Parrilla Andina,Comida rápida,,06-02-2026,santiago,Estándar
+1255,177,4,03-07-2026,11200,16.0,TARJETA,4.0,entregado,Pasta Nostra,Asiatica,Santiago,2025-03-08,Las Condes,Premium
+1395,88,8,03-09-2026,15200,26.0,Tarjeta,4.0,Entregado,Fit & Rico,Asiática,,05-08-2026,  Ñuñoa  ,Estándar
+268,84,24,03-09-2026,$15.200,24.0,Tarjeta ,4.0,Entregado,Pollo al Carbón,Asiatica,,31/01/2026,Providencia,Estándar
+1316,227,18,03-10-2026,12900 CLP,32.0,Efectivo,,Entregado,El Rincón Light,Saludable,Santiago,27-06-2025,Providencia,Estándar
+240,83,24,03/05/2026,7700,36.0,Transferencia,5.0,Entregado,Pollo al Carbón,Asiatica,,2026-06-03,Maipú,Estándar
+499,42,20,03/05/2026,12400,39.0,Tarjeta,3.0,Entregado,Brasas del Sur,Saludable,Ñuñoa,2025-07-12,Maipú,Estándar
+1286,105,18,03/06/2026,13200,24.0,TARJETA,5.0,Entregado,El Rincón Light,Saludable,Santiago,2026-04-16,Las Condes,Estándar
+1192,178,22,03/07/2026,$10.200,999.0,Tarjeta,,Cancelado,  Ramen Ya  ,Asiática,Maipú,2025-03-06,Providencia,Estándar
+274,115,1,03/08/2026,11400,36.0,Tarjeta,3.0,Entregado,  Sabores del Barrio  ,COMIDA RÁPIDA,Providencia,2025-06-08,Santiago,Premium
+1187,138,2,03/09/2026,7700,43.0,Tarjeta,5.0,entregado,La Esquina Criolla,Saludable,Santiago,2026-05-11,Las Condes,Estándar
+1190,205,30,03/09/2026,6900,43.0,Tarjeta,4.0, Entregado,Dulce Esquina,Postres y café,La Florida,22-05-2026,Santiago,Estándar
+1470,213,28,03/10/2026,12100,28.0,Efectivo,3.0,Entregado,  Pasta & Co  ,Saludable,Santiago,2026-01-14,Las Condes,Estándar
+861,11,3,03/10/2026,$12.100,28.0,Transferencia,4.0,entregado,Verde Bowl,Comida rápida,Las Condes,31/08/2026,Ñuñoa,Estándar
+417,205,19,04-05-2026,10400,26.0,Efectivo,3.0,Entregado,Churros & Más,Comida rápida,Santiago,22-05-2026,Santiago,Estándar
+898,158,15,04-05-2026,8700 CLP,33.0,Efectivo,4.0,Entregado,Veggie Life,saludable,Las Condes,2026-06-27,Maipú,Estándar
+1054,240,8,04-05-2026,16500,30.0,Tarjeta,2.0,Entregado,Fit & Rico,Asiática,,2025-07-30,Santiago,Estándar
+1054,240,8,04-05-2026,16500,30.0,Tarjeta,2.0,Entregado,Fit & Rico,Asiática,,2025-07-30,Santiago,Estándar
+1314,298,9,04-06-2026,14100,13.0,Efectivo,4.0,Entregado,Pizza Nonna,ITALIANA,La Florida,2026-09-08,ÑUÑOA,Estándar
+696,227,6,04-06-2026,16700,37.0,Tarjeta,,Cancelado,Café Luna,Asiatica,Santiago,27-06-2025,Providencia,Estándar
+784,276,17,04-06-2026,13000,28.0,Tarjeta,5.0,Entregado,Noodle House,Italiana,Santiago,11-08-2024,Ñuñoa,Estándar
+88,280,20,04-08-2026,8000,27.0,Efectivo,4.0,Entregado,Brasas del Sur,Saludable,Ñuñoa,04/08/2024,La Florida,Premium
+860,227,9,04-08-2026,17500,37.0,Efectivo,5.0,Entregado,Pizza Nonna,ITALIANA,La Florida,27-06-2025,Providencia,Estándar
+1067,100,15,04-08-2026,10300 CLP,53.0,Transferencia,,Entregado,Veggie Life,saludable,Las Condes,2026-05-01,La Florida,Estándar
+259,36,20,04-09-2026,7800,27.0,Tajeta,4.0,Entregado,Brasas del Sur,Saludable,Ñuñoa,2026-06-11,La Florida,Premium
+1231,117,4,04-09-2026,13300,39.0,Efectivo,3.0,Entregado,Pasta Nostra,Asiatica,Santiago,2025-04-21,Santiago,Estándar
+1297,28,26,04-09-2026,7900,24.0,Transferencia,5.0,Entregado,Green House,Saludable,Ñuñoa,2026-08-20,maipú,Premium
+1169,257,15,04-09-2026,13000,35.0,Efectivo,5.0,Entregado,Veggie Life,saludable,Las Condes,2026-07-26,Las Condes,Estándar
+453,251,4,04-10-2026,12000,42.0,Tarjeta,5.0,Entregado,Pasta Nostra,Asiatica,Santiago,2025-11-28,Ñuñoa,Estándar
+615,291,16,04-10-2026,15800,28.0,Tarjeta,4.0,Entregado,  Trattoria Roma  ,ASIÁTICA,Maipú,23-12-2025,Santiago,Estándar
+453,251,4,04-10-2026,12000,42.0,Tarjeta,5.0,Entregado,Pasta Nostra,Asiatica,Santiago,2025-11-28,Ñuñoa,Estándar
+635,15,28,04/05/2026,13500,34.0,Tarjeta,4.0,entregado,  Pasta & Co  ,Saludable,Santiago,2025-06-06,Providencia,Premium
+1468,106,16,04/06/2026,13800,31.0,Tarjeta,4.0,Entregado,  Trattoria Roma  ,ASIÁTICA,Maipú,2024-07-14,La Florida,Estándar
+586,25,27,04/06/2026,7100,26.0,Tajeta,2.0,Entregado,  Café Central  ,Saludable,La Florida,2025-08-24,La Florida,Estándar
+586,25,27,04/06/2026,7100,26.0,Tajeta,2.0,Entregado,  Café Central  ,Saludable,La Florida,2025-08-24,La Florida,Estándar
+1252,220,30,04/07/2026,5600,23.0,efectivo,,Cancelado,Dulce Esquina,Postres y café,La Florida,2024-10-18,Providencia,Premium
+616,68,20,04/07/2026,7100,48.0,Efectivo,4.0,Entregado,Brasas del Sur,Saludable,Ñuñoa,2026-01-26,Las Condes,Estándar
+1476,105,29,04/08/2026,7600,34.0,Tarjeta,5.0,Entregado,Mar y Tierra,Saludable,Ñuñoa,2026-04-16,Las Condes,Estándar
+202,291,23,04/08/2026,16200,32.0,Tarjeta,4.0,Entregado,La Baguette,Italiana,Santiago,23-12-2025,Santiago,Estándar
+1404,111,11,04/08/2026,14700,21.0,Tarjeta,3.0,Entregado,Dulce Tentación,Italiana,Providencia,02-02-2026,Santiago,Estándar
+1402,121,20,04/09/2026,$10.300,,Tarjeta,4.0,Entregado,Brasas del Sur,Saludable,Ñuñoa,2026-01-18,Maipú,Premium
+976,17,9,04/09/2026,15200,44.0,Transferencia,4.0,Entregado,Pizza Nonna,ITALIANA,La Florida,26/09/2024,Santiago,Estándar
+112,77,3,04/09/2026,7100,28.0,Tarjeta,3.0,Entregado,Verde Bowl,Comida rápida,Las Condes,2025-09-09,Ñuñoa,Premium
+123,91,23,04/09/2026,12300,36.0,Efectivo,3.0,Entregado,La Baguette,Italiana,Santiago,10/08/2024,Las Condes,Premium
+199,109,4,05-05-2026,10000,44.0,Efectivo,3.0,Entregado,Pasta Nostra,Asiatica,Santiago,19-07-2024,Santiago,Estándar
+440,253,26,05-07-2026,8500 CLP,26.0,Tarjeta,3.0,Entregado,Green House,Saludable,Ñuñoa,2026-02-20,  Ñuñoa  ,Estándar
+714,48,24,05-07-2026,$8.000,42.0,Transferencia,5.0,Entregado,Pollo al Carbón,Asiatica,,23/07/2024,Santiago,Estándar
+1172,173,8,05-08-2026,13000,36.0,Tarjeta,5.0,Entregado,Fit & Rico,Asiática,,2025-12-14,LAS CONDES,Premium
+532,125,28,05-08-2026,9700,31.0,Transferencia,5.0,Entregado,  Pasta & Co  ,Saludable,Santiago,2026-07-15,La Florida,Premium
+1085,142,14,05-09-2026,9100,31.0,Tarjeta,4.0,Entregado,Panadería del Sol, Italiana ,Ñuñoa,24/08/2025,Providencia,Estándar
+1475,207,16,05-09-2026,16200 CLP,30.0,Tarjeta,3.0,Entregado,  Trattoria Roma  ,ASIÁTICA,Maipú,27-09-2024,Providencia,Estándar
+943,104,22,05-09-2026,14400,31.0,Tajeta,4.0,Entregado,  Ramen Ya  ,Asiática,Maipú,2025-12-22,Las Condes,Premium
+1439,297,15,05-09-2026,7600,35.0,Transferencia,4.0,Entregado,Veggie Life,saludable,Las Condes,20/09/2024,  Ñuñoa  ,
+1002,19,28,05-10-2026,10500,,Tarjeta,4.0,ENTREGADO,  Pasta & Co  ,Saludable,Santiago,13-03-2025,La Florida,Estándar
+422,139,19,05-10-2026,11000,27.0,Tarjeta,3.0,Entregado,Churros & Más,Comida rápida,Santiago,07/09/2025,Santiago,Estándar
+613,59,30,05-10-2026,6500,26.0,Transferencia,5.0,entregado,Dulce Esquina,Postres y café,La Florida,12-04-2025,Ñuñoa,Estándar
+786,283,7,05/05/2026,13000 CLP,38.0,Tarjeta,4.0,Entregado,El Buen Sazón,Comida rápida,La Florida,02/04/2025,Providencia,Premium
+1312,162,8,05/05/2026,9400,42.0,Tarjeta,4.0,Entregado,Fit & Rico,Asiática,,2024-08-06,la florida,Estándar
+854,76,13,05/06/2026,10100,47.0,Efectivo,,Cancelado,Sushi Mar,Asiática,Las Condes,2025-03-18,Ñuñoa,Estándar
+936,235,4,05/09/2026,10200,41.0,Transferencia,3.0,Entregado,Pasta Nostra,Asiatica,Santiago,2025-11-12,La Florida,Premium
+815,165,24,05/09/2026,10700,19.0,Tarjeta,5.0,entregado,Pollo al Carbón,Asiatica,,2025-10-25,Las Condes,Estándar
+936,235,4,05/09/2026,10200,41.0,Transferencia,3.0,Entregado,Pasta Nostra,Asiatica,Santiago,2025-11-12,La Florida,Premium
+526,27,27,05/09/2026,11200,27.0,efectivo,5.0,Entregado,  Café Central  ,Saludable,La Florida,2026-09-27,Ñuñoa,Estándar
+575,252,16,05/09/2026,9500,32.0,Efectivo,3.0,entregado,  Trattoria Roma  ,ASIÁTICA,Maipú,09/02/2025,Ñuñoa,Estándar
+1419,97,5,05/10/2026,11900,25.0,Transferencia,4.0,Entregado,  Dragón Dorado  ,Asiática,Ñuñoa,21/01/2025,Santiago,Estándar
+215,247,18,05/10/2026,9900,34.0,Tarjeta,5.0,Entregado,El Rincón Light,Saludable,Santiago,2025-01-25,Santiago,Estándar
+523,233,7,06-05-2026,7200,28.0,Transferencia,,Entregado,El Buen Sazón,Comida rápida,La Florida,2025-05-18,Las Condes,Estándar
+1144,17,6,06-05-2026,13000,29.0,Efectivo ,4.0,Entregado,Café Luna,Asiatica,Santiago,26/09/2024,Santiago,Estándar
+1027,178,27,06-06-2026,12100,20.0,tarjeta,4.0,Entregado,  Café Central  ,Saludable,La Florida,2025-03-06,Providencia,Estándar
+303,30,29,06-08-2026,7900,24.0,Tarjeta,4.0,Entregado,Mar y Tierra,Saludable,Ñuñoa,2026-03-15,Providencia,Premium
+1034,221,5,06-08-2026,15600,35.0,Transferencia,5.0,Entregado,  Dragón Dorado  ,Asiática,Ñuñoa,2026-05-01,Santiago,
+1042,140,19,06-08-2026,8700,,Tarjeta,4.0,Entregado,Churros & Más,Comida rápida,Santiago,2026-01-20,Santiago,
+308,58,12,06-08-2026,11000,39.0,Efectivo,4.0,Entregado,Parrilla Andina,Comida rápida,,2024-08-07,Santiago,Estándar
+495,101,10,06-09-2026,9300,30.0,Transferencia,,Entregado,Wok Express,Saludable,Ñuñoa,2026-04-22,Santiago,Estándar
+1387,8,4,06-09-2026,12900,12.0,Tarjeta,,Cancelado,Pasta Nostra,Asiatica,Santiago,2024-11-10,LA FLORIDA,Estándar
+956,23,22,06-09-2026,11200,23.0,Tarjeta,5.0,Entregado,  Ramen Ya  ,Asiática,Maipú,2025-08-16,Santiago,Estándar
+1189,116,1,06-09-2026,11300,42.0,Tarjeta,4.0,Entregado,  Sabores del Barrio  ,COMIDA RÁPIDA,Providencia,02/07/2025,Providencia,Estándar
+1306,286,1,06/05/2026,10400,22.0,Efectivo,4.0,Entregado,  Sabores del Barrio  ,COMIDA RÁPIDA,Providencia,2025-07-15,La Florida,
+1301,200,14,06/05/2026,10000,42.0,Transferencia,,Entregado,Panadería del Sol, Italiana ,Ñuñoa,02-06-2026,Santiago,Premium
+949,58,15,06/05/2026,10300,14.0,Tarjeta,4.0,Entregado,Veggie Life,saludable,Las Condes,2024-08-07,Santiago,Estándar
+251,163,2,06/07/2026,9500,41.0,Tarjeta,4.0,Entregado,La Esquina Criolla,Saludable,Santiago,2026-03-18,Las Condes,Premium
+1170,235,27,06/08/2026,12000,43.0,Tarjeta,,Cancelado,  Café Central  ,Saludable,La Florida,2025-11-12,La Florida,Premium
+1170,235,27,06/08/2026,12000,43.0,Tarjeta,,Cancelado,  Café Central  ,Saludable,La Florida,2025-11-12,La Florida,Premium
+514,128,16,06/09/2026,10200,32.0,Efectivo,,Cancelado,  Trattoria Roma  ,ASIÁTICA,Maipú,2025-03-01,las condes,Premium
+1390,87,13,06/09/2026,9600,22.0,Tajeta,4.0,Entregado,Sushi Mar,Asiática,Las Condes,2024-11-17,Ñuñoa,Premium
+96,235,24,06/09/2026,14500,30.0,Transferencia,4.0,Entregado,Pollo al Carbón,Asiatica,,2025-11-12,La Florida,Premium
+208,224,11,06/09/2026,13300,29.0,Efectivo ,4.0, Entregado,Dulce Tentación,Italiana,Providencia,2026-03-13,Santiago,Estándar
+96,235,24,06/09/2026,14500,30.0,Transferencia,4.0,Entregado,Pollo al Carbón,Asiatica,,2025-11-12,La Florida,Premium
+574,264,27,06/09/2026,9500,35.0,Tarjeta,4.0,Entregado,  Café Central  ,Saludable,La Florida,2024-12-12,Santiago,Premium
+1194,253,23,06/10/2026,12900,28.0,Tarjeta,4.0,Entregado,La Baguette,Italiana,Santiago,2026-02-20,  Ñuñoa  ,Estándar
+291,242,22,06/10/2026,15400,20.0,Efectivo,5.0,Entregado,  Ramen Ya  ,Asiática,Maipú,2025-05-07,Ñuñoa,Premium
+197,42,20,06/10/2026,6800,30.0,Transferencia,4.0,Entregado,Brasas del Sur,Saludable,Ñuñoa,2025-07-12,Maipú,Estándar
+458,228,25,07-05-2026,$11.200,41.0,Tarjeta,5.0,Entregado,Tacos y Punto,Saludable,Providencia,17/09/2026,Santiago,Premium
+999,165,12,07-05-2026,7700,21.0,Efectivo,4.0,Entregado,Parrilla Andina,Comida rápida,,2025-10-25,Las Condes,Estándar
+1141,187,12,07-06-2026,8600,16.0,Tarjeta,5.0,Entregado,Parrilla Andina,Comida rápida,,12-04-2026,Las Condes,Premium
+394,16,22,07-06-2026,9300,12.0,Transferencia,5.0,Entregado,  Ramen Ya  ,Asiática,Maipú,2025-06-28,Ñuñoa,Premium
+14,110,8,07-08-2026,12000,24.0,Tajeta,4.0,ENTREGADO,Fit & Rico,Asiática,,2025-05-16,Ñuñoa,Premium
+320,211,25,07-08-2026,10500,,Efectivo,5.0,Entregado,Tacos y Punto,Saludable,Providencia,2025-06-13,Santiago,Estándar
+319,235,10,07-08-2026,8300,20.0,Tarjeta,4.0,Entregado,Wok Express,Saludable,Ñuñoa,2025-11-12,La Florida,Premium
+838,134,25,07-08-2026,14200,36.0,Tarjeta,5.0,Entregado,Tacos y Punto,Saludable,Providencia,13/01/2026,Santiago,Estándar
+319,235,10,07-08-2026,8300,20.0,Tarjeta,4.0,Entregado,Wok Express,Saludable,Ñuñoa,2025-11-12,La Florida,Premium
+150,157,23,07-09-2026,13400,26.0,Efectivo,5.0,Entregado,La Baguette,Italiana,Santiago,10/09/2024,La Florida,Estándar
+1268,104,17,07-09-2026,12800,35.0,Efectivo,,Cancelado,Noodle House,Italiana,Santiago,2025-12-22,Las Condes,Premium
+150,157,23,07-09-2026,13400,26.0,Efectivo,5.0,Entregado,La Baguette,Italiana,Santiago,10/09/2024,La Florida,Estándar
+1318,15,14,07-10-2026,16500,34.0,Efectivo,,Cancelado,Panadería del Sol, Italiana ,Ñuñoa,2025-06-06,Providencia,Premium
+907,39,5,07-10-2026,8100 CLP,36.0,Tarjeta,3.0,Entregado,  Dragón Dorado  ,Asiática,Ñuñoa,22-10-2024,Maipú,Premium
+305,229,1,07/05/2026,6100,24.0,TARJETA,5.0,Entregado,  Sabores del Barrio  ,COMIDA RÁPIDA,Providencia,2025-06-14,Providencia,Premium
+149,56,22,07/05/2026,16800,22.0,Tarjeta,5.0,Entregado,  Ramen Ya  ,Asiática,Maipú,2025-01-24,La Florida,Estándar
+278,116,3,07/05/2026,9000,29.0,Tarjeta,,Entregado,Verde Bowl,Comida rápida,Las Condes,02/07/2025,Providencia,Estándar
+776,266,12,07/06/2026,6100,37.0,Efectivo,,Entregado,Parrilla Andina,Comida rápida,,2024-10-30,Las Condes,Estándar
+699,105,2,07/06/2026,9900,39.0,Transferencia,4.0,Entregado,La Esquina Criolla,Saludable,Santiago,2026-04-16,Las Condes,Estándar
+444,192,22,07/06/2026,12800,30.0,Tarjeta,5.0,Entregado,  Ramen Ya  ,Asiática,Maipú,07-09-2025,Las Condes,Premium
+1481,138,30,07/07/2026,7700,24.0,Tajeta,5.0,entregado,Dulce Esquina,Postres y café,La Florida,2026-05-11,Las Condes,Estándar
+257,44,7,07/08/2026,12800,38.0,Tarjeta,5.0,Entregado,El Buen Sazón,Comida rápida,La Florida,2025-07-20,Providencia,Estándar
+358,291,27,07/09/2026,7900,40.0,Tarjeta,5.0,entregado,  Café Central  ,Saludable,La Florida,23-12-2025,Santiago,Estándar
+1450,285,30,07/09/2026,8700,32.0,Efectivo,3.0,Entregado,Dulce Esquina,Postres y café,La Florida,20/03/2026,Providencia,Estándar
+844,92,25,07/09/2026,8800,45.0,TARJETA,4.0,Entregado,Tacos y Punto,Saludable,Providencia,2024-12-10,Providencia,
+1361,66,19,07/10/2026,7300,32.0,Tarjeta,,Entregado,Churros & Más,Comida rápida,Santiago,2026-05-30,Maipú,Premium
+920,105,19,07/10/2026,9800,20.0,Transferencia,4.0,entregado,Churros & Más,Comida rápida,Santiago,2026-04-16,Las Condes,Estándar
+104,112,27,08-05-2026,9900,24.0,Tarjeta,5.0,Entregado,  Café Central  ,Saludable,La Florida,2025-03-11,Providencia,
+16,9,24,08-05-2026,11700,36.0,Tarjeta,4.0,Entregado,Pollo al Carbón,Asiatica,,2025-03-30,Providencia,Estándar
+1415,11,29,08-06-2026,9700,36.0,tarjeta,,Cancelado,Mar y Tierra,Saludable,Ñuñoa,31/08/2026,Ñuñoa,Estándar
+101,48,11,08-06-2026,10400,13.0,Tarjeta,5.0,Entregado,Dulce Tentación,Italiana,Providencia,23/07/2024,Santiago,Estándar
+764,270,1,08-06-2026,$6.100,26.0,TARJETA,5.0,Entregado,  Sabores del Barrio  ,COMIDA RÁPIDA,Providencia,2025-02-20,Providencia,Premium
+702,18,27,08-07-2026,9300,32.0,Tarjeta,,Entregado,  Café Central  ,Saludable,La Florida,2024-09-07,Las Condes,Estándar
+517,278,24,08-08-2026,16600,41.0,Efectivo,4.0,Entregado,Pollo al Carbón,Asiatica,,07-01-2026,Santiago,Estándar
+598,28,22,08-08-2026,14000,40.0,Tarjeta,5.0,Entregado,  Ramen Ya  ,Asiática,Maipú,2026-08-20,maipú,Premium
+363,8,12,08-09-2026,7800,27.0,Transferencia,5.0,Entregado,Parrilla Andina,Comida rápida,,2024-11-10,LA FLORIDA,Estándar
+841,222,1,08-10-2026,10200,29.0,Tarjeta,5.0,Entregado,  Sabores del Barrio  ,COMIDA RÁPIDA,Providencia,2026-03-01,Providencia,Premium
+893,217,2,08/05/2026,13200,24.0,Efectivo,,Cancelado,La Esquina Criolla,Saludable,Santiago,2026-07-21,La Florida,Estándar
+961,167,21,08/06/2026,14500,35.0,Efectivo,,Cancelado,Ensalada Fresca, Saludable ,Santiago,2026-05-20,Santiago,Estándar
+75,152,17,08/06/2026,15100,29.0,Efectivo,5.0,Entregado,Noodle House,Italiana,Santiago,25-06-2026,Providencia,Estándar
+234,265,14,08/07/2026,14000,24.0,Tarjeta,4.0,Entregado,Panadería del Sol, Italiana ,Ñuñoa,2024-12-17,Las Condes,Estándar
+288,87,4,08/07/2026,9500,25.0,Efectivo,3.0,entregado,Pasta Nostra,Asiatica,Santiago,2024-11-17,Ñuñoa,Premium
+1349,24,11,08/08/2026,11300,,Efectivo,3.0,Entregado,Dulce Tentación,Italiana,Providencia,03/05/2026,SANTIAGO,Estándar
+1349,24,11,08/08/2026,11300,,Efectivo,3.0,Entregado,Dulce Tentación,Italiana,Providencia,03/05/2026,SANTIAGO,Estándar
+188,98,24,08/10/2026,$10.100,31.0,Tarjeta,5.0,Entregado,Pollo al Carbón,Asiatica,,2025-08-16,Providencia,Estándar
+1053,125,24,09-05-2026,$12.500,24.0,Tarjeta,4.0,Entregado,Pollo al Carbón,Asiatica,,2026-07-15,La Florida,Premium
+1303,284,9,09-05-2026,16500,46.0,Tarjeta,4.0,Entregado,Pizza Nonna,ITALIANA,La Florida,2025-06-15,La Florida,Estándar
+238,105,9,09-06-2026,17500,25.0,Tarjeta,,CANCELADO,Pizza Nonna,ITALIANA,La Florida,2026-04-16,Las Condes,Estándar
+66,234,27,09-08-2026,$8.800,-5.0,Tarjeta,,Cancelado,  Café Central  ,Saludable,La Florida,2025-05-24,ÑUÑOA,Estándar
+561,267,11,09-08-2026,$11.600,21.0,Efectivo,4.0,Entregado,Dulce Tentación,Italiana,Providencia,07-09-2026,providencia,Estándar
+1261,278,26,09-08-2026,11900,26.0,Efectivo,,Cancelado,Green House,Saludable,Ñuñoa,07-01-2026,Santiago,Estándar
+66,234,27,09-08-2026,$8.800,-5.0,Tarjeta,,Cancelado,  Café Central  ,Saludable,La Florida,2025-05-24,ÑUÑOA,Estándar
+1150,10,29,09-09-2026,11400,19.0,Tarjeta,5.0,Entregado,Mar y Tierra,Saludable,Ñuñoa,2025-05-15,Santiago,Estándar
+321,136,8,09-10-2026,13100,45.0,Tarjeta,2.0,Entregado,Fit & Rico,Asiática,,20-09-2024,  Providencia  ,Premium
+347,193,20,09/05/2026,14600,26.0,Efectivo,4.0,Entregado,Brasas del Sur,Saludable,Ñuñoa,09-05-2026,La Florida,Estándar
+1458,287,26,09/05/2026,10800,44.0,Tarjeta,3.0,Entregado,Green House,Saludable,Ñuñoa,23-03-2025,Maipú,Estándar
+1458,287,26,09/05/2026,10800,44.0,Tarjeta,3.0,Entregado,Green House,Saludable,Ñuñoa,23-03-2025,Maipú,Estándar
+243,168,18,09/05/2026,10900,40.0,Tarjeta,4.0,Entregado,El Rincón Light,Saludable,Santiago,2026-03-12,santiago,Estándar
+371,48,24,09/06/2026,15500,30.0,Tarjeta,4.0,Entregado,Pollo al Carbón,Asiatica,,23/07/2024,Santiago,Estándar
+1454,258,16,09/06/2026,$12.500,32.0,Tarjeta,,Entregado,  Trattoria Roma  ,ASIÁTICA,Maipú,26-04-2026,Santiago,Estándar
+836,131,24,09/07/2026,7500,35.0,Tarjeta,3.0,entregado,Pollo al Carbón,Asiatica,,2026-09-11,Providencia,Premium
+409,178,1,09/07/2026,9300,31.0,Efectivo,5.0,Entregado,  Sabores del Barrio  ,COMIDA RÁPIDA,Providencia,2025-03-06,Providencia,Estándar
+1263,292,26,09/07/2026,14800,45.0,Tarjeta,4.0,Entregado,Green House,Saludable,Ñuñoa,20-04-2026,Maipú,Estándar
+820,65,4,09/08/2026,9200,29.0,Transferencia,4.0,Entregado,Pasta Nostra,Asiatica,Santiago,2026-08-28,Maipú,Estándar
+76,255,4,09/09/2026,7600,36.0,TRANSFERENCIA,5.0,Entregado,Pasta Nostra,Asiatica,Santiago,25/10/2024,Providencia,Estándar
+1245,128,21,09/09/2026,7300,48.0,Tarjeta,3.0,Entregado,Ensalada Fresca, Saludable ,Santiago,2025-03-01,las condes,Premium
+128,106,22,09/10/2026,10400,35.0,Tarjeta,4.0,Entregado,  Ramen Ya  ,Asiática,Maipú,2024-07-14,La Florida,Estándar
+911,119,10,09/10/2026,$8.800,24.0,Tarjeta,4.0,Entregado,Wok Express,Saludable,Ñuñoa,2026-01-04,SANTIAGO,
+1498,52,1,09/10/2026,10100,26.0,Tarjeta ,4.0,Entregado,  Sabores del Barrio  ,COMIDA RÁPIDA,Providencia,09-04-2026,Maipú,Estándar
+775,68,9,10-05-2026,9900,23.0,Tarjeta,4.0,Entregado,Pizza Nonna,ITALIANA,La Florida,2026-01-26,Las Condes,Estándar
+1176,16,23,10-05-2026,9600,36.0,TARJETA,5.0,Entregado,La Baguette,Italiana,Santiago,2025-06-28,Ñuñoa,Premium
+322,290,4,10-06-2026,7500,38.0,Tarjeta,5.0,Entregado,Pasta Nostra,Asiatica,Santiago,25/04/2026,Las Condes,Estándar
+1010,293,21,10-06-2026,13700,31.0,Tarjeta,5.0,Entregado,Ensalada Fresca, Saludable ,Santiago,2024-08-04,La Florida,Estándar
+971,93,26,10-07-2026,8500,31.0,Tarjeta,5.0,Entregado,Green House,Saludable,Ñuñoa,2025-04-07,MAIPÚ,Estándar
+1267,55,17,10-07-2026,9100,43.0,Efectivo,5.0,Entregado,Noodle House,Italiana,Santiago,2026-05-08,  Santiago  ,Premium
+825,144,16,10-08-2026,8800,18.0,Tarjeta,5.0,Entregado,  Trattoria Roma  ,ASIÁTICA,Maipú,08/12/2025,Ñuñoa,Estándar
+361,222,24,10-08-2026,16700,52.0,Tarjeta,4.0,Entregado,Pollo al Carbón,Asiatica,,2026-03-01,Providencia,Premium
+872,171,22,10-09-2026,10700,53.0,Efectivo,5.0,Entregado,  Ramen Ya  ,Asiática,Maipú,2025-01-03,Santiago,Estándar
+367,217,30,10-09-2026,4900,22.0,Transferencia,4.0,Entregado,Dulce Esquina,Postres y café,La Florida,2026-07-21,La Florida,Estándar
+1427,200,11,10-09-2026,16600,41.0,Efectivo,4.0,Entregado,Dulce Tentación,Italiana,Providencia,02-06-2026,Santiago,Premium
+614,169,11,10-10-2026,16500,19.0,Efectivo,,Entregado,Dulce Tentación,Italiana,Providencia,07-04-2025,Santiago,Estándar
+213,185,26,10-10-2026,11100,29.0,Transferencia,5.0,Entregado,Green House,Saludable,Ñuñoa,15-11-2025,ÑUÑOA,Estándar
+537,9,13,10-10-2026,10100,23.0,Transferencia,4.0,Entregado,Sushi Mar,Asiática,Las Condes,2025-03-30,Providencia,Estándar
+873,12,18,10-10-2026,$10.500,35.0,Tarjeta,5.0,Entregado,El Rincón Light,Saludable,Santiago,2025-05-19,  Santiago  ,Estándar
+1239,213,9,10/05/2026,9900,30.0,Tarjeta,5.0,Entregado,Pizza Nonna,ITALIANA,La Florida,2026-01-14,Las Condes,Estándar
+804,253,29,10/05/2026,13400,0.0,Tarjeta,4.0,Entregado,Mar y Tierra,Saludable,Ñuñoa,2026-02-20,  Ñuñoa  ,Estándar
+914,261,2,10/06/2026,13100,31.0,Tarjeta,4.0,Entregado,La Esquina Criolla,Saludable,Santiago,2026-03-06,Santiago,Premium
+1238,245,26,10/06/2026,13800,22.0,Efectivo,5.0,Entregado,Green House,Saludable,Ñuñoa,2025-02-13,Las Condes,Estándar
+538,112,22,10/06/2026,8500,33.0,Efectivo,5.0,Entregado,  Ramen Ya  ,Asiática,Maipú,2025-03-11,Providencia,
+455,290,14,10/07/2026,15300,28.0,Tarjeta,4.0,Entregado,Panadería del Sol, Italiana ,Ñuñoa,25/04/2026,Las Condes,Estándar
+381,113,18,10/07/2026,15200,28.0,Efectivo,4.0,Entregado,El Rincón Light,Saludable,Santiago,25-02-2026,La Florida,Premium
+1084,286,1,10/08/2026,13400,36.0,Transferencia,4.0,entregado,  Sabores del Barrio  ,COMIDA RÁPIDA,Providencia,2025-07-15,La Florida,
+661,128,22,10/08/2026,9700,25.0,Transferencia,5.0, Entregado,  Ramen Ya  ,Asiática,Maipú,2025-03-01,las condes,Premium
+434,295,8,10/09/2026,14600,22.0,Tarjeta,4.0,ENTREGADO,Fit & Rico,Asiática,,06/08/2024,las condes,Estándar
+1107,72,10,11-05-2026,12800,26.0,Tarjeta,,Cancelado,Wok Express,Saludable,Ñuñoa,2025-10-28,Ñuñoa,Estándar
+460,62,19,11-06-2026,12000,12.0,Efectivo,,Entregado,Churros & Más,Comida rápida,Santiago,2025-05-16,La Florida,Premium
+748,238,8,11-06-2026,13200,25.0,Efectivo,4.0,Entregado,Fit & Rico,Asiática,,2026-04-28,Santiago,Estándar
+272,142,5,11-06-2026,15800,41.0,Transferencia,4.0,Entregado,  Dragón Dorado  ,Asiática,Ñuñoa,24/08/2025,Providencia,Estándar
+1413,249,18,11-06-2026,9000,25.0,Efectivo,3.0,entregado,El Rincón Light,Saludable,Santiago,12/04/2025,Ñuñoa,Estándar
+668,13,14,11-06-2026,9700,22.0,Tarjeta,4.0,entregado,Panadería del Sol, Italiana ,Ñuñoa,2026-01-18,Santiago,Estándar
+1407,143,27,11-08-2026,12100 CLP,31.0,Tarjeta,5.0,Entregado,  Café Central  ,Saludable,La Florida,08-11-2024,Ñuñoa,
+715,171,23,11-08-2026,11200,44.0,Transferencia,4.0,Entregado,La Baguette,Italiana,Santiago,2025-01-03,Santiago,Estándar
+467,14,30,11-08-2026,7000 CLP,29.0,Tarjeta,,Entregado,Dulce Esquina,Postres y café,La Florida,2026-04-28,Santiago,Premium
+1328,246,21,11-08-2026,8800,39.0,Tarjeta,,Entregado,Ensalada Fresca, Saludable ,Santiago,2025-01-14,Providencia,Estándar
+452,297,11,11-09-2026,15200 CLP,30.0,Tarjeta,3.0,Entregado,Dulce Tentación,Italiana,Providencia,20/09/2024,  Ñuñoa  ,
+1313,225,15,11-09-2026,15100,31.0,TARJETA,,Entregado,Veggie Life,saludable,Las Condes,2025-04-30,maipú,Premium
+1313,225,15,11-09-2026,15100,31.0,TARJETA,,Entregado,Veggie Life,saludable,Las Condes,2025-04-30,maipú,Premium
+116,75,8,11/05/2026,16100,17.0,Tarjeta ,5.0,Entregado,Fit & Rico,Asiática,,07-11-2025,Providencia,Premium
+624,79,30,11/05/2026,7400,,Tarjeta,2.0,Entregado,Dulce Esquina,Postres y café,La Florida,20-07-2024,Las Condes,
+169,280,2,11/06/2026,13200,31.0,Efectivo,4.0,Entregado,La Esquina Criolla,Saludable,Santiago,04/08/2024,La Florida,Premium
+1363,154,15,11/08/2026,10500,31.0,Transferencia,4.0,Entregado,Veggie Life,saludable,Las Condes,2025-07-31,  La Florida  ,Premium
+486,215,7,11/08/2026,6100,40.0,Transferencia,4.0,Entregado,El Buen Sazón,Comida rápida,La Florida,2025-12-02,Providencia,Estándar
+1005,130,18,11/10/2026,6900,,Tarjeta,3.0,Entregado,El Rincón Light,Saludable,Santiago,2026-03-29,Santiago,Estándar
+338,120,24,12-05-2026,13700,29.0,Tarjeta,4.0,ENTREGADO,Pollo al Carbón,Asiatica,,29-04-2025,Providencia,Estándar
+253,58,10,12-05-2026,12400,32.0,Tarjeta,5.0,Entregado,Wok Express,Saludable,Ñuñoa,2024-08-07,Santiago,Estándar
+712,274,20,12-05-2026,13400,38.0,Efectivo,4.0,Entregado,Brasas del Sur,Saludable,Ñuñoa,2025-04-11,Santiago,Premium
+834,215,27,12-05-2026,13000,30.0,Tarjeta,,Cancelado,  Café Central  ,Saludable,La Florida,2025-12-02,Providencia,Estándar
+436,15,21,12-06-2026,14300,22.0,Tarjeta,4.0,Entregado,Ensalada Fresca, Saludable ,Santiago,2025-06-06,Providencia,Premium
+632,233,22,12-06-2026,10300,32.0,EFECTIVO,4.0,Entregado,  Ramen Ya  ,Asiática,Maipú,2025-05-18,Las Condes,Estándar
+744,5,10,12-06-2026,7700,27.0,Tarjeta,4.0,Entregado,Wok Express,Saludable,Ñuñoa,2026-09-06,Ñuñoa,Estándar
+816,70,8,12-06-2026,8400 CLP,24.0,Transferencia,4.0,Entregado,Fit & Rico,Asiática,,2024-10-19,La Florida,Premium
+1,90,23,12-06-2026,10700 CLP,25.0,Tarjeta,5.0,Entregado,La Baguette,Italiana,Santiago,06-02-2026,santiago,Estándar
+1492,12,19,12-07-2026,11600,35.0,Efectivo ,4.0,Entregado,Churros & Más,Comida rápida,Santiago,2025-05-19,  Santiago  ,Estándar
+1284,109,14,12-07-2026,9600,32.0,transferencia,5.0,Entregado,Panadería del Sol, Italiana ,Ñuñoa,19-07-2024,Santiago,Estándar
+690,19,28,12-09-2026,10700,13.0,Transferencia,4.0,Entregado,  Pasta & Co  ,Saludable,Santiago,13-03-2025,La Florida,Estándar
+553,230,14,12-09-2026,10600,52.0,Tarjeta,5.0,Entregado,Panadería del Sol, Italiana ,Ñuñoa,15/11/2025,SANTIAGO,Estándar
+1289,114,29,12-09-2026,10900 CLP,25.0,Tarjeta,4.0,Entregado,Mar y Tierra,Saludable,Ñuñoa,13/09/2024,Santiago,Premium
+866,287,25,12-09-2026,7100 CLP,40.0,Efectivo,5.0,Entregado,Tacos y Punto,Saludable,Providencia,23-03-2025,Maipú,Estándar
+866,287,25,12-09-2026,7100 CLP,40.0,Efectivo,5.0,Entregado,Tacos y Punto,Saludable,Providencia,23-03-2025,Maipú,Estándar
+756,150,16,12-10-2026,7500 CLP,33.0,Tarjeta,4.0,Entregado,  Trattoria Roma  ,ASIÁTICA,Maipú,21-02-2025,La Florida,Estándar
+1074,148,5,12-10-2026,7400,31.0,Tarjeta,4.0,Entregado,  Dragón Dorado  ,Asiática,Ñuñoa,2026-06-10,Santiago,Estándar
+1155,268,3,12/06/2026,8400,21.0,Efectivo,4.0,Entregado,Verde Bowl,Comida rápida,Las Condes,2026-09-23,Ñuñoa,Estándar
+1203,221,18,12/06/2026,11800,42.0,Tajeta,5.0,Entregado,El Rincón Light,Saludable,Santiago,2026-05-01,Santiago,
+910,227,2,12/09/2026,10000,21.0,Transferencia,4.0,Entregado,La Esquina Criolla,Saludable,Santiago,27-06-2025,Providencia,Estándar
+60,239,4,12/09/2026,14600,41.0,Efectivo,4.0,Entregado,Pasta Nostra,Asiatica,Santiago,24/04/2026,  Santiago  ,Estándar
+415,164,12,12/10/2026,9800,31.0,Efectivo,4.0,Entregado,Parrilla Andina,Comida rápida,,05-06-2026,Maipú,Estándar
+544,269,3,12/10/2026,9100,33.0,Efectivo,5.0,Entregado,Verde Bowl,Comida rápida,Las Condes,2024-07-21,Providencia,Premium
+314,125,1,13-05-2026,10300,33.0,Efectivo,4.0,ENTREGADO,  Sabores del Barrio  ,COMIDA RÁPIDA,Providencia,2026-07-15,La Florida,Premium
+193,268,18,13-06-2026,13600,,Tarjeta,4.0,Entregado,El Rincón Light,Saludable,Santiago,2026-09-23,Ñuñoa,Estándar
+186,200,10,13-07-2026,8600,23.0,Tarjeta,3.0, Entregado,Wok Express,Saludable,Ñuñoa,02-06-2026,Santiago,Premium
+18,223,27,13-07-2026,$9.200,30.0,Tarjeta,,cancelado,  Café Central  ,Saludable,La Florida,2024-11-21,Ñuñoa,Estándar
+585,112,15,13-07-2026,12200,,Transferencia,4.0,Entregado,Veggie Life,saludable,Las Condes,2025-03-11,Providencia,
+483,33,29,13-08-2026,8700,39.0,Tarjeta,3.0,Entregado,Mar y Tierra,Saludable,Ñuñoa,2025-08-11,La Florida,Estándar
+511,218,5,13-08-2026,11900,28.0,Tarjeta,4.0,Entregado,  Dragón Dorado  ,Asiática,Ñuñoa,2024-10-16,La Florida,Estándar
+388,197,1,13-09-2026,12500,32.0,Efectivo,4.0,Entregado,  Sabores del Barrio  ,COMIDA RÁPIDA,Providencia,2025-09-02,Maipú,Estándar
+1121,30,1,13-10-2026,$6.600,29.0,Tarjeta,5.0,Entregado,  Sabores del Barrio  ,COMIDA RÁPIDA,Providencia,2026-03-15,Providencia,Premium
+734,142,19,13-10-2026,6200,33.0,Efectivo,4.0,Entregado,Churros & Más,Comida rápida,Santiago,24/08/2025,Providencia,Estándar
+463,62,24,13-10-2026,15900,42.0,Tarjeta,,Entregado,Pollo al Carbón,Asiatica,,2025-05-16,La Florida,Premium
+125,30,28,13/05/2026,12600,39.0,Tarjeta,5.0,Entregado,  Pasta & Co  ,Saludable,Santiago,2026-03-15,Providencia,Premium
+806,242,1,13/06/2026,8800,15.0,Transferencia,3.0,Entregado,  Sabores del Barrio  ,COMIDA RÁPIDA,Providencia,2025-05-07,Ñuñoa,Premium
+1276,194,10,13/07/2026,8600,,Tarjeta,5.0,Entregado,Wok Express,Saludable,Ñuñoa,04-12-2025,La Florida,Premium
+7,174,22,13/07/2026,11900,28.0,Tarjeta,3.0,Entregado,  Ramen Ya  ,Asiática,Maipú,2026-07-24,Santiago,Estándar
+1276,194,10,13/07/2026,8600,,Tarjeta,5.0,Entregado,Wok Express,Saludable,Ñuñoa,04-12-2025,La Florida,Premium
+1226,99,8,13/08/2026,13100,21.0,tarjeta,,Cancelado,Fit & Rico,Asiática,,2024-08-17,Santiago,Estándar
+611,50,27,13/08/2026,9200,26.0,Tarjeta,4.0,Entregado,  Café Central  ,Saludable,La Florida,05-05-2025,Santiago,Premium
+1201,221,7,13/08/2026,10200 CLP,43.0,Tarjeta,5.0,entregado,El Buen Sazón,Comida rápida,La Florida,2026-05-01,Santiago,
+729,158,25,13/09/2026,14000,37.0,Efectivo,4.0,Entregado,Tacos y Punto,Saludable,Providencia,2026-06-27,Maipú,Estándar
+1368,34,6,13/10/2026,12900,38.0,Tarjeta,5.0,Entregado,Café Luna,Asiatica,Santiago,2026-01-08,Las Condes,Estándar
+200,29,5,14-05-2026,9700,21.0,Transferencia,4.0,Entregado,  Dragón Dorado  ,Asiática,Ñuñoa,03-11-2024,la florida,Estándar
+91,7,20,14-06-2026,11700,22.0,Efectivo,4.0,Entregado,Brasas del Sur,Saludable,Ñuñoa,2024-10-25,Maipú,Estándar
+1020,106,15,14-06-2026,7300,45.0,Tarjeta,5.0,Entregado,Veggie Life,saludable,Las Condes,2024-07-14,La Florida,Estándar
+161,27,21,14-07-2026,9600,48.0,Tarjeta,5.0, Entregado,Ensalada Fresca, Saludable ,Santiago,2026-09-27,Ñuñoa,Estándar
+1434,85,16,14-07-2026,7400,32.0,Efectivo,5.0,Entregado,  Trattoria Roma  ,ASIÁTICA,Maipú,2025-04-17,Las Condes,Premium
+1311,116,17,14-07-2026,15900,29.0,Efectivo,5.0,Entregado,Noodle House,Italiana,Santiago,02/07/2025,Providencia,Estándar
+1376,186,23,14-07-2026,12800,47.0,efectivo,4.0,Entregado,La Baguette,Italiana,Santiago,2026-05-22,Santiago,Estándar
+478,285,22,14-08-2026,16000,35.0,Tarjeta,5.0,Entregado,  Ramen Ya  ,Asiática,Maipú,20/03/2026,Providencia,Estándar
+471,149,28,14-08-2026,8200,41.0,Tarjeta,4.0,ENTREGADO,  Pasta & Co  ,Saludable,Santiago,2026-02-11,Santiago,Premium
+1473,288,22,14/05/2026,15800,29.0,Efectivo,3.0,Entregado,  Ramen Ya  ,Asiática,Maipú,12/07/2026,Providencia,Estándar
+48,169,19,14/05/2026,10700,34.0,Efectivo,4.0,Entregado,Churros & Más,Comida rápida,Santiago,07-04-2025,Santiago,Estándar
+1274,232,27,14/05/2026,7200,24.0,Tarjeta,5.0,Entregado,  Café Central  ,Saludable,La Florida,2025-02-08,La Florida,Estándar
+280,160,28,14/05/2026,7500,23.0,tarjeta,4.0,Entregado,  Pasta & Co  ,Saludable,Santiago,2025-11-16,Providencia,Estándar
+209,144,8,14/05/2026,11600,44.0,Transferencia,5.0,Entregado,Fit & Rico,Asiática,,08/12/2025,Ñuñoa,Estándar
+211,84,19,14/06/2026,7800,,efectivo,,Entregado,Churros & Más,Comida rápida,Santiago,31/01/2026,Providencia,Estándar
+1291,201,9,14/07/2026,15900,46.0,Tarjeta,5.0,Entregado,Pizza Nonna,ITALIANA,La Florida,2025-12-23,Santiago,Estándar
+189,115,3,14/08/2026,12100,12.0,Tarjeta,5.0,Entregado,Verde Bowl,Comida rápida,Las Condes,2025-06-08,Santiago,Premium
+249,244,4,14/08/2026,10600,31.0,Efectivo,5.0, Entregado,Pasta Nostra,Asiatica,Santiago,2026-06-19,Santiago,Estándar
+1403,127,26,14/09/2026,14000,34.0,Tarjeta,5.0,Entregado,Green House,Saludable,Ñuñoa,2024-10-08,Ñuñoa,Estándar
+977,119,29,14/10/2026,7200,26.0,Efectivo ,5.0,Entregado,Mar y Tierra,Saludable,Ñuñoa,2026-01-04,SANTIAGO,
+63,300,6,14/10/2026,12100,44.0,Efectivo,5.0,ENTREGADO,Café Luna,Asiatica,Santiago,23-09-2024,Santiago,Estándar
+796,76,2,14/10/2026,13500,48.0,Tarjeta,3.0,Entregado,La Esquina Criolla,Saludable,Santiago,2025-03-18,Ñuñoa,Estándar
+1426,18,1,14/10/2026,$11.400,39.0,Tarjeta,4.0,Entregado,  Sabores del Barrio  ,COMIDA RÁPIDA,Providencia,2024-09-07,Las Condes,Estándar
+886,73,7,15-05-2026,6100,45.0,Tarjeta,,Cancelado,El Buen Sazón,Comida rápida,La Florida,28/09/2026,Ñuñoa,Premium
+955,106,1,15-06-2026,6600,20.0,Efectivo,,Cancelado,  Sabores del Barrio  ,COMIDA RÁPIDA,Providencia,2024-07-14,La Florida,Estándar
+15,169,26,15-06-2026,10800 CLP,30.0,Transferencia,4.0,Entregado,Green House,Saludable,Ñuñoa,07-04-2025,Santiago,Estándar
+1154,73,27,15-06-2026,7600,32.0,Efectivo,3.0,entregado,  Café Central  ,Saludable,La Florida,28/09/2026,Ñuñoa,Premium
+1466,179,21,15-06-2026,7000,60.0,Transferencia,4.0,Entregado,Ensalada Fresca, Saludable ,Santiago,2025-03-05,La Florida,Estándar
+173,264,6,15-06-2026,$14.700,,Transferencia,4.0,entregado,Café Luna,Asiatica,Santiago,2024-12-12,Santiago,Premium
+1086,146,26,15-06-2026,12100,39.0,Transferencia,4.0,Entregado,Green House,Saludable,Ñuñoa,21/05/2025,La Florida,Estándar
+810,31,19,15-06-2026,8200,25.0,Efectivo,4.0,Entregado,Churros & Más,Comida rápida,Santiago,2026-06-25,La Florida,Premium
+379,279,15,15-07-2026,9700,48.0,Tarjeta,,Entregado,Veggie Life,saludable,Las Condes,06-07-2025,Santiago,Estándar
+1132,177,2,15-08-2026,$12.200,32.0,Transferencia,4.0,Entregado,La Esquina Criolla,Saludable,Santiago,2025-03-08,Las Condes,Premium
+684,155,2,15-09-2026,13000,35.0,Tarjeta,,Entregado,La Esquina Criolla,Saludable,Santiago,03/09/2026,Santiago,Premium
+299,179,19,15-09-2026,7400,41.0,Efectivo,4.0,Entregado,Churros & Más,Comida rápida,Santiago,2025-03-05,La Florida,Estándar
+302,50,11,15-09-2026,15900,24.0,Tarjeta,3.0,Entregado,Dulce Tentación,Italiana,Providencia,05-05-2025,Santiago,Premium
+1196,73,5,15-10-2026,12500,38.0,tarjeta,3.0,Entregado,  Dragón Dorado  ,Asiática,Ñuñoa,28/09/2026,Ñuñoa,Premium
+1152,270,10,15-10-2026,14200,23.0,Tarjeta,3.0,Entregado,Wok Express,Saludable,Ñuñoa,2025-02-20,Providencia,Premium
+698,209,27,15-10-2026,10100,30.0,Tarjeta,5.0,Entregado,  Café Central  ,Saludable,La Florida,31-08-2024,maipú,
+1173,288,30,15-10-2026,7700,33.0,Efectivo,5.0,Entregado,Dulce Esquina,Postres y café,La Florida,12/07/2026,Providencia,Estándar
+439,22,24,15-10-2026,10500 CLP,29.0,Tarjeta,4.0,Entregado,Pollo al Carbón,Asiatica,,25-07-2025,Maipú,Estándar
+376,76,12,15-10-2026,9500,46.0,Tarjeta,5.0,Entregado,Parrilla Andina,Comida rápida,,2025-03-18,Ñuñoa,Estándar
+864,292,16,15/05/2026,13100 CLP,28.0,Tarjeta,4.0,Entregado,  Trattoria Roma  ,ASIÁTICA,Maipú,20-04-2026,Maipú,Estándar
+1462,154,23,15/05/2026,$8.900,40.0,Transferencia,4.0,Entregado,La Baguette,Italiana,Santiago,2025-07-31,  La Florida  ,Premium
+1300,137,21,15/05/2026,14600,19.0,Tarjeta,,Cancelado,Ensalada Fresca, Saludable ,Santiago,02-07-2026,Maipú,Estándar
+359,222,19,15/05/2026,8300,32.0,Tarjeta,,Entregado,Churros & Más,Comida rápida,Santiago,2026-03-01,Providencia,Premium
+33,130,7,15/07/2026,9500,33.0,Transferencia,,Cancelado,El Buen Sazón,Comida rápida,La Florida,2026-03-29,Santiago,Estándar
+1385,66,14,15/07/2026,8700,39.0,Tarjeta,,Cancelado,Panadería del Sol, Italiana ,Ñuñoa,2026-05-30,Maipú,Premium
+843,117,21,15/07/2026,7200,500.0,Transferencia,3.0,Entregado,Ensalada Fresca, Saludable ,Santiago,2025-04-21,Santiago,Estándar
+21,277,8,15/07/2026,7900,34.0,Transferencia,3.0,Entregado,Fit & Rico,Asiática,,2024-07-04,Las Condes,Estándar
+54,237,10,15/08/2026,13200,40.0,Tarjeta,5.0,Entregado,Wok Express,Saludable,Ñuñoa,2024-10-28,Las Condes,Estándar
+582,221,30,15/08/2026,4800,30.0,Tarjeta,3.0,Entregado,Dulce Esquina,Postres y café,La Florida,2026-05-01,Santiago,
+1229,245,10,15/09/2026,8000,30.0,Tarjeta,4.0,Entregado,Wok Express,Saludable,Ñuñoa,2025-02-13,Las Condes,Estándar
+496,23,21,15/09/2026,8400,34.0,Tarjeta,5.0,Entregado,Ensalada Fresca, Saludable ,Santiago,2025-08-16,Santiago,Estándar
+134,243,12,15/10/2026,12800,19.0,Efectivo,4.0,Entregado,Parrilla Andina,Comida rápida,,2026-01-01,Maipú,
+596,143,6,15/10/2026,10600,30.0,Efectivo ,4.0,Entregado,Café Luna,Asiatica,Santiago,08-11-2024,Ñuñoa,
+686,70,29,16-05-2026,12800,32.0,Transferencia,5.0,Entregado,Mar y Tierra,Saludable,Ñuñoa,2024-10-19,La Florida,Premium
+1081,208,8,16-05-2026,15600,17.0,Tarjeta,5.0,Entregado,Fit & Rico,Asiática,,2026-05-20,Maipú,Estándar
+863,158,22,16-07-2026,15900,31.0,Tarjeta,4.0,Entregado,  Ramen Ya  ,Asiática,Maipú,2026-06-27,Maipú,Estándar
+1320,297,3,16-07-2026,7300,35.0,efectivo,,Entregado,Verde Bowl,Comida rápida,Las Condes,20/09/2024,  Ñuñoa  ,
+1102,40,14,16-07-2026,$13.500,31.0,Tarjeta,5.0,Entregado,Panadería del Sol, Italiana ,Ñuñoa,21/06/2025,Santiago,Estándar
+1227,108,26,16-07-2026,7200,,Efectivo,4.0,Entregado,Green House,Saludable,Ñuñoa,2026-09-29,Santiago,
+543,13,14,16-10-2026,8000,22.0,Tarjeta,4.0,Entregado,Panadería del Sol, Italiana ,Ñuñoa,2026-01-18,Santiago,Estándar
+577,128,25,16/05/2026,14200,28.0,Efectivo,3.0,Entregado,Tacos y Punto,Saludable,Providencia,2025-03-01,las condes,Premium
+1377,98,8,16/05/2026,15300,35.0,Transferencia,4.0,Entregado,Fit & Rico,Asiática,,2025-08-16,Providencia,Estándar
+175,211,22,16/05/2026,11200,43.0,tarjeta,3.0,entregado,  Ramen Ya  ,Asiática,Maipú,2025-06-13,Santiago,Estándar
+983,24,29,16/05/2026,9300,38.0,Transferencia,,Cancelado,Mar y Tierra,Saludable,Ñuñoa,03/05/2026,SANTIAGO,Estándar
+781,300,25,16/06/2026,12900,14.0,transferencia,5.0,Entregado,Tacos y Punto,Saludable,Providencia,23-09-2024,Santiago,Estándar
+1174,275,6,16/06/2026,13800,32.0,Tarjeta,4.0,Entregado,Café Luna,Asiatica,Santiago,06/01/2025,Santiago,Estándar
+1391,208,2,16/06/2026,10800,24.0,Tarjeta,3.0,Entregado,La Esquina Criolla,Saludable,Santiago,2026-05-20,Maipú,Estándar
+1417,48,3,16/08/2026,10400,26.0,Tarjeta,2.0,Entregado,Verde Bowl,Comida rápida,Las Condes,23/07/2024,Santiago,Estándar
+597,132,14,16/09/2026,13700 CLP,40.0,Tarjeta,4.0,Entregado,Panadería del Sol, Italiana ,Ñuñoa,2025-04-19,Santiago,Estándar
+1257,189,3,16/09/2026,13200,31.0,Tarjeta,5.0,Entregado,Verde Bowl,Comida rápida,Las Condes,2025-04-02,Santiago,Estándar
+1270,25,20,16/09/2026,13800,31.0,Efectivo,4.0,Entregado,Brasas del Sur,Saludable,Ñuñoa,2025-08-24,La Florida,Estándar
+1270,25,20,16/09/2026,13800,31.0,Efectivo,4.0,Entregado,Brasas del Sur,Saludable,Ñuñoa,2025-08-24,La Florida,Estándar
+351,62,28,16/10/2026,12800,20.0,Tarjeta,4.0,Entregado,  Pasta & Co  ,Saludable,Santiago,2025-05-16,La Florida,Premium
+1488,197,11,16/10/2026,17000,42.0,Efectivo,2.0,Entregado,Dulce Tentación,Italiana,Providencia,2025-09-02,Maipú,Estándar
+1202,285,17,17-05-2026,10900,27.0,Tarjeta,4.0,Entregado,Noodle House,Italiana,Santiago,20/03/2026,Providencia,Estándar
+378,39,10,17-05-2026,13300,26.0,Transferencia ,5.0,Entregado,Wok Express,Saludable,Ñuñoa,22-10-2024,Maipú,Premium
+732,24,23,17-05-2026,13800,36.0,tarjeta,3.0,Entregado,La Baguette,Italiana,Santiago,03/05/2026,SANTIAGO,Estándar
+724,271,24,17-05-2026,13800,31.0,Efectivo,5.0,Entregado,Pollo al Carbón,Asiatica,,15/04/2025,santiago,Estándar
+1315,166,10,17-05-2026,9200,39.0,Tarjeta,4.0,Entregado,Wok Express,Saludable,Ñuñoa,06/08/2025,Las Condes,Estándar
+656,47,8,17-07-2026,11000,32.0,Transferencia,5.0,Entregado,Fit & Rico,Asiática,,2024-11-25,Ñuñoa,Estándar
+1028,47,13,17-07-2026,7500,31.0,Tarjeta,5.0,Entregado,Sushi Mar,Asiática,Las Condes,2024-11-25,Ñuñoa,Estándar
+1095,278,5,17-07-2026,15900,34.0,Tarjeta,,Entregado,  Dragón Dorado  ,Asiática,Ñuñoa,07-01-2026,Santiago,Estándar
+1181,182,10,17-08-2026,7800,36.0,Tarjeta,5.0,Entregado,Wok Express,Saludable,Ñuñoa,28-09-2024,La Florida,Premium
+1133,241,10,17-08-2026,8800,30.0,Efectivo,4.0,Entregado,Wok Express,Saludable,Ñuñoa,2025-05-09,La Florida,Premium
+121,266,14,17-08-2026,15000,38.0,Transferencia,3.0,Entregado,Panadería del Sol, Italiana ,Ñuñoa,2024-10-30,Las Condes,Estándar
+330,90,4,17-09-2026,11000,19.0,Efectivo,3.0,Entregado,Pasta Nostra,Asiatica,Santiago,06-02-2026,santiago,Estándar
+894,220,14,17-09-2026,8900,35.0,Efectivo,4.0,Entregado,Panadería del Sol, Italiana ,Ñuñoa,2024-10-18,Providencia,Premium
+969,86,23,17-09-2026,10000,48.0,Efectivo,4.0,Entregado,La Baguette,Italiana,Santiago,06/11/2024,Maipú,Estándar
+1043,120,10,17-10-2026,12700,24.0,Efectivo,5.0,Entregado,Wok Express,Saludable,Ñuñoa,29-04-2025,Providencia,Estándar
+23,25,26,17-10-2026,$9.500,17.0,Tarjeta,5.0,Entregado,Green House,Saludable,Ñuñoa,2025-08-24,La Florida,Estándar
+23,25,26,17-10-2026,$9.500,17.0,Tarjeta,5.0,Entregado,Green House,Saludable,Ñuñoa,2025-08-24,La Florida,Estándar
+118,201,17,17/05/2026,10600,34.0,Tarjeta,3.0,Entregado,Noodle House,Italiana,Santiago,2025-12-23,Santiago,Estándar
+49,204,9,17/05/2026,11000,37.0,Tarjeta,,CANCELADO,Pizza Nonna,ITALIANA,La Florida,2026-03-01,Las Condes,Estándar
+839,199,28,17/06/2026,8200,29.0,Transferencia,5.0,Entregado,  Pasta & Co  ,Saludable,Santiago,30-11-2024,Santiago,Estándar
+1018,206,22,17/06/2026,16000,15.0,Tarjeta,,Cancelado,  Ramen Ya  ,Asiática,Maipú,2024-12-30,Ñuñoa,Premium
+448,284,2,17/06/2026,11800,18.0,Transferencia,5.0, Entregado,La Esquina Criolla,Saludable,Santiago,2025-06-15,La Florida,Estándar
+1127,180,22,17/06/2026,$11.300,47.0,Efectivo,,Cancelado,  Ramen Ya  ,Asiática,Maipú,2024-11-07,las condes,Premium
+61,110,19,17/07/2026,11600,40.0,Tarjeta,,Cancelado,Churros & Más,Comida rápida,Santiago,2025-05-16,Ñuñoa,Premium
+851,284,11,17/07/2026,16900,42.0,Transferencia,3.0,Entregado,Dulce Tentación,Italiana,Providencia,2025-06-15,La Florida,Estándar
+932,88,21,17/07/2026,$12.900,28.0,Tarjeta,,Cancelado,Ensalada Fresca, Saludable ,Santiago,05-08-2026,  Ñuñoa  ,Estándar
+884,54,16,17/07/2026,13400,22.0,Tarjeta,5.0,Entregado,  Trattoria Roma  ,ASIÁTICA,Maipú,2025-08-28,PROVIDENCIA,Premium
+1100,215,21,17/07/2026,7000,36.0,Efectivo,5.0,Entregado,Ensalada Fresca, Saludable ,Santiago,2025-12-02,Providencia,Estándar
+932,88,21,17/07/2026,$12.900,28.0,Tarjeta,,Cancelado,Ensalada Fresca, Saludable ,Santiago,05-08-2026,  Ñuñoa  ,Estándar
+1445,51,18,17/07/2026,14600,33.0,efectivo,4.0,ENTREGADO,El Rincón Light,Saludable,Santiago,22-04-2025,Ñuñoa,Estándar
+137,19,22,17/08/2026,8900,28.0,Transferencia,4.0,Entregado,  Ramen Ya  ,Asiática,Maipú,13-03-2025,La Florida,Estándar
+187,62,13,17/09/2026,8900,22.0,Tarjeta,,Cancelado,Sushi Mar,Asiática,Las Condes,2025-05-16,La Florida,Premium
+1004,49,13,17/09/2026,12600,27.0,Tarjeta,,Cancelado,Sushi Mar,Asiática,Las Condes,2025-10-01,Santiago,Estándar
+1204,160,13,17/09/2026,11600,17.0,Transferencia,5.0,Entregado,Sushi Mar,Asiática,Las Condes,2025-11-16,Providencia,Estándar
+1345,295,15,17/10/2026,11300,,tarjeta,,Cancelado,Veggie Life,saludable,Las Condes,06/08/2024,las condes,Estándar
+1296,122,11,17/10/2026,14100,35.0,Tarjeta,3.0,Entregado,Dulce Tentación,Italiana,Providencia,2025-07-10,Santiago,Estándar
+600,260,3,18-05-2026,8100,32.0,Tarjeta,,Cancelado,Verde Bowl,Comida rápida,Las Condes,18-06-2025,Las Condes,Premium
+493,153,22,18-05-2026,15600,42.0,Tarjeta,5.0,Entregado,  Ramen Ya  ,Asiática,Maipú,03-07-2024,Maipú,Estándar
+1364,289,6,18-05-2026,11200,17.0,Efectivo,3.0,Entregado,Café Luna,Asiatica,Santiago,2025-02-10,Santiago,Premium
+848,285,25,18-06-2026,9100,44.0,Transferencia,,Cancelado,Tacos y Punto,Saludable,Providencia,20/03/2026,Providencia,Estándar
+581,233,28,18-06-2026,8600,42.0,Tarjeta,4.0,ENTREGADO,  Pasta & Co  ,Saludable,Santiago,2025-05-18,Las Condes,Estándar
+105,158,14,18-07-2026,9400,26.0,Transferencia,4.0,Entregado,Panadería del Sol, Italiana ,Ñuñoa,2026-06-27,Maipú,Estándar
+4,139,24,18-07-2026,15100,33.0,Tarjeta,3.0,entregado,Pollo al Carbón,Asiatica,,07/09/2025,Santiago,Estándar
+642,22,23,18-08-2026,10000,30.0,Transferencia,4.0,Entregado,La Baguette,Italiana,Santiago,25-07-2025,Maipú,Estándar
+429,61,9,18-08-2026,8800,,Tarjeta,3.0,entregado,Pizza Nonna,ITALIANA,La Florida,16-08-2025,Santiago,Premium
+927,279,9,18-08-2026,16000,17.0,Tarjeta,3.0,Entregado,Pizza Nonna,ITALIANA,La Florida,06-07-2025,Santiago,Estándar
+1046,178,22,18-09-2026,9100,27.0,Tarjeta,4.0,Entregado,  Ramen Ya  ,Asiática,Maipú,2025-03-06,Providencia,Estándar
+1057,157,27,18-10-2026,10600,26.0,Tarjeta ,5.0,Entregado,  Café Central  ,Saludable,La Florida,10/09/2024,La Florida,Estándar
+617,227,16,18-10-2026,9300,40.0,Tarjeta,3.0,ENTREGADO,  Trattoria Roma  ,ASIÁTICA,Maipú,27-06-2025,Providencia,Estándar
+74,200,24,18-10-2026,15800,29.0,Tarjeta,5.0,Entregado,Pollo al Carbón,Asiatica,,02-06-2026,Santiago,Premium
+239,34,25,18/05/2026,12200,26.0,Efectivo,4.0,Entregado,Tacos y Punto,Saludable,Providencia,2026-01-08,Las Condes,Estándar
+164,170,25,18/05/2026,11400,29.0,EFECTIVO,5.0,Entregado,Tacos y Punto,Saludable,Providencia,28/02/2026,Ñuñoa,Estándar
+515,203,4,18/05/2026,9300 CLP,36.0,Transferencia,4.0,Entregado,Pasta Nostra,Asiatica,Santiago,2024-07-31,Maipú,Estándar
+450,232,11,18/05/2026,13400,25.0,Efectivo,4.0,Entregado,Dulce Tentación,Italiana,Providencia,2025-02-08,La Florida,Estándar
+1026,265,3,18/06/2026,7000,12.0,Tarjeta,4.0,Entregado,Verde Bowl,Comida rápida,Las Condes,2024-12-17,Las Condes,Estándar
+64,202,25,18/06/2026,9400,34.0,Efectivo,5.0,Entregado,Tacos y Punto,Saludable,Providencia,2025-08-05,Santiago,Premium
+159,227,18,18/06/2026,14600,33.0,Tarjeta,2.0,Entregado,El Rincón Light,Saludable,Santiago,27-06-2025,Providencia,Estándar
+1079,146,11,18/08/2026,14800,31.0,Tarjeta,3.0,Entregado,Dulce Tentación,Italiana,Providencia,21/05/2025,La Florida,Estándar
+355,85,18,18/09/2026,9700,50.0,Transferencia,5.0,Entregado,El Rincón Light,Saludable,Santiago,2025-04-17,Las Condes,Premium
+1410,248,4,19-05-2026,9700,32.0,Tarjeta,,Cancelado,Pasta Nostra,Asiatica,Santiago,24-04-2025,Providencia,Estándar
+1056,245,26,19-06-2026,7700,26.0,Tarjeta,5.0,Entregado,Green House,Saludable,Ñuñoa,2025-02-13,Las Condes,Estándar
+1117,48,12,19-06-2026,9000,28.0,Tarjeta,4.0,Entregado,Parrilla Andina,Comida rápida,,23/07/2024,Santiago,Estándar
+155,53,18,19-08-2026,10200,28.0,Tarjeta ,5.0,Entregado,El Rincón Light,Saludable,Santiago,08-01-2026,La Florida,Premium
+941,294,7,19-09-2026,6600,35.0,Efectivo,,Cancelado,El Buen Sazón,Comida rápida,La Florida,2024-07-08,Las Condes,Estándar
+1405,231,11,19-09-2026,15900,25.0,Tarjeta,3.0,Entregado,Dulce Tentación,Italiana,Providencia,2026-05-23,Santiago,Estándar
+1411,7,16,19-09-2026,8700,43.0,Efectivo,5.0,Entregado,  Trattoria Roma  ,ASIÁTICA,Maipú,2024-10-25,Maipú,Estándar
+966,62,18,19-10-2026,6800,19.0,Efectivo,3.0,Entregado,El Rincón Light,Saludable,Santiago,2025-05-16,La Florida,Premium
+258,89,30,19/05/2026,8300,40.0,Tarjeta,4.0,Entregado,Dulce Esquina,Postres y café,La Florida,2025-07-16,SANTIAGO,Premium
+1380,234,14,19/05/2026,13900,22.0,Tarjeta,,Entregado,Panadería del Sol, Italiana ,Ñuñoa,2025-05-24,ÑUÑOA,Estándar
+1380,234,14,19/05/2026,13900,22.0,Tarjeta,,Entregado,Panadería del Sol, Italiana ,Ñuñoa,2025-05-24,ÑUÑOA,Estándar
+425,171,13,19/06/2026,16400,39.0,Transferencia,4.0,Entregado,Sushi Mar,Asiática,Las Condes,2025-01-03,Santiago,Estándar
+157,121,27,19/08/2026,7800,27.0,Tarjeta,5.0,Entregado,  Café Central  ,Saludable,La Florida,2026-01-18,Maipú,Premium
+1105,88,19,19/09/2026,7600,24.0,Tarjeta,4.0,Entregado,Churros & Más,Comida rápida,Santiago,05-08-2026,  Ñuñoa  ,Estándar
+277,140,2,19/10/2026,14800,47.0,Tarjeta,,Cancelado,La Esquina Criolla,Saludable,Santiago,2026-01-20,Santiago,
+959,253,16,20-05-2026,8600,,Tarjeta,5.0,Entregado,  Trattoria Roma  ,ASIÁTICA,Maipú,2026-02-20,  Ñuñoa  ,Estándar
+365,223,15,20-05-2026,10800,,Tarjeta ,5.0,Entregado,Veggie Life,saludable,Las Condes,2024-11-21,Ñuñoa,Estándar
+474,146,1,20-06-2026,8700,30.0,Efectivo,3.0,entregado,  Sabores del Barrio  ,COMIDA RÁPIDA,Providencia,21/05/2025,La Florida,Estándar
+926,68,26,20-06-2026,13500,42.0,Efectivo,5.0,Entregado,Green House,Saludable,Ñuñoa,2026-01-26,Las Condes,Estándar
+1148,111,3,20-06-2026,7700,33.0,Efectivo,5.0,Entregado,Verde Bowl,Comida rápida,Las Condes,02-02-2026,Santiago,Estándar
+751,28,14,20-07-2026,12100,44.0,Efectivo,3.0,entregado,Panadería del Sol, Italiana ,Ñuñoa,2026-08-20,maipú,Premium
+584,104,3,20-07-2026,7300,12.0,Tarjeta,3.0,Entregado,Verde Bowl,Comida rápida,Las Condes,2025-12-22,Las Condes,Premium
+847,43,16,20-09-2026,12100,34.0,Transferencia,,Entregado,  Trattoria Roma  ,ASIÁTICA,Maipú,04-12-2025,SANTIAGO,Estándar
+507,97,17,20-09-2026,$10.900,24.0,Tarjeta,5.0,Entregado,Noodle House,Italiana,Santiago,21/01/2025,Santiago,Estándar
+1452,138,5,20-09-2026,10000,47.0,Efectivo,5.0,Entregado,  Dragón Dorado  ,Asiática,Ñuñoa,2026-05-11,Las Condes,Estándar
+1453,58,1,20/05/2026,8600,39.0,Tarjeta,4.0,Entregado,  Sabores del Barrio  ,COMIDA RÁPIDA,Providencia,2024-08-07,Santiago,Estándar
+292,190,18,20/05/2026,6900,27.0,Tarjeta,4.0,Entregado,El Rincón Light,Saludable,Santiago,2025-09-18,Santiago,Estándar
+761,145,14,20/06/2026,16100,21.0,Efectivo,4.0,Entregado,Panadería del Sol, Italiana ,Ñuñoa,31/03/2026,  Las Condes  ,Estándar
+649,153,20,20/07/2026,12300,25.0,Tarjeta,5.0,entregado,Brasas del Sur,Saludable,Ñuñoa,03-07-2024,Maipú,Estándar
+1161,182,2,20/08/2026,12100,29.0,Transferencia,,CANCELADO,La Esquina Criolla,Saludable,Santiago,28-09-2024,La Florida,Premium
+812,85,5,20/09/2026,13200,31.0,TRANSFERENCIA,5.0,Entregado,  Dragón Dorado  ,Asiática,Ñuñoa,2025-04-17,Las Condes,Premium
+812,85,5,20/09/2026,13200,31.0,TRANSFERENCIA,5.0,Entregado,  Dragón Dorado  ,Asiática,Ñuñoa,2025-04-17,Las Condes,Premium
+431,224,28,20/09/2026,8600,34.0,Efectivo,3.0,Entregado,  Pasta & Co  ,Saludable,Santiago,2026-03-13,Santiago,Estándar
+433,209,18,2026-05-01,8300,25.0,Tarjeta,4.0,Entregado,El Rincón Light,Saludable,Santiago,31-08-2024,maipú,
+216,66,15,2026-05-01,9100,15.0,Efectivo,4.0,Entregado,Veggie Life,saludable,Las Condes,2026-05-30,Maipú,Premium
+995,139,30,2026-05-01,6800 CLP,24.0,Efectivo,4.0,Entregado,Dulce Esquina,Postres y café,La Florida,07/09/2025,Santiago,Estándar
+1224,242,4,2026-05-01,11400,40.0,Tarjeta,3.0,Entregado,Pasta Nostra,Asiatica,Santiago,2025-05-07,Ñuñoa,Premium
+1400,233,7,2026-05-01,6700,40.0,Efectivo,3.0,entregado,El Buen Sazón,Comida rápida,La Florida,2025-05-18,Las Condes,Estándar
+1351,167,27,2026-05-01,11000,25.0,Tarjeta,4.0,Entregado,  Café Central  ,Saludable,La Florida,2026-05-20,Santiago,Estándar
+178,60,5,2026-05-01,14400,47.0,Tarjeta,5.0,Entregado,  Dragón Dorado  ,Asiática,Ñuñoa,20-06-2026,La Florida,Premium
+1447,207,16,2026-05-01,8000,23.0,tarjeta,4.0,Entregado,  Trattoria Roma  ,ASIÁTICA,Maipú,27-09-2024,Providencia,Estándar
+185,140,10,2026-05-01,11100,38.0,Transferencia,3.0,Entregado,Wok Express,Saludable,Ñuñoa,2026-01-20,Santiago,
+1001,66,5,2026-05-01,12200,36.0,Transferencia,3.0,Entregado,  Dragón Dorado  ,Asiática,Ñuñoa,2026-05-30,Maipú,Premium
+148,56,23,2026-05-01,$13.400,34.0,Efectivo,4.0,Entregado,La Baguette,Italiana,Santiago,2025-01-24,La Florida,Estándar
+433,209,18,2026-05-01,8300,25.0,Tarjeta,4.0,Entregado,El Rincón Light,Saludable,Santiago,31-08-2024,maipú,
+489,212,12,2026-05-02,9100,41.0,Efectivo,4.0,Entregado,Parrilla Andina,Comida rápida,,2025-10-01,Santiago,Estándar
+504,112,23,2026-05-02,9700,19.0,Tarjeta,,Entregado,La Baguette,Italiana,Santiago,2025-03-11,Providencia,
+1193,268,28,2026-05-02,8800,31.0,TARJETA,3.0,Entregado,  Pasta & Co  ,Saludable,Santiago,2026-09-23,Ñuñoa,Estándar
+1437,224,20,2026-05-02,11100,25.0,Tarjeta,4.0,Entregado,Brasas del Sur,Saludable,Ñuñoa,2026-03-13,Santiago,Estándar
+1423,249,14,2026-05-03,14400,31.0,Transferencia,,Cancelado,Panadería del Sol, Italiana ,Ñuñoa,12/04/2025,Ñuñoa,Estándar
+1342,151,21,2026-05-03,6900,24.0,Tarjeta,4.0,Entregado,Ensalada Fresca, Saludable ,Santiago,2026-02-02,Santiago,Premium
+979,184,29,2026-05-03,14400,40.0,Transferencia,,Entregado,Mar y Tierra,Saludable,Ñuñoa,2026-04-10,Providencia,Premium
+207,202,26,2026-05-03,7900,38.0,Efectivo,3.0,Entregado,Green House,Saludable,Ñuñoa,2025-08-05,Santiago,Premium
+881,167,10,2026-05-04,11900,33.0,Tarjeta,3.0,entregado,Wok Express,Saludable,Ñuñoa,2026-05-20,Santiago,Estándar
+65,27,14,2026-05-04,13700,28.0,Tarjeta,4.0,Entregado,Panadería del Sol, Italiana ,Ñuñoa,2026-09-27,Ñuñoa,Estándar
+43,127,27,2026-05-04,14900,29.0,Transferencia,5.0,Entregado,  Café Central  ,Saludable,La Florida,2024-10-08,Ñuñoa,Estándar
+1348,168,30,2026-05-04,6500,13.0,Tarjeta,4.0,Entregado,Dulce Esquina,Postres y café,La Florida,2026-03-12,santiago,Estándar
+676,66,30,2026-05-04,5400 CLP,23.0,Tarjeta,4.0,Entregado,Dulce Esquina,Postres y café,La Florida,2026-05-30,Maipú,Premium
+819,31,12,2026-05-04,10300,29.0,Transferencia,5.0,Entregado,Parrilla Andina,Comida rápida,,2026-06-25,La Florida,Premium
+593,220,28,2026-05-04,8800,16.0,Tarjeta,5.0,Entregado,  Pasta & Co  ,Saludable,Santiago,2024-10-18,Providencia,Premium
+759,102,6,2026-05-05,8500,17.0,Transferencia,2.0,Entregado,Café Luna,Asiatica,Santiago,2025-06-06,Las Condes,Estándar
+1115,219,22,2026-05-05,9100,36.0,Efectivo,5.0,Entregado,  Ramen Ya  ,Asiática,Maipú,11-06-2026,Santiago,Estándar
+1386,170,3,2026-05-05,8300,29.0,Tarjeta,,Entregado,Verde Bowl,Comida rápida,Las Condes,28/02/2026,Ñuñoa,Estándar
+1021,221,3,2026-05-05,10100,27.0,Transferencia,2.0,Entregado,Verde Bowl,Comida rápida,Las Condes,2026-05-01,Santiago,
+316,241,30,2026-05-06,3900,41.0,Tarjeta,5.0, Entregado,Dulce Esquina,Postres y café,La Florida,2025-05-09,La Florida,Premium
+307,191,23,2026-05-06,10700,39.0,Transferencia,,Cancelado,La Baguette,Italiana,Santiago,2026-01-08,Ñuñoa,Estándar
+828,249,27,2026-05-06,9300,25.0,Efectivo,3.0,Entregado,  Café Central  ,Saludable,La Florida,12/04/2025,Ñuñoa,Estándar
+136,247,12,2026-05-06,$11.000,34.0,Tarjeta,2.0, Entregado,Parrilla Andina,Comida rápida,,2025-01-25,Santiago,Estándar
+1497,138,1,2026-05-07,6800,42.0,Tarjeta,5.0,Entregado,  Sabores del Barrio  ,COMIDA RÁPIDA,Providencia,2026-05-11,Las Condes,Estándar
+382,145,26,2026-05-07,12900,35.0,Transferencia ,,Cancelado,Green House,Saludable,Ñuñoa,31/03/2026,  Las Condes  ,Estándar
+1254,193,29,2026-05-07,9200,36.0,Tarjeta,5.0,Entregado,Mar y Tierra,Saludable,Ñuñoa,09-05-2026,La Florida,Estándar
+1045,252,25,2026-05-07,$10.100,32.0,Efectivo,4.0,Entregado,Tacos y Punto,Saludable,Providencia,09/02/2025,Ñuñoa,Estándar
+1295,102,23,2026-05-08,9800,22.0,Transferencia ,4.0,Entregado,La Baguette,Italiana,Santiago,2025-06-06,Las Condes,Estándar
+1485,243,2,2026-05-08,10100,40.0,Tarjeta,5.0,Entregado,La Esquina Criolla,Saludable,Santiago,2026-01-01,Maipú,
+369,234,23,2026-05-08,14100,24.0,Tarjeta,5.0,Entregado,La Baguette,Italiana,Santiago,2025-05-24,ÑUÑOA,Estándar
+369,234,23,2026-05-08,14100,24.0,Tarjeta,5.0,Entregado,La Baguette,Italiana,Santiago,2025-05-24,ÑUÑOA,Estándar
+599,85,6,2026-05-08,12700,26.0,Tarjeta,3.0,Entregado,Café Luna,Asiatica,Santiago,2025-04-17,Las Condes,Premium
+700,135,9,2026-05-08,8800,37.0,Tarjeta,4.0, Entregado,Pizza Nonna,ITALIANA,La Florida,2026-08-23,Providencia,Estándar
+203,161,13,2026-05-09,10400,23.0,Transferencia,5.0,Entregado,Sushi Mar,Asiática,Las Condes,12-07-2026,Santiago,Estándar
+1370,227,30,2026-05-09,6700,27.0,Efectivo,3.0,Entregado,Dulce Esquina,Postres y café,La Florida,27-06-2025,Providencia,Estándar
+556,267,8,2026-05-09,9500,17.0,Tajeta,1.0,Entregado,Fit & Rico,Asiática,,07-09-2026,providencia,Estándar
+1246,94,3,2026-05-10,9300,37.0,Efectivo,4.0,Entregado,Verde Bowl,Comida rápida,Las Condes,2026-05-05,Santiago,Estándar
+889,172,28,2026-05-10,9000,26.0,Transferencia ,5.0,Entregado,  Pasta & Co  ,Saludable,Santiago,16-11-2025,Providencia,Premium
+994,168,2,2026-05-10,8400,26.0,Efectivo,5.0,Entregado,La Esquina Criolla,Saludable,Santiago,2026-03-12,santiago,Estándar
+342,239,7,2026-05-10,7800,37.0,Tarjeta,4.0,Entregado,El Buen Sazón,Comida rápida,La Florida,24/04/2026,  Santiago  ,Estándar
+1030,266,19,2026-05-11,13600,20.0,Transferencia,5.0,Entregado,Churros & Más,Comida rápida,Santiago,2024-10-30,Las Condes,Estándar
+837,137,4,2026-05-11,9300,31.0,Efectivo,,Cancelado,Pasta Nostra,Asiatica,Santiago,02-07-2026,Maipú,Estándar
+285,190,22,2026-05-11,13000,33.0,Tajeta,,Cancelado,  Ramen Ya  ,Asiática,Maipú,2025-09-18,Santiago,Estándar
+124,34,29,2026-05-11,11300,12.0,Tarjeta,4.0,Entregado,Mar y Tierra,Saludable,Ñuñoa,2026-01-08,Las Condes,Estándar
+304,63,4,2026-05-11,14000,24.0,Tarjeta,5.0,Entregado,Pasta Nostra,Asiatica,Santiago,2025-01-12,Ñuñoa,Estándar
+490,50,12,2026-05-12,11300,32.0,Transferencia,5.0,Entregado,Parrilla Andina,Comida rápida,,05-05-2025,Santiago,Premium
+1131,30,23,2026-05-12,11600,12.0,Tarjeta,5.0,Entregado,La Baguette,Italiana,Santiago,2026-03-15,Providencia,Premium
+903,57,28,2026-05-12,10900 CLP,53.0,Tarjeta,5.0,Entregado,  Pasta & Co  ,Saludable,Santiago,01/08/2024,Ñuñoa,Estándar
+679,77,7,2026-05-12,7300,32.0,Tarjeta,4.0,Entregado,El Buen Sazón,Comida rápida,La Florida,2025-09-09,Ñuñoa,Premium
+414,106,9,2026-05-12,14100,33.0,Tarjeta,4.0,Entregado,Pizza Nonna,ITALIANA,La Florida,2024-07-14,La Florida,Estándar
+728,80,22,2026-05-13,10700,35.0,Tarjeta ,2.0,Entregado,  Ramen Ya  ,Asiática,Maipú,2026-04-29,Santiago,Estándar
+558,76,28,2026-05-13,15200,29.0,Tarjeta,5.0,Entregado,  Pasta & Co  ,Saludable,Santiago,2025-03-18,Ñuñoa,Estándar
+324,194,17,2026-05-13,12100,48.0,Tarjeta,5.0,Entregado,Noodle House,Italiana,Santiago,04-12-2025,La Florida,Premium
+1064,232,2,2026-05-13,13000,22.0,Tarjeta,3.0,Entregado,La Esquina Criolla,Saludable,Santiago,2025-02-08,La Florida,Estándar
+975,137,4,2026-05-14,11000,32.0,Efectivo,3.0,Entregado,Pasta Nostra,Asiatica,Santiago,02-07-2026,Maipú,Estándar
+1416,23,8,2026-05-14,16200,33.0,Tarjeta,5.0,ENTREGADO,Fit & Rico,Asiática,,2025-08-16,Santiago,Estándar
+1160,43,16,2026-05-14,8700,14.0,Transferencia,3.0,Entregado,  Trattoria Roma  ,ASIÁTICA,Maipú,04-12-2025,SANTIAGO,Estándar
+400,62,9,2026-05-14,9000,36.0,Efectivo,5.0,Entregado,Pizza Nonna,ITALIANA,La Florida,2025-05-16,La Florida,Premium
+357,213,24,2026-05-14,10600,40.0,Tarjeta,4.0,Entregado,Pollo al Carbón,Asiatica,,2026-01-14,Las Condes,Estándar
+332,28,25,2026-05-14,11400,34.0,tarjeta,5.0,Entregado,Tacos y Punto,Saludable,Providencia,2026-08-20,maipú,Premium
+287,155,19,2026-05-15,8900,,Tarjeta,4.0,ENTREGADO,Churros & Más,Comida rápida,Santiago,03/09/2026,Santiago,Premium
+740,107,20,2026-05-15,11700,39.0,Tarjeta,4.0,Entregado,Brasas del Sur,Saludable,Ñuñoa,2025-02-23,  Santiago  ,Estándar
+52,73,27,2026-05-15,7400,29.0,Tarjeta,5.0,Entregado,  Café Central  ,Saludable,La Florida,28/09/2026,Ñuñoa,Premium
+740,107,20,2026-05-15,11700,39.0,Tarjeta,4.0,Entregado,Brasas del Sur,Saludable,Ñuñoa,2025-02-23,  Santiago  ,Estándar
+1014,193,11,2026-05-15,8100,19.0,Efectivo,4.0,Entregado,Dulce Tentación,Italiana,Providencia,09-05-2026,La Florida,Estándar
+82,41,27,2026-05-16,$12.500,28.0,TRANSFERENCIA,5.0,Entregado,  Café Central  ,Saludable,La Florida,2026-03-12,Santiago,Estándar
+1039,156,12,2026-05-16,12100,34.0,Efectivo,3.0, Entregado,Parrilla Andina,Comida rápida,,2025-04-23,La Florida,Premium
+849,171,24,2026-05-16,7800,34.0,Efectivo,,Cancelado,Pollo al Carbón,Asiatica,,2025-01-03,Santiago,Estándar
+1243,173,22,2026-05-16,7400,35.0,Tarjeta,5.0,Entregado,  Ramen Ya  ,Asiática,Maipú,2025-12-14,LAS CONDES,Premium
+588,195,26,2026-05-16,12700,33.0,TARJETA,,Cancelado,Green House,Saludable,Ñuñoa,2026-02-13,Santiago,Estándar
+869,300,5,2026-05-16,10900,,Efectivo,4.0,Entregado,  Dragón Dorado  ,Asiática,Ñuñoa,23-09-2024,Santiago,Estándar
+622,115,19,2026-05-16,11600,42.0,Tarjeta,5.0,Entregado,Churros & Más,Comida rápida,Santiago,2025-06-08,Santiago,Premium
+958,80,27,2026-05-17,13600,36.0,Tajeta,5.0,Entregado,  Café Central  ,Saludable,La Florida,2026-04-29,Santiago,Estándar
+392,197,11,2026-05-17,16700,47.0,Tajeta,5.0,Entregado,Dulce Tentación,Italiana,Providencia,2025-09-02,Maipú,Estándar
+1098,280,21,2026-05-17,14700,46.0,Transferencia,4.0,Entregado,Ensalada Fresca, Saludable ,Santiago,04/08/2024,La Florida,Premium
+891,171,28,2026-05-17,13400,49.0,Tarjeta,4.0,Entregado,  Pasta & Co  ,Saludable,Santiago,2025-01-03,Santiago,Estándar
+857,147,4,2026-05-17,13100,28.0,Tarjeta,4.0,ENTREGADO,Pasta Nostra,Asiatica,Santiago,2026-05-19,Maipú,Estándar
+1378,54,23,2026-05-18,15400,45.0,TARJETA,5.0,Entregado,La Baguette,Italiana,Santiago,2025-08-28,PROVIDENCIA,Premium
+1253,279,8,2026-05-18,16800,36.0,Efectivo,,Cancelado,Fit & Rico,Asiática,,06-07-2025,Santiago,Estándar
+1479,233,29,2026-05-18,13300,13.0,Efectivo,3.0,ENTREGADO,Mar y Tierra,Saludable,Ñuñoa,2025-05-18,Las Condes,Estándar
+67,291,19,2026-05-18,$12.500,32.0,TARJETA,4.0,Entregado,Churros & Más,Comida rápida,Santiago,23-12-2025,Santiago,Estándar
+281,222,6,2026-05-18,13500,24.0,Transferencia,4.0,entregado,Café Luna,Asiatica,Santiago,2026-03-01,Providencia,Premium
+743,180,6,2026-05-18,$9.100,29.0,tarjeta,4.0, Entregado,Café Luna,Asiatica,Santiago,2024-11-07,las condes,Premium
+888,253,29,2026-05-18,6800,28.0,Efectivo,5.0,Entregado,Mar y Tierra,Saludable,Ñuñoa,2026-02-20,  Ñuñoa  ,Estándar
+858,173,14,2026-05-19,14300,35.0,Tarjeta,3.0,entregado,Panadería del Sol, Italiana ,Ñuñoa,2025-12-14,LAS CONDES,Premium
+882,231,8,2026-05-19,15400,26.0,Tarjeta,,Cancelado,Fit & Rico,Asiática,,2026-05-23,Santiago,Estándar
+286,18,21,2026-05-19,$14.400,38.0,Efectivo,4.0,Entregado,Ensalada Fresca, Saludable ,Santiago,2024-09-07,Las Condes,Estándar
+442,231,8,2026-05-19,16300,41.0,Transferencia,5.0, Entregado,Fit & Rico,Asiática,,2026-05-23,Santiago,Estándar
+680,150,18,2026-05-19,9800,45.0,Tarjeta,4.0,Entregado,El Rincón Light,Saludable,Santiago,21-02-2025,La Florida,Estándar
+1333,210,21,2026-05-19,12700,47.0,Tarjeta,3.0,Entregado,Ensalada Fresca, Saludable ,Santiago,23-11-2024,Ñuñoa,Estándar
+22,289,13,2026-05-19,10000,36.0,Transferencia,, Entregado,Sushi Mar,Asiática,Las Condes,2025-02-10,Santiago,Premium
+1269,264,4,2026-05-20,9400,43.0,Transferencia,4.0,Entregado,Pasta Nostra,Asiatica,Santiago,2024-12-12,Santiago,Premium
+1440,162,25,2026-05-20,6700,45.0,Tarjeta,,Cancelado,Tacos y Punto,Saludable,Providencia,2024-08-06,la florida,Estándar
+1409,97,27,2026-05-20,$8.400,23.0,Efectivo,4.0,Entregado,  Café Central  ,Saludable,La Florida,21/01/2025,Santiago,Estándar
+608,135,19,2026-05-20,12000,36.0,Tarjeta,5.0,Entregado,Churros & Más,Comida rápida,Santiago,2026-08-23,Providencia,Estándar
+337,72,22,2026-05-21,$15.800,18.0,efectivo,4.0,Entregado,  Ramen Ya  ,Asiática,Maipú,2025-10-28,Ñuñoa,Estándar
+38,228,16,2026-05-21,11600,37.0,Tarjeta,4.0,Entregado,  Trattoria Roma  ,ASIÁTICA,Maipú,17/09/2026,Santiago,Premium
+648,281,27,2026-05-21,13700,25.0,Efectivo,5.0,Entregado,  Café Central  ,Saludable,La Florida,25-09-2024,Santiago,
+219,3,22,2026-05-21,12400,13.0,Tarjeta,4.0,Entregado,  Ramen Ya  ,Asiática,Maipú,2024-12-01,Providencia,Premium
+236,276,8,2026-05-22,16100,37.0,tarjeta,5.0,Entregado,Fit & Rico,Asiática,,11-08-2024,Ñuñoa,Estándar
+276,82,15,2026-05-22,$9.600,18.0,Transferencia,5.0, Entregado,Veggie Life,saludable,Las Condes,2025-03-04,Providencia,Estándar
+283,99,17,2026-05-23,8500,44.0,Efectivo,3.0,Entregado,Noodle House,Italiana,Santiago,2024-08-17,Santiago,Estándar
+1214,237,5,2026-05-23,16600,45.0,Transferencia,3.0, Entregado,  Dragón Dorado  ,Asiática,Ñuñoa,2024-10-28,Las Condes,Estándar
+1177,153,14,2026-05-23,16500,37.0,Transferencia,4.0,Entregado,Panadería del Sol, Italiana ,Ñuñoa,03-07-2024,Maipú,Estándar
+923,220,9,2026-05-23,13400,35.0,Efectivo,4.0,Entregado,Pizza Nonna,ITALIANA,La Florida,2024-10-18,Providencia,Premium
+1347,12,26,2026-05-23,9400,35.0,Tarjeta,3.0,Entregado,Green House,Saludable,Ñuñoa,2025-05-19,  Santiago  ,Estándar
+86,298,26,2026-05-23,14700,12.0,Tarjeta,5.0,Entregado,Green House,Saludable,Ñuñoa,2026-09-08,ÑUÑOA,Estándar
+295,78,14,2026-05-24,15100,22.0,Efectivo,5.0,Entregado,Panadería del Sol, Italiana ,Ñuñoa,08-04-2026,Ñuñoa,Estándar
+924,134,12,2026-05-24,6500,43.0,Efectivo,3.0,Entregado,Parrilla Andina,Comida rápida,,13/01/2026,Santiago,Estándar
+1283,233,18,2026-05-24,9500,27.0,Tarjeta,5.0,Entregado,El Rincón Light,Saludable,Santiago,2025-05-18,Las Condes,Estándar
+344,191,26,2026-05-24,13900,23.0,Tarjeta,,Entregado,Green House,Saludable,Ñuñoa,2026-01-08,Ñuñoa,Estándar
+146,43,8,2026-05-25,15300,39.0,Tarjeta,5.0,Entregado,Fit & Rico,Asiática,,04-12-2025,SANTIAGO,Estándar
+373,242,3,2026-05-25,6200,48.0,Transferencia,3.0,Entregado,Verde Bowl,Comida rápida,Las Condes,2025-05-07,Ñuñoa,Premium
+131,234,29,2026-05-25,6700,51.0,Tarjeta,5.0,Entregado,Mar y Tierra,Saludable,Ñuñoa,2025-05-24,ÑUÑOA,Estándar
+131,234,29,2026-05-25,6700,51.0,Tarjeta,5.0,Entregado,Mar y Tierra,Saludable,Ñuñoa,2025-05-24,ÑUÑOA,Estándar
+757,155,11,2026-05-25,14700 CLP,33.0,Tarjeta,5.0,Entregado,Dulce Tentación,Italiana,Providencia,03/09/2026,Santiago,Premium
+1355,291,28,2026-05-25,12800,24.0,Tarjeta,3.0,ENTREGADO,  Pasta & Co  ,Saludable,Santiago,23-12-2025,Santiago,Estándar
+1198,103,14,2026-05-26,10200,,Efectivo,4.0,Entregado,Panadería del Sol, Italiana ,Ñuñoa,2024-10-08,Ñuñoa,Premium
+695,296,7,2026-05-26,6500,29.0,Efectivo,5.0,Entregado,El Buen Sazón,Comida rápida,La Florida,20-09-2024,santiago,Estándar
+432,11,10,2026-05-26,11900,37.0,Tarjeta,4.0,Entregado,Wok Express,Saludable,Ñuñoa,31/08/2026,Ñuñoa,Estándar
+1221,92,10,2026-05-26,8100,37.0,Tarjeta,5.0,Entregado,Wok Express,Saludable,Ñuñoa,2024-12-10,Providencia,
+710,36,23,2026-05-26,17000,38.0,Tarjeta,4.0,Entregado,La Baguette,Italiana,Santiago,2026-06-11,La Florida,Premium
+1358,275,13,2026-05-26,7400,35.0,Efectivo,4.0,Entregado,Sushi Mar,Asiática,Las Condes,06/01/2025,Santiago,Estándar
+1068,7,14,2026-05-26,14500,35.0,Tarjeta,4.0,Entregado,Panadería del Sol, Italiana ,Ñuñoa,2024-10-25,Maipú,Estándar
+940,208,17,2026-05-27,16700,14.0,Tarjeta,4.0,Entregado,Noodle House,Italiana,Santiago,2026-05-20,Maipú,Estándar
+964,123,4,2026-05-27,13400,30.0,Tarjeta,4.0,Entregado,Pasta Nostra,Asiatica,Santiago,2025-09-18,maipú,Estándar
+829,41,12,2026-05-27,11300,35.0,TARJETA,4.0,Entregado,Parrilla Andina,Comida rápida,,2026-03-12,Santiago,Estándar
+1111,61,17,2026-05-27,8300,53.0,Tarjeta,4.0, Entregado,Noodle House,Italiana,Santiago,16-08-2025,Santiago,Premium
+311,105,11,2026-05-28,9200,25.0,transferencia,5.0,Entregado,Dulce Tentación,Italiana,Providencia,2026-04-16,Las Condes,Estándar
+998,99,21,2026-05-28,6800,34.0,Tarjeta,4.0,Entregado,Ensalada Fresca, Saludable ,Santiago,2024-08-17,Santiago,Estándar
+196,197,4,2026-05-28,12800,41.0,TARJETA,3.0,Entregado,Pasta Nostra,Asiatica,Santiago,2025-09-02,Maipú,Estándar
+691,286,28,2026-05-28,13200,37.0,tarjeta,2.0,Entregado,  Pasta & Co  ,Saludable,Santiago,2025-07-15,La Florida,
+789,110,7,2026-05-28,13200,34.0,Tarjeta,4.0,Entregado,El Buen Sazón,Comida rápida,La Florida,2025-05-16,Ñuñoa,Premium
+1109,5,6,2026-05-28,12700,32.0,Efectivo,4.0,Entregado,Café Luna,Asiatica,Santiago,2026-09-06,Ñuñoa,Estándar
+697,166,10,2026-05-28,13900,36.0,Tarjeta,,Cancelado,Wok Express,Saludable,Ñuñoa,06/08/2025,Las Condes,Estándar
+1157,17,22,2026-05-28,16000,25.0,Tarjeta,4.0,Entregado,  Ramen Ya  ,Asiática,Maipú,26/09/2024,Santiago,Estándar
+737,44,9,2026-05-28,15500,50.0,EFECTIVO,,cancelado,Pizza Nonna,ITALIANA,La Florida,2025-07-20,Providencia,Estándar
+220,159,26,2026-05-28,9900,24.0,Efectivo,4.0,Entregado,Green House,Saludable,Ñuñoa,03/11/2024,Santiago,Premium
+875,117,4,2026-05-29,$9.500,31.0,Tarjeta,4.0,Entregado,Pasta Nostra,Asiatica,Santiago,2025-04-21,Santiago,Estándar
+1340,287,12,2026-05-29,9300,27.0,TARJETA,5.0,Entregado,Parrilla Andina,Comida rápida,,23-03-2025,Maipú,Estándar
+1237,139,16,2026-05-29,9800,52.0,Tarjeta,,Cancelado,  Trattoria Roma  ,ASIÁTICA,Maipú,07/09/2025,Santiago,Estándar
+1340,287,12,2026-05-29,9300,27.0,TARJETA,5.0,Entregado,Parrilla Andina,Comida rápida,,23-03-2025,Maipú,Estándar
+1326,297,20,2026-05-29,6800,54.0,Tarjeta,3.0,Entregado,Brasas del Sur,Saludable,Ñuñoa,20/09/2024,  Ñuñoa  ,
+172,271,30,2026-05-29,4200,41.0,Efectivo ,3.0,Entregado,Dulce Esquina,Postres y café,La Florida,15/04/2025,santiago,Estándar
+339,266,17,2026-05-29,8900,28.0,Tarjeta,5.0,Entregado,Noodle House,Italiana,Santiago,2024-10-30,Las Condes,Estándar
+231,298,23,2026-05-30,8700,31.0,Efectivo,5.0,Entregado,La Baguette,Italiana,Santiago,2026-09-08,ÑUÑOA,Estándar
+5,186,3,2026-05-30,9000,33.0,Tarjeta,5.0,Entregado,Verde Bowl,Comida rápida,Las Condes,2026-05-22,Santiago,Estándar
+619,234,16,2026-05-30,11900,31.0,Efectivo,4.0,entregado,  Trattoria Roma  ,ASIÁTICA,Maipú,2025-05-24,ÑUÑOA,Estándar
+619,234,16,2026-05-30,11900,31.0,Efectivo,4.0,entregado,  Trattoria Roma  ,ASIÁTICA,Maipú,2025-05-24,ÑUÑOA,Estándar
+1118,245,18,2026-05-31,13200,31.0,Tarjeta,4.0,Entregado,El Rincón Light,Saludable,Santiago,2025-02-13,Las Condes,Estándar
+195,202,2,2026-05-31,9800,26.0,Tajeta,4.0, Entregado,La Esquina Criolla,Saludable,Santiago,2025-08-05,Santiago,Premium
+160,271,11,2026-05-31,11100,45.0,Tarjeta,5.0,Entregado,Dulce Tentación,Italiana,Providencia,15/04/2025,santiago,Estándar
+640,26,20,2026-05-31,7800,36.0,Tarjeta ,5.0,Entregado,Brasas del Sur,Saludable,Ñuñoa,2026-03-10,Santiago,Estándar
+708,96,6,2026-05-31,16500,31.0,Tarjeta,4.0,Entregado,Café Luna,Asiatica,Santiago,26-09-2024,Las Condes,Estándar
+477,91,9,2026-05-31,10900,22.0,Transferencia,4.0,Entregado,Pizza Nonna,ITALIANA,La Florida,10/08/2024,Las Condes,Premium
+552,169,14,2026-06-01,8400,23.0,Efectivo,5.0,Entregado,Panadería del Sol, Italiana ,Ñuñoa,07-04-2025,Santiago,Estándar
+667,264,30,2026-06-01,7800,36.0,Tarjeta,,Cancelado,Dulce Esquina,Postres y café,La Florida,2024-12-12,Santiago,Premium
+524,267,20,2026-06-01,14300,34.0,Tarjeta,3.0,Entregado,Brasas del Sur,Saludable,Ñuñoa,07-09-2026,providencia,Estándar
+628,276,4,2026-06-01,9700,31.0,Transferencia,5.0,Entregado,Pasta Nostra,Asiatica,Santiago,11-08-2024,Ñuñoa,Estándar
+1168,188,9,2026-06-02,7800,20.0,Tarjeta,4.0, Entregado,Pizza Nonna,ITALIANA,La Florida,2025-08-27,Nunoa,Premium
+1350,236,18,2026-06-02,8400,35.0,Tarjeta,4.0,Entregado,El Rincón Light,Saludable,Santiago,05-10-2025,Ñuñoa,Estándar
+192,14,17,2026-06-02,10800,36.0,Efectivo,3.0,Entregado,Noodle House,Italiana,Santiago,2026-04-28,Santiago,Premium
+487,81,4,2026-06-03,8700,42.0,Tarjeta,5.0,ENTREGADO,Pasta Nostra,Asiatica,Santiago,2024-07-20,Santiago,Estándar
+534,14,27,2026-06-03,13200,31.0,TARJETA,3.0,Entregado,  Café Central  ,Saludable,La Florida,2026-04-28,Santiago,Premium
+929,13,10,2026-06-03,9400,34.0,Tajeta,4.0,Entregado,Wok Express,Saludable,Ñuñoa,2026-01-18,Santiago,Estándar
+341,168,10,2026-06-03,13600,37.0,Efectivo,3.0,Entregado,Wok Express,Saludable,Ñuñoa,2026-03-12,santiago,Estándar
+817,273,16,2026-06-03,7800,35.0,Tarjeta,, Cancelado,  Trattoria Roma  ,ASIÁTICA,Maipú,2025-02-15,MAIPÚ,Premium
+1212,299,20,2026-06-04,14600,42.0,Efectivo ,5.0,entregado,Brasas del Sur,Saludable,Ñuñoa,2024-12-16,La Florida,Premium
+113,146,23,2026-06-04,14200,38.0,Efectivo,4.0,Entregado,La Baguette,Italiana,Santiago,21/05/2025,La Florida,Estándar
+139,30,18,2026-06-04,$9.300,25.0,Tarjeta,4.0,entregado,El Rincón Light,Saludable,Santiago,2026-03-15,Providencia,Premium
+284,129,13,2026-06-04,12800,27.0,efectivo,5.0,Entregado,Sushi Mar,Asiática,Las Condes,02/08/2024,Maipú,Estándar
+270,92,26,2026-06-04,11200,33.0,Efectivo,5.0,Entregado,Green House,Saludable,Ñuñoa,2024-12-10,Providencia,
+497,95,22,2026-06-04,14700,25.0,Tarjeta,5.0,Entregado,  Ramen Ya  ,Asiática,Maipú,2026-07-14,La Florida,Estándar
+636,139,29,2026-06-05,7000,0.0,Tarjeta,4.0,Entregado,Mar y Tierra,Saludable,Ñuñoa,07/09/2025,Santiago,Estándar
+1319,79,13,2026-06-05,13000,35.0,Tarjeta,5.0,Entregado,Sushi Mar,Asiática,Las Condes,20-07-2024,Las Condes,
+1429,191,17,2026-06-05,12400,45.0,Tarjeta,5.0,Entregado,Noodle House,Italiana,Santiago,2026-01-08,Ñuñoa,Estándar
+92,55,2,2026-06-05,8000,,Efectivo,4.0,Entregado,La Esquina Criolla,Saludable,Santiago,2026-05-08,  Santiago  ,Premium
+1336,127,5,2026-06-06,15200,25.0,Tarjeta,5.0,entregado,  Dragón Dorado  ,Asiática,Ñuñoa,2024-10-08,Ñuñoa,Estándar
+540,60,22,2026-06-06,9200,34.0,transferencia,,Cancelado,  Ramen Ya  ,Asiática,Maipú,20-06-2026,La Florida,Premium
+1260,72,8,2026-06-06,12200,34.0,Tarjeta,5.0,Entregado,Fit & Rico,Asiática,,2025-10-28,Ñuñoa,Estándar
+787,54,17,2026-06-06,10800,32.0,Efectivo,5.0,Entregado,Noodle House,Italiana,Santiago,2025-08-28,PROVIDENCIA,Premium
+502,284,20,2026-06-06,9400,29.0,Efectivo,5.0,Entregado,Brasas del Sur,Saludable,Ñuñoa,2025-06-15,La Florida,Estándar
+1392,164,14,2026-06-06,16900,38.0,Tarjeta,5.0,Entregado,Panadería del Sol, Italiana ,Ñuñoa,05-06-2026,Maipú,Estándar
+95,233,8,2026-06-07,14700,32.0,Efectivo,5.0,Entregado,Fit & Rico,Asiática,,2025-05-18,Las Condes,Estándar
+752,162,21,2026-06-07,13400,23.0,Tarjeta,5.0, Entregado,Ensalada Fresca, Saludable ,Santiago,2024-08-06,la florida,Estándar
+1343,192,27,2026-06-07,10800 CLP,36.0,Tarjeta,4.0,Entregado,  Café Central  ,Saludable,La Florida,07-09-2025,Las Condes,Premium
+488,49,25,2026-06-08,8900,38.0,Efectivo,,Cancelado,Tacos y Punto,Saludable,Providencia,2025-10-01,Santiago,Estándar
+241,288,18,2026-06-08,12200,39.0,Tarjeta ,5.0,Entregado,El Rincón Light,Saludable,Santiago,12/07/2026,Providencia,Estándar
+323,195,5,2026-06-08,9200,17.0,tarjeta,4.0,Entregado,  Dragón Dorado  ,Asiática,Ñuñoa,2026-02-13,Santiago,Estándar
+1129,218,23,2026-06-08,14100,,Tarjeta,4.0,Entregado,La Baguette,Italiana,Santiago,2024-10-16,La Florida,Estándar
+360,152,17,2026-06-08,12200,16.0,Tarjeta,5.0, Entregado,Noodle House,Italiana,Santiago,25-06-2026,Providencia,Estándar
+46,137,21,2026-06-08,13600,23.0,Efectivo,4.0,Entregado,Ensalada Fresca, Saludable ,Santiago,02-07-2026,Maipú,Estándar
+1130,166,8,2026-06-08,8400,26.0,Efectivo,3.0,Entregado,Fit & Rico,Asiática,,06/08/2025,Las Condes,Estándar
+1484,61,21,2026-06-08,11200,35.0,Tajeta,4.0,entregado,Ensalada Fresca, Saludable ,Santiago,16-08-2025,Santiago,Premium
+626,61,23,2026-06-09,11700,17.0,Tajeta,5.0,Entregado,La Baguette,Italiana,Santiago,16-08-2025,Santiago,Premium
+1149,219,23,2026-06-09,12700 CLP,39.0,Efectivo,5.0,Entregado,La Baguette,Italiana,Santiago,11-06-2026,Santiago,Estándar
+1158,156,27,2026-06-10,14200,28.0,Efectivo,, Cancelado,  Café Central  ,Saludable,La Florida,2025-04-23,La Florida,Premium
+446,292,30,2026-06-10,7100,30.0,TRANSFERENCIA,5.0,Entregado,Dulce Esquina,Postres y café,La Florida,20-04-2026,Maipú,Estándar
+921,122,1,2026-06-10,12300,30.0,Transferencia,5.0,Entregado,  Sabores del Barrio  ,COMIDA RÁPIDA,Providencia,2025-07-10,Santiago,Estándar
+824,89,6,2026-06-10,10400,29.0,TARJETA,5.0,Entregado,Café Luna,Asiatica,Santiago,2025-07-16,SANTIAGO,Premium
+572,42,6,2026-06-10,14100,35.0,Tarjeta,4.0,Entregado,Café Luna,Asiatica,Santiago,2025-07-12,Maipú,Estándar
+1217,126,2,2026-06-10,11000,34.0,Tarjeta,4.0,Entregado,La Esquina Criolla,Saludable,Santiago,2026-08-26,Providencia,Estándar
+673,84,20,2026-06-10,14900,22.0,Tarjeta,5.0,Entregado,Brasas del Sur,Saludable,Ñuñoa,31/01/2026,Providencia,Estándar
+120,129,17,2026-06-11,16500 CLP,42.0,Tarjeta,5.0,Entregado,Noodle House,Italiana,Santiago,02/08/2024,Maipú,Estándar
+902,196,11,2026-06-11,10300,23.0,Tarjeta,,Cancelado,Dulce Tentación,Italiana,Providencia,10-05-2026,Santiago,Estándar
+711,82,11,2026-06-11,12600 CLP,18.0,Tarjeta ,2.0,Entregado,Dulce Tentación,Italiana,Providencia,2025-03-04,Providencia,Estándar
+396,87,15,2026-06-11,12700,40.0,Tarjeta ,3.0,Entregado,Veggie Life,saludable,Las Condes,2024-11-17,Ñuñoa,Premium
+1101,162,1,2026-06-11,9400,39.0,Tarjeta,4.0,Entregado,  Sabores del Barrio  ,COMIDA RÁPIDA,Providencia,2024-08-06,la florida,Estándar
+133,148,23,2026-06-11,14200 CLP,26.0,Efectivo,,Cancelado,La Baguette,Italiana,Santiago,2026-06-10,Santiago,Estándar
+1093,207,17,2026-06-11,16000,40.0,Transferencia,3.0,Entregado,Noodle House,Italiana,Santiago,27-09-2024,Providencia,Estándar
+465,3,14,2026-06-11,10000,26.0,Tarjeta,4.0,Entregado,Panadería del Sol, Italiana ,Ñuñoa,2024-12-01,Providencia,Premium
+383,300,11,2026-06-12,$13.000,25.0,Tarjeta,2.0,Entregado,Dulce Tentación,Italiana,Providencia,23-09-2024,Santiago,Estándar
+1339,176,17,2026-06-12,$15.800,27.0,Efectivo,3.0,Entregado,Noodle House,Italiana,Santiago,27/03/2025,Santiago,Estándar
+35,90,28,2026-06-12,15200,37.0,Transferencia,3.0,Entregado,  Pasta & Co  ,Saludable,Santiago,06-02-2026,santiago,Estándar
+1195,27,9,2026-06-12,16600,27.0,Tarjeta,4.0,Entregado,Pizza Nonna,ITALIANA,La Florida,2026-09-27,Ñuñoa,Estándar
+1271,8,21,2026-06-12,13600,36.0,Efectivo,,Cancelado,Ensalada Fresca, Saludable ,Santiago,2024-11-10,LA FLORIDA,Estándar
+746,5,14,2026-06-12,15600,29.0,Tarjeta,5.0, Entregado,Panadería del Sol, Italiana ,Ñuñoa,2026-09-06,Ñuñoa,Estándar
+183,195,14,2026-06-12,9900,32.0,Efectivo,5.0,Entregado,Panadería del Sol, Italiana ,Ñuñoa,2026-02-13,Santiago,Estándar
+1474,180,16,2026-06-13,9100,34.0,Tarjeta,4.0,Entregado,  Trattoria Roma  ,ASIÁTICA,Maipú,2024-11-07,las condes,Premium
+1451,24,14,2026-06-13,12200,20.0,Tarjeta,4.0, Entregado,Panadería del Sol, Italiana ,Ñuñoa,03/05/2026,SANTIAGO,Estándar
+693,150,21,2026-06-13,12500,12.0,tarjeta,,Entregado,Ensalada Fresca, Saludable ,Santiago,21-02-2025,La Florida,Estándar
+621,155,25,2026-06-13,11100,47.0,Tarjeta,5.0,Entregado,Tacos y Punto,Saludable,Providencia,03/09/2026,Santiago,Premium
+1352,286,30,2026-06-14,7400,29.0,Tarjeta,4.0,ENTREGADO,Dulce Esquina,Postres y café,La Florida,2025-07-15,La Florida,
+391,111,26,2026-06-14,11700,30.0,Tarjeta,4.0,Entregado,Green House,Saludable,Ñuñoa,02-02-2026,Santiago,Estándar
+1185,187,23,2026-06-14,16000,43.0,Tarjeta,4.0,Entregado,La Baguette,Italiana,Santiago,12-04-2026,Las Condes,Premium
+263,126,9,2026-06-14,11400,22.0,tarjeta,5.0,Entregado,Pizza Nonna,ITALIANA,La Florida,2026-08-26,Providencia,Estándar
+472,79,23,2026-06-14,15400,39.0,Tarjeta,5.0,Entregado,La Baguette,Italiana,Santiago,20-07-2024,Las Condes,
+631,269,7,2026-06-15,12900,29.0,Tarjeta,4.0,Entregado,El Buen Sazón,Comida rápida,La Florida,2024-07-21,Providencia,Premium
+797,136,22,2026-06-15,12800,29.0,Efectivo,4.0,Entregado,  Ramen Ya  ,Asiática,Maipú,20-09-2024,  Providencia  ,Premium
+945,226,10,2026-06-15,$8.800,29.0,Tarjeta,,Cancelado,Wok Express,Saludable,Ñuñoa,2025-04-22,Providencia,Estándar
+296,269,30,2026-06-15,7500,34.0,Tarjeta,3.0,Entregado,Dulce Esquina,Postres y café,La Florida,2024-07-21,Providencia,Premium
+1162,213,3,2026-06-16,7200,42.0,Transferencia,5.0,Entregado,Verde Bowl,Comida rápida,Las Condes,2026-01-14,Las Condes,Estándar
+1051,127,16,2026-06-16,13600,28.0,Tarjeta,3.0, Entregado,  Trattoria Roma  ,ASIÁTICA,Maipú,2024-10-08,Ñuñoa,Estándar
+1016,177,3,2026-06-16,10800,38.0,Tarjeta,,Cancelado,Verde Bowl,Comida rápida,Las Condes,2025-03-08,Las Condes,Premium
+930,237,18,2026-06-17,9400,31.0,Tarjeta,,Entregado,El Rincón Light,Saludable,Santiago,2024-10-28,Las Condes,Estándar
+170,194,27,2026-06-17,12600,28.0,Tarjeta,3.0,Entregado,  Café Central  ,Saludable,La Florida,04-12-2025,La Florida,Premium
+675,118,13,2026-06-17,8800,28.0,Tajeta,4.0,Entregado,Sushi Mar,Asiática,Las Condes,2025-05-10,  Las Condes  ,Estándar
+915,15,22,2026-06-17,$9.200,42.0,Transferencia,4.0,Entregado,  Ramen Ya  ,Asiática,Maipú,2025-06-06,Providencia,Premium
+1412,29,1,2026-06-18,11900,24.0,Efectivo,3.0,Entregado,  Sabores del Barrio  ,COMIDA RÁPIDA,Providencia,03-11-2024,la florida,Estándar
+539,158,4,2026-06-18,$13.000,28.0,Transferencia,,CANCELADO,Pasta Nostra,Asiatica,Santiago,2026-06-27,Maipú,Estándar
+723,255,5,2026-06-18,10200,17.0,tarjeta,4.0,Entregado,  Dragón Dorado  ,Asiática,Ñuñoa,25/10/2024,Providencia,Estándar
+1334,160,22,2026-06-18,10900,27.0,Tarjeta,5.0,Entregado,  Ramen Ya  ,Asiática,Maipú,2025-11-16,Providencia,Estándar
+1123,162,23,2026-06-18,11200 CLP,26.0,Efectivo,5.0,Entregado,La Baguette,Italiana,Santiago,2024-08-06,la florida,Estándar
+1356,54,29,2026-06-18,8300,45.0,Tarjeta,,Cancelado,Mar y Tierra,Saludable,Ñuñoa,2025-08-28,PROVIDENCIA,Premium
+1369,227,20,2026-06-18,8600,25.0,Tarjeta,3.0,Entregado,Brasas del Sur,Saludable,Ñuñoa,27-06-2025,Providencia,Estándar
+1153,273,8,2026-06-18,9000,,Tarjeta,4.0,Entregado,Fit & Rico,Asiática,,2025-02-15,MAIPÚ,Premium
+901,115,20,2026-06-18,13800,,Transferencia,5.0, Entregado,Brasas del Sur,Saludable,Ñuñoa,2025-06-08,Santiago,Premium
+1362,16,22,2026-06-18,8600,23.0,Tarjeta,5.0,Entregado,  Ramen Ya  ,Asiática,Maipú,2025-06-28,Ñuñoa,Premium
+62,237,22,2026-06-18,12400,12.0,Efectivo,,Cancelado,  Ramen Ya  ,Asiática,Maipú,2024-10-28,Las Condes,Estándar
+739,285,25,2026-06-18,9600,36.0,Tarjeta,5.0,Entregado,Tacos y Punto,Saludable,Providencia,20/03/2026,Providencia,Estándar
+822,72,29,2026-06-19,11600,33.0,Efectivo,4.0,Entregado,Mar y Tierra,Saludable,Ñuñoa,2025-10-28,Ñuñoa,Estándar
+1406,54,2,2026-06-19,14400,25.0,Tarjeta,,Cancelado,La Esquina Criolla,Saludable,Santiago,2025-08-28,PROVIDENCIA,Premium
+948,117,18,2026-06-19,7800,,Efectivo,4.0,Entregado,El Rincón Light,Saludable,Santiago,2025-04-21,Santiago,Estándar
+1142,247,26,2026-06-19,12700,20.0,Efectivo,5.0,entregado,Green House,Saludable,Ñuñoa,2025-01-25,Santiago,Estándar
+1146,218,20,2026-06-19,14700,27.0,Tarjeta,5.0,Entregado,Brasas del Sur,Saludable,Ñuñoa,2024-10-16,La Florida,Estándar
+1248,32,3,2026-06-19,12500,30.0,Transferencia,3.0,Entregado,Verde Bowl,Comida rápida,Las Condes,2024-07-25,  Santiago  ,Estándar
+749,293,6,2026-06-19,13000,24.0,Transferencia,4.0,Entregado,Café Luna,Asiatica,Santiago,2024-08-04,La Florida,Estándar
+1310,103,1,2026-06-20,11700,33.0,Tarjeta,3.0,Entregado,  Sabores del Barrio  ,COMIDA RÁPIDA,Providencia,2024-10-08,Ñuñoa,Premium
+107,166,10,2026-06-20,9200,38.0,Transferencia,,Cancelado,Wok Express,Saludable,Ñuñoa,06/08/2025,Las Condes,Estándar
+87,68,30,2026-06-20,4400,23.0,Transferencia,4.0,Entregado,Dulce Esquina,Postres y café,La Florida,2026-01-26,Las Condes,Estándar
+1073,120,2,2026-06-20,10600,31.0,Tarjeta,,Entregado,La Esquina Criolla,Saludable,Santiago,29-04-2025,Providencia,Estándar
+461,113,24,2026-06-20,12900,37.0,Tarjeta,4.0,Entregado,Pollo al Carbón,Asiatica,,25-02-2026,La Florida,Premium
+1331,24,20,2026-06-20,12700,21.0,Efectivo,,Cancelado,Brasas del Sur,Saludable,Ñuñoa,03/05/2026,SANTIAGO,Estándar
+1166,163,25,2026-06-20,11600,36.0,Tarjeta,5.0,Entregado,Tacos y Punto,Saludable,Providencia,2026-03-18,Las Condes,Premium
+1307,180,23,2026-06-20,17100,45.0,Efectivo,4.0,Entregado,La Baguette,Italiana,Santiago,2024-11-07,las condes,Premium
+1171,237,18,2026-06-20,13600,42.0,Tarjeta,4.0,Entregado,El Rincón Light,Saludable,Santiago,2024-10-28,Las Condes,Estándar
+503,11,17,2026-06-21,9600 CLP,38.0,Efectivo,4.0,Entregado,Noodle House,Italiana,Santiago,31/08/2026,Ñuñoa,Estándar
+1247,72,15,2026-06-21,12200,45.0,Tarjeta,4.0,Entregado,Veggie Life,saludable,Las Condes,2025-10-28,Ñuñoa,Estándar
+1298,293,23,2026-06-21,12700,32.0,Tarjeta,2.0,Entregado,La Baguette,Italiana,Santiago,2024-08-04,La Florida,Estándar
+568,284,26,2026-06-21,10000,39.0,Transferencia,4.0,Entregado,Green House,Saludable,Ñuñoa,2025-06-15,La Florida,Estándar
+1304,154,20,2026-06-21,8700,32.0,Tajeta,5.0,entregado,Brasas del Sur,Saludable,Ñuñoa,2025-07-31,  La Florida  ,Premium
+1032,272,23,2026-06-22,13300,32.0,Tajeta,5.0,Entregado,La Baguette,Italiana,Santiago,09-09-2025,Santiago,Estándar
+329,130,13,2026-06-22,12500,43.0,Tarjeta,5.0,Entregado,Sushi Mar,Asiática,Las Condes,2026-03-29,Santiago,Estándar
+993,293,1,2026-06-22,9600,33.0,Tarjeta,,Cancelado,  Sabores del Barrio  ,COMIDA RÁPIDA,Providencia,2024-08-04,La Florida,Estándar
+138,244,9,2026-06-22,$15.600,27.0,Tarjeta,5.0, Entregado,Pizza Nonna,ITALIANA,La Florida,2026-06-19,Santiago,Estándar
+1159,286,4,2026-06-22,13000,20.0,Tarjeta,4.0,Entregado,Pasta Nostra,Asiatica,Santiago,2025-07-15,La Florida,
+645,246,19,2026-06-22,6800,20.0,Tarjeta,3.0,Entregado,Churros & Más,Comida rápida,Santiago,2025-01-14,Providencia,Estándar
+275,221,5,2026-06-23,14800,24.0,Tarjeta,,Entregado,  Dragón Dorado  ,Asiática,Ñuñoa,2026-05-01,Santiago,
+1113,106,30,2026-06-23,8000 CLP,31.0,Efectivo,3.0,Entregado,Dulce Esquina,Postres y café,La Florida,2024-07-14,La Florida,Estándar
+1087,263,5,2026-06-23,13600,37.0,Tarjeta ,3.0,Entregado,  Dragón Dorado  ,Asiática,Ñuñoa,13/01/2025,Maipú,Estándar
+25,250,13,2026-06-23,15500,40.0,Tarjeta,,Cancelado,Sushi Mar,Asiática,Las Condes,2026-04-08,Las Condes,Estándar
+946,230,29,2026-06-24,8900,36.0,Tarjeta,5.0,Entregado,Mar y Tierra,Saludable,Ñuñoa,15/11/2025,SANTIAGO,Estándar
+1106,215,28,2026-06-24,14700,13.0,Tarjeta,,CANCELADO,  Pasta & Co  ,Saludable,Santiago,2025-12-02,Providencia,Estándar
+459,111,10,2026-06-24,11700,32.0,Efectivo,3.0,Entregado,Wok Express,Saludable,Ñuñoa,02-02-2026,Santiago,Estándar
+827,202,4,2026-06-24,10700,32.0,Tarjeta,5.0,ENTREGADO,Pasta Nostra,Asiatica,Santiago,2025-08-05,Santiago,Premium
+1384,262,3,2026-06-25,11600,28.0,Efectivo,5.0,Entregado,Verde Bowl,Comida rápida,Las Condes,2025-05-26,Las Condes,Estándar
+950,29,21,2026-06-25,9700,48.0,Transferencia,4.0,Entregado,Ensalada Fresca, Saludable ,Santiago,03-11-2024,la florida,Estándar
+1478,270,12,2026-06-26,9100,34.0,Tarjeta,4.0,Entregado,Parrilla Andina,Comida rápida,,2025-02-20,Providencia,Premium
+670,100,18,2026-06-26,13800 CLP,32.0,Tarjeta,5.0,Entregado,El Rincón Light,Saludable,Santiago,2026-05-01,La Florida,Estándar
+783,230,7,2026-06-26,$10.000,36.0,Tarjeta,4.0,Entregado,El Buen Sazón,Comida rápida,La Florida,15/11/2025,SANTIAGO,Estándar
+1455,10,9,2026-06-26,17400,41.0,Efectivo,5.0,Entregado,Pizza Nonna,ITALIANA,La Florida,2025-05-15,Santiago,Estándar
+670,100,18,2026-06-26,13800 CLP,32.0,Tarjeta,5.0,Entregado,El Rincón Light,Saludable,Santiago,2026-05-01,La Florida,Estándar
+809,238,23,2026-06-26,8900,23.0,Tarjeta,2.0,Entregado,La Baguette,Italiana,Santiago,2026-04-28,Santiago,Estándar
+774,92,27,2026-06-27,10000,39.0,Transferencia,4.0,Entregado,  Café Central  ,Saludable,La Florida,2024-12-10,Providencia,
+293,118,29,2026-06-27,10500,29.0,Tarjeta,,Cancelado,Mar y Tierra,Saludable,Ñuñoa,2025-05-10,  Las Condes  ,Estándar
+1393,101,8,2026-06-27,12900,42.0,tarjeta,3.0,Entregado,Fit & Rico,Asiática,,2026-04-22,Santiago,Estándar
+865,56,29,2026-06-27,7800,40.0,Efectivo,5.0, Entregado,Mar y Tierra,Saludable,Ñuñoa,2025-01-24,La Florida,Estándar
+1008,93,5,2026-06-28,11000,33.0,Tarjeta,5.0,Entregado,  Dragón Dorado  ,Asiática,Ñuñoa,2025-04-07,MAIPÚ,Estándar
+1487,173,2,2026-06-28,14800,39.0,Transferencia,,Entregado,La Esquina Criolla,Saludable,Santiago,2025-12-14,LAS CONDES,Premium
+8,157,11,2026-06-29,15700,31.0,Tarjeta,4.0,Entregado,Dulce Tentación,Italiana,Providencia,10/09/2024,La Florida,Estándar
+473,171,9,2026-06-29,9400,,Transferencia,,Cancelado,Pizza Nonna,ITALIANA,La Florida,2025-01-03,Santiago,Estándar
+721,233,1,2026-06-29,12700,36.0,Tarjeta,4.0,Entregado,  Sabores del Barrio  ,COMIDA RÁPIDA,Providencia,2025-05-18,Las Condes,Estándar
+217,137,9,2026-06-29,14600,40.0,Efectivo,3.0,Entregado,Pizza Nonna,ITALIANA,La Florida,02-07-2026,Maipú,Estándar
+109,74,17,2026-06-29,9000,24.0,EFECTIVO,2.0,Entregado,Noodle House,Italiana,Santiago,07/03/2026,Santiago,Premium
+560,110,22,2026-06-29,7400,30.0,Tarjeta,,Cancelado,  Ramen Ya  ,Asiática,Maipú,2025-05-16,Ñuñoa,Premium
+151,256,6,2026-06-29,10600,53.0,Tarjeta,4.0,Entregado,Café Luna,Asiatica,Santiago,27-09-2025,Las Condes,Estándar
+1006,155,24,2026-06-30,15300,23.0,Tarjeta,,Cancelado,Pollo al Carbón,Asiatica,,03/09/2026,Santiago,Premium
+198,10,3,2026-06-30,7100,,Tarjeta,4.0,Entregado,Verde Bowl,Comida rápida,Las Condes,2025-05-15,Santiago,Estándar
+180,263,14,2026-06-30,16500,30.0,Tarjeta,5.0,Entregado,Panadería del Sol, Italiana ,Ñuñoa,13/01/2025,Maipú,Estándar
+771,299,11,2026-07-01,11200,29.0,Efectivo,4.0,Entregado,Dulce Tentación,Italiana,Providencia,2024-12-16,La Florida,Premium
+1059,67,27,2026-07-01,7900,26.0,Tarjeta,5.0,Entregado,  Café Central  ,Saludable,La Florida,2025-04-07,La Florida,Estándar
+685,182,20,2026-07-01,15100,33.0,Transferencia,3.0,Entregado,Brasas del Sur,Saludable,Ñuñoa,28-09-2024,La Florida,Premium
+1431,55,4,2026-07-01,8300,12.0,Tarjeta,4.0,Entregado,Pasta Nostra,Asiatica,Santiago,2026-05-08,  Santiago  ,Premium
+1059,67,27,2026-07-01,7900,26.0,Tarjeta,5.0,Entregado,  Café Central  ,Saludable,La Florida,2025-04-07,La Florida,Estándar
+1265,213,19,2026-07-02,9900,23.0,Transferencia,5.0,Entregado,Churros & Más,Comida rápida,Santiago,2026-01-14,Las Condes,Estándar
+1460,194,7,2026-07-02,8000,16.0,Tarjeta,5.0,Entregado,El Buen Sazón,Comida rápida,La Florida,04-12-2025,La Florida,Premium
+682,75,25,2026-07-02,15000,24.0,Tarjeta,5.0,Entregado,Tacos y Punto,Saludable,Providencia,07-11-2025,Providencia,Premium
+803,266,12,2026-07-02,8400,32.0,Tarjeta,5.0,Entregado,Parrilla Andina,Comida rápida,,2024-10-30,Las Condes,Estándar
+963,43,17,2026-07-02,16800 CLP,32.0,Tarjeta,5.0, Entregado,Noodle House,Italiana,Santiago,04-12-2025,SANTIAGO,Estándar
+606,52,27,2026-07-03,10100,36.0,Transferencia,5.0,Entregado,  Café Central  ,Saludable,La Florida,09-04-2026,Maipú,Estándar
+657,109,13,2026-07-03,12600,34.0,Transferencia,5.0,Entregado,Sushi Mar,Asiática,Las Condes,19-07-2024,Santiago,Estándar
+512,103,1,2026-07-03,10000,30.0,TARJETA,5.0,entregado,  Sabores del Barrio  ,COMIDA RÁPIDA,Providencia,2024-10-08,Ñuñoa,Premium
+663,103,13,2026-07-03,15800 CLP,33.0,Transferencia,,Cancelado,Sushi Mar,Asiática,Las Condes,2024-10-08,Ñuñoa,Premium
+657,109,13,2026-07-03,12600,34.0,Transferencia,5.0,Entregado,Sushi Mar,Asiática,Las Condes,19-07-2024,Santiago,Estándar
+997,53,28,2026-07-03,9400,,Transferencia,5.0,Entregado,  Pasta & Co  ,Saludable,Santiago,08-01-2026,La Florida,Premium
+1432,187,11,2026-07-03,10800,26.0,Tarjeta,5.0,Entregado,Dulce Tentación,Italiana,Providencia,12-04-2026,Las Condes,Premium
+56,97,1,2026-07-04,9400,28.0,Efectivo,4.0,Entregado,  Sabores del Barrio  ,COMIDA RÁPIDA,Providencia,21/01/2025,Santiago,Estándar
+1280,194,9,2026-07-04,15500,,Tarjeta,5.0,entregado,Pizza Nonna,ITALIANA,La Florida,04-12-2025,La Florida,Premium
+1128,76,24,2026-07-04,8900,22.0,Efectivo,3.0,Entregado,Pollo al Carbón,Asiatica,,2025-03-18,Ñuñoa,Estándar
+933,270,27,2026-07-04,13800,13.0,Tarjeta,5.0,Entregado,  Café Central  ,Saludable,La Florida,2025-02-20,Providencia,Premium
+938,213,27,2026-07-04,15100,31.0,Tarjeta,5.0,Entregado,  Café Central  ,Saludable,La Florida,2026-01-14,Las Condes,Estándar
+132,24,2,2026-07-04,9700,21.0,Transferencia,4.0,Entregado,La Esquina Criolla,Saludable,Santiago,03/05/2026,SANTIAGO,Estándar
+260,266,25,2026-07-04,9900,22.0,Efectivo,4.0,Entregado,Tacos y Punto,Saludable,Providencia,2024-10-30,Las Condes,Estándar
+152,225,3,2026-07-05,13400,38.0,Tarjeta,5.0,Entregado,Verde Bowl,Comida rápida,Las Condes,2025-04-30,maipú,Premium
+637,42,12,2026-07-05,6600 CLP,23.0,Transferencia,5.0,Entregado,Parrilla Andina,Comida rápida,,2025-07-12,Maipú,Estándar
+152,225,3,2026-07-05,13400,38.0,Tarjeta,5.0,Entregado,Verde Bowl,Comida rápida,Las Condes,2025-04-30,maipú,Premium
+706,118,2,2026-07-05,6800,39.0,Tarjeta,,Cancelado,La Esquina Criolla,Saludable,Santiago,2025-05-10,  Las Condes  ,Estándar
+567,23,24,2026-07-05,9600,33.0,Efectivo,,Cancelado,Pollo al Carbón,Asiatica,,2025-08-16,Santiago,Estándar
+1281,257,25,2026-07-05,14600,37.0,Tarjeta,4.0,entregado,Tacos y Punto,Saludable,Providencia,2026-07-26,Las Condes,Estándar
+1096,133,29,2026-07-05,8000,29.0,Tarjeta,5.0,Entregado,Mar y Tierra,Saludable,Ñuñoa,2025-07-18,ñuñoa,Estándar
+126,213,25,2026-07-06,7600 CLP,,Tarjeta,4.0,Entregado,Tacos y Punto,Saludable,Providencia,2026-01-14,Las Condes,Estándar
+897,263,22,2026-07-06,8900,36.0,Tarjeta,,Cancelado,  Ramen Ya  ,Asiática,Maipú,13/01/2025,Maipú,Estándar
+1372,6,3,2026-07-06,13300,33.0,Tarjeta,5.0,Entregado,Verde Bowl,Comida rápida,Las Condes,2024-10-16,Providencia,Premium
+491,42,2,2026-07-07,9500,31.0,Transferencia,4.0,Entregado,La Esquina Criolla,Saludable,Santiago,2025-07-12,Maipú,Estándar
+279,229,29,2026-07-07,12600,36.0,Tajeta,4.0,Entregado,Mar y Tierra,Saludable,Ñuñoa,2025-06-14,Providencia,Premium
+380,235,24,2026-07-07,11300,35.0,Efectivo,3.0,Entregado,Pollo al Carbón,Asiatica,,2025-11-12,La Florida,Premium
+227,36,10,2026-07-07,9300,35.0,Tarjeta,4.0,Entregado,Wok Express,Saludable,Ñuñoa,2026-06-11,La Florida,Premium
+98,24,4,2026-07-07,16000,33.0,Transferencia,4.0,Entregado,Pasta Nostra,Asiatica,Santiago,03/05/2026,SANTIAGO,Estándar
+380,235,24,2026-07-07,11300,35.0,Efectivo,3.0,Entregado,Pollo al Carbón,Asiatica,,2025-11-12,La Florida,Premium
+972,32,22,2026-07-07,$12.700,50.0,Tarjeta,4.0,Entregado,  Ramen Ya  ,Asiática,Maipú,2024-07-25,  Santiago  ,Estándar
+266,158,27,2026-07-07,14700,28.0,Tarjeta,5.0,Entregado,  Café Central  ,Saludable,La Florida,2026-06-27,Maipú,Estándar
+464,21,2,2026-07-08,13000,36.0,Efectivo,5.0,Entregado,La Esquina Criolla,Saludable,Santiago,2024-11-09,La Florida,Premium
+1000,98,17,2026-07-08,7800,33.0,Tarjeta,5.0,Entregado,Noodle House,Italiana,Santiago,2025-08-16,Providencia,Estándar
+890,158,30,2026-07-08,8200,,tarjeta,3.0,entregado,Dulce Esquina,Postres y café,La Florida,2026-06-27,Maipú,Estándar
+904,57,20,2026-07-08,11900,40.0,Tarjeta,,Cancelado,Brasas del Sur,Saludable,Ñuñoa,01/08/2024,Ñuñoa,Estándar
+533,184,24,2026-07-08,10900,16.0,Efectivo,4.0,Entregado,Pollo al Carbón,Asiatica,,2026-04-10,Providencia,Premium
+1394,140,18,2026-07-08,15100,39.0,tarjeta,3.0,Entregado,El Rincón Light,Saludable,Santiago,2026-01-20,Santiago,
+937,43,23,2026-07-08,10200,23.0,Transferencia,,Cancelado,La Baguette,Italiana,Santiago,04-12-2025,SANTIAGO,Estándar
+813,26,13,2026-07-09,12500,30.0,Transferencia,2.0,Entregado,Sushi Mar,Asiática,Las Condes,2026-03-10,Santiago,Estándar
+906,121,26,2026-07-09,14700,32.0,Tarjeta,,Cancelado,Green House,Saludable,Ñuñoa,2026-01-18,Maipú,Premium
+1077,135,15,2026-07-09,13300,25.0,Tarjeta,4.0,Entregado,Veggie Life,saludable,Las Condes,2026-08-23,Providencia,Estándar
+50,118,30,2026-07-09,4600,12.0,Tarjeta,5.0,Entregado,Dulce Esquina,Postres y café,La Florida,2025-05-10,  Las Condes  ,Estándar
+1279,17,17,2026-07-09,13400,,Efectivo,,Cancelado,Noodle House,Italiana,Santiago,26/09/2024,Santiago,Estándar
+313,87,21,2026-07-09,13900,15.0,Tarjeta,4.0,Entregado,Ensalada Fresca, Saludable ,Santiago,2024-11-17,Ñuñoa,Premium
+773,41,22,2026-07-09,14100,19.0,Tarjeta,5.0,Entregado,  Ramen Ya  ,Asiática,Maipú,2026-03-12,Santiago,Estándar
+508,56,2,2026-07-09,7800,31.0,Tarjeta,, Cancelado,La Esquina Criolla,Saludable,Santiago,2025-01-24,La Florida,Estándar
+1038,272,12,2026-07-09,12900,26.0,Transferencia,4.0,Entregado,Parrilla Andina,Comida rápida,,09-09-2025,Santiago,Estándar
+435,87,23,2026-07-09,11000,21.0,Efectivo,5.0,Entregado,La Baguette,Italiana,Santiago,2024-11-17,Ñuñoa,Premium
+1103,6,22,2026-07-10,9300,35.0,Efectivo,,Cancelado,  Ramen Ya  ,Asiática,Maipú,2024-10-16,Providencia,Premium
+741,247,8,2026-07-10,13600,24.0,Tarjeta,,Cancelado,Fit & Rico,Asiática,,2025-01-25,Santiago,Estándar
+516,108,17,2026-07-10,14800,40.0,Tarjeta,4.0,entregado,Noodle House,Italiana,Santiago,2026-09-29,Santiago,
+1207,259,24,2026-07-10,11100,43.0,Efectivo,4.0,ENTREGADO,Pollo al Carbón,Asiatica,,2026-03-03,providencia,Estándar
+758,297,27,2026-07-10,10600,35.0,Tarjeta,4.0,Entregado,  Café Central  ,Saludable,La Florida,20/09/2024,  Ñuñoa  ,
+10,231,14,2026-07-10,11500,42.0,Efectivo,5.0,Entregado,Panadería del Sol, Italiana ,Ñuñoa,2026-05-23,Santiago,Estándar
+428,188,28,2026-07-11,9100,33.0,Tarjeta,3.0,Entregado,  Pasta & Co  ,Saludable,Santiago,2025-08-27,Nunoa,Premium
+297,51,6,2026-07-11,$11.700,32.0,Efectivo,5.0,Entregado,Café Luna,Asiatica,Santiago,22-04-2025,Ñuñoa,Estándar
+387,167,17,2026-07-11,7700,44.0,Tarjeta,5.0,Entregado,Noodle House,Italiana,Santiago,2026-05-20,Santiago,Estándar
+1029,57,3,2026-07-11,6100,,Efectivo,4.0,Entregado,Verde Bowl,Comida rápida,Las Condes,01/08/2024,Ñuñoa,Estándar
+1401,257,26,2026-07-11,15200,36.0,Transferencia,4.0,Entregado,Green House,Saludable,Ñuñoa,2026-07-26,Las Condes,Estándar
+57,53,10,2026-07-11,12200,31.0,Tarjeta,4.0,Entregado,Wok Express,Saludable,Ñuñoa,08-01-2026,La Florida,Premium
+232,228,8,2026-07-11,16100,20.0,Tarjeta,3.0,Entregado,Fit & Rico,Asiática,,17/09/2026,Santiago,Premium
+479,155,17,2026-07-11,8900,40.0,TARJETA,4.0,Entregado,Noodle House,Italiana,Santiago,03/09/2026,Santiago,Premium
+428,188,28,2026-07-11,9100,33.0,Tarjeta,3.0,Entregado,  Pasta & Co  ,Saludable,Santiago,2025-08-27,Nunoa,Premium
+1241,179,16,2026-07-11,$12.900,34.0,Tarjeta,5.0,Entregado,  Trattoria Roma  ,ASIÁTICA,Maipú,2025-03-05,La Florida,Estándar
+913,128,17,2026-07-11,15000,27.0,Tarjeta,4.0,Entregado,Noodle House,Italiana,Santiago,2025-03-01,las condes,Premium
+678,190,16,2026-07-11,11400,41.0,Tarjeta,4.0,Entregado,  Trattoria Roma  ,ASIÁTICA,Maipú,2025-09-18,Santiago,Estándar
+589,292,3,2026-07-11,6000,28.0,Tarjeta,4.0,Entregado,Verde Bowl,Comida rápida,Las Condes,20-04-2026,Maipú,Estándar
+1186,169,27,2026-07-11,9900,38.0,TRANSFERENCIA,3.0,entregado,  Café Central  ,Saludable,La Florida,07-04-2025,Santiago,Estándar
+1066,178,3,2026-07-11,6000,28.0,Tarjeta,4.0,entregado,Verde Bowl,Comida rápida,Las Condes,2025-03-06,Providencia,Estándar
+1225,170,8,2026-07-12,8400,28.0,Tarjeta,4.0,Entregado,Fit & Rico,Asiática,,28/02/2026,Ñuñoa,Estándar
+1438,230,15,2026-07-12,12000,24.0,Tarjeta,4.0,Entregado,Veggie Life,saludable,Las Condes,15/11/2025,SANTIAGO,Estándar
+1178,221,3,2026-07-12,8900,32.0,Tarjeta,4.0,Entregado,Verde Bowl,Comida rápida,Las Condes,2026-05-01,Santiago,
+900,22,20,2026-07-12,6700,50.0,tarjeta,5.0,Entregado,Brasas del Sur,Saludable,Ñuñoa,25-07-2025,Maipú,Estándar
+1139,267,17,2026-07-13,16000,33.0,Efectivo,5.0,Entregado,Noodle House,Italiana,Santiago,07-09-2026,providencia,Estándar
+1273,117,21,2026-07-13,10200,23.0,Tajeta,,Cancelado,Ensalada Fresca, Saludable ,Santiago,2025-04-21,Santiago,Estándar
+505,281,1,2026-07-13,7700 CLP,25.0,Tarjeta,4.0,Entregado,  Sabores del Barrio  ,COMIDA RÁPIDA,Providencia,25-09-2024,Santiago,
+922,268,23,2026-07-14,17200,33.0,Transferencia,4.0,Entregado,La Baguette,Italiana,Santiago,2026-09-23,Ñuñoa,Estándar
+793,16,29,2026-07-14,10000,36.0,Transferencia,4.0,Entregado,Mar y Tierra,Saludable,Ñuñoa,2025-06-28,Ñuñoa,Premium
+424,232,23,2026-07-14,13900,28.0,TARJETA,3.0,Entregado,La Baguette,Italiana,Santiago,2025-02-08,La Florida,Estándar
+403,74,3,2026-07-14,9400,37.0,Efectivo,3.0,Entregado,Verde Bowl,Comida rápida,Las Condes,07/03/2026,Santiago,Premium
+576,81,25,2026-07-14,7500,27.0,Tarjeta,4.0,Entregado,Tacos y Punto,Saludable,Providencia,2024-07-20,Santiago,Estándar
+689,89,10,2026-07-14,14800,36.0,Tajeta,,Cancelado,Wok Express,Saludable,Ñuñoa,2025-07-16,SANTIAGO,Premium
+68,144,27,2026-07-15,8100,36.0,Tarjeta,,Entregado,  Café Central  ,Saludable,La Florida,08/12/2025,Ñuñoa,Estándar
+1025,167,16,2026-07-15,9300,41.0,EFECTIVO,5.0,Entregado,  Trattoria Roma  ,ASIÁTICA,Maipú,2026-05-20,Santiago,Estándar
+705,213,7,2026-07-15,12600,30.0,Transferencia,4.0,Entregado,El Buen Sazón,Comida rápida,La Florida,2026-01-14,Las Condes,Estándar
+34,45,10,2026-07-15,13300,-5.0,Efectivo,5.0, Entregado,Wok Express,Saludable,Ñuñoa,11-02-2026,Maipú,Estándar
+1019,4,14,2026-07-15,17500,23.0,Efectivo ,4.0,Entregado,Panadería del Sol, Italiana ,Ñuñoa,13/09/2024,Providencia,Premium
+745,280,26,2026-07-15,9300,34.0,Tajeta,,Cancelado,Green House,Saludable,Ñuñoa,04/08/2024,La Florida,Premium
+223,75,4,2026-07-16,13900,37.0,Tarjeta,5.0,ENTREGADO,Pasta Nostra,Asiatica,Santiago,07-11-2025,Providencia,Premium
+1430,166,9,2026-07-16,10800,,Efectivo,4.0,Entregado,Pizza Nonna,ITALIANA,La Florida,06/08/2025,Las Condes,Estándar
+127,141,20,2026-07-16,9900,30.0,Tarjeta,5.0,Entregado,Brasas del Sur,Saludable,Ñuñoa,2025-06-12,la florida,Estándar
+1012,261,11,2026-07-16,14400,34.0,Transferencia,3.0,Entregado,Dulce Tentación,Italiana,Providencia,2026-03-06,Santiago,Premium
+210,76,30,2026-07-16,4700,19.0,Tarjeta,5.0,Entregado,Dulce Esquina,Postres y café,La Florida,2025-03-18,Ñuñoa,Estándar
+529,150,27,2026-07-17,14400,38.0,Efectivo,4.0,Entregado,  Café Central  ,Saludable,La Florida,21-02-2025,La Florida,Estándar
+1299,271,10,2026-07-18,15100,,Tarjeta,3.0,Entregado,Wok Express,Saludable,Ñuñoa,15/04/2025,santiago,Estándar
+468,68,3,2026-07-18,9500,30.0,Efectivo,5.0,Entregado,Verde Bowl,Comida rápida,Las Condes,2026-01-26,Las Condes,Estándar
+1308,115,13,2026-07-18,$11.300,42.0,Tarjeta,,Cancelado,Sushi Mar,Asiática,Las Condes,2025-06-08,Santiago,Premium
+683,225,13,2026-07-18,13100,27.0,Efectivo,,Cancelado,Sushi Mar,Asiática,Las Condes,2025-04-30,maipú,Premium
+683,225,13,2026-07-18,13100,27.0,Efectivo,,Cancelado,Sushi Mar,Asiática,Las Condes,2025-04-30,maipú,Premium
+1065,129,21,2026-07-18,12100,35.0,Tarjeta,,cancelado,Ensalada Fresca, Saludable ,Santiago,02/08/2024,Maipú,Estándar
+171,181,14,2026-07-18,9600,35.0,Tarjeta,5.0,Entregado,Panadería del Sol, Italiana ,Ñuñoa,2025-02-05,Santiago,Premium
+405,268,14,2026-07-19,13600,25.0,Efectivo,4.0,Entregado,Panadería del Sol, Italiana ,Ñuñoa,2026-09-23,Ñuñoa,Estándar
+419,23,27,2026-07-19,14800,37.0,Tarjeta,4.0,Entregado,  Café Central  ,Saludable,La Florida,2025-08-16,Santiago,Estándar
+1288,166,30,2026-07-19,$6.500,41.0,Tarjeta,5.0,Entregado,Dulce Esquina,Postres y café,La Florida,06/08/2025,Las Condes,Estándar
+549,50,24,2026-07-19,7800,22.0,Tarjeta,,cancelado,Pollo al Carbón,Asiatica,,05-05-2025,Santiago,Premium
+225,253,19,2026-07-19,11100,26.0,Tarjeta ,3.0,Entregado,Churros & Más,Comida rápida,Santiago,2026-02-20,  Ñuñoa  ,Estándar
+31,190,18,2026-07-19,13900,45.0,Tarjeta,4.0,Entregado,El Rincón Light,Saludable,Santiago,2025-09-18,Santiago,Estándar
+1023,165,23,2026-07-19,16100,28.0,TARJETA,3.0,Entregado,La Baguette,Italiana,Santiago,2025-10-25,Las Condes,Estándar
+769,149,2,2026-07-20,14400,32.0,Tarjeta,5.0,Entregado,La Esquina Criolla,Saludable,Santiago,2026-02-11,Santiago,Premium
+1321,228,27,2026-07-20,11500,46.0,Efectivo,4.0,Entregado,  Café Central  ,Saludable,La Florida,17/09/2026,Santiago,Premium
+245,226,9,2026-07-20,16100,22.0,Efectivo,4.0,Entregado,Pizza Nonna,ITALIANA,La Florida,2025-04-22,Providencia,Estándar
+1209,16,12,2026-07-20,11100,25.0,Tarjeta,3.0,Entregado,Parrilla Andina,Comida rápida,,2025-06-28,Ñuñoa,Premium
+1163,260,16,2026-07-20,13300,35.0,TARJETA,4.0,Entregado,  Trattoria Roma  ,ASIÁTICA,Maipú,18-06-2025,Las Condes,Premium
+438,215,24,2026-07-21,12400,31.0,Tarjeta,5.0,Entregado,Pollo al Carbón,Asiatica,,2025-12-02,Providencia,Estándar
+519,56,1,2026-07-21,9600,15.0,Efectivo,5.0,Entregado,  Sabores del Barrio  ,COMIDA RÁPIDA,Providencia,2025-01-24,La Florida,Estándar
+237,202,17,2026-07-22,16600,20.0,Tarjeta,4.0,Entregado,Noodle House,Italiana,Santiago,2025-08-05,Santiago,Premium
+398,42,16,2026-07-22,16000,36.0,Tarjeta,,Cancelado,  Trattoria Roma  ,ASIÁTICA,Maipú,2025-07-12,Maipú,Estándar
+156,222,11,2026-07-22,10700,40.0,Efectivo,5.0,Entregado,Dulce Tentación,Italiana,Providencia,2026-03-01,Providencia,Premium
+476,61,20,2026-07-22,14900,24.0,Transferencia,4.0,Entregado,Brasas del Sur,Saludable,Ñuñoa,16-08-2025,Santiago,Premium
+97,201,17,2026-07-22,14200,19.0,Tarjeta,5.0,Entregado,Noodle House,Italiana,Santiago,2025-12-23,Santiago,Estándar
+1414,126,13,2026-07-22,11900,41.0,Efectivo,4.0,Entregado,Sushi Mar,Asiática,Las Condes,2026-08-26,Providencia,Estándar
+37,183,27,2026-07-22,10500,44.0,Tarjeta,4.0,Entregado,  Café Central  ,Saludable,La Florida,08-12-2024,Providencia,Estándar
+811,112,20,2026-07-22,14700,35.0,Tarjeta,3.0,Entregado,Brasas del Sur,Saludable,Ñuñoa,2025-03-11,Providencia,
+1486,41,26,2026-07-22,7000 CLP,51.0,Efectivo,,Cancelado,Green House,Saludable,Ñuñoa,2026-03-12,Santiago,Estándar
+595,174,14,2026-07-22,12200,29.0,Efectivo,3.0,Entregado,Panadería del Sol, Italiana ,Ñuñoa,2026-07-24,Santiago,Estándar
+190,153,12,2026-07-22,10800,38.0,Efectivo,4.0,entregado,Parrilla Andina,Comida rápida,,03-07-2024,Maipú,Estándar
+821,76,11,2026-07-23,12500,20.0,Tarjeta,3.0,entregado,Dulce Tentación,Italiana,Providencia,2025-03-18,Ñuñoa,Estándar
+1443,216,10,2026-07-23,10000,23.0,Efectivo,3.0,Entregado,Wok Express,Saludable,Ñuñoa,27-05-2025,La Florida,Premium
+1092,166,28,2026-07-24,12900,17.0,Efectivo ,,Cancelado,  Pasta & Co  ,Saludable,Santiago,06/08/2025,Las Condes,Estándar
+1082,64,25,2026-07-24,11600,36.0,TARJETA,5.0,Entregado,Tacos y Punto,Saludable,Providencia,2025-08-26,Las Condes,Estándar
+1180,46,10,2026-07-24,10200,38.0,Efectivo,5.0,Entregado,Wok Express,Saludable,Ñuñoa,2026-02-20,Las Condes,Premium
+765,40,18,2026-07-24,12800,32.0,tarjeta,3.0,Entregado,El Rincón Light,Saludable,Santiago,21/06/2025,Santiago,Estándar
+677,49,27,2026-07-24,10400,21.0,Efectivo,5.0,Entregado,  Café Central  ,Saludable,La Florida,2025-10-01,Santiago,Estándar
+191,144,3,2026-07-24,$7.300,43.0,efectivo,,Cancelado,Verde Bowl,Comida rápida,Las Condes,08/12/2025,Ñuñoa,Estándar
+730,90,7,2026-07-25,11200,37.0,Tarjeta,,Cancelado,El Buen Sazón,Comida rápida,La Florida,06-02-2026,santiago,Estándar
+846,1,23,2026-07-25,8900,19.0,Transferencia,4.0,Entregado,La Baguette,Italiana,Santiago,2026-04-15,La Florida,Estándar
+962,290,19,2026-07-25,12600,32.0,Efectivo,4.0,Entregado,Churros & Más,Comida rápida,Santiago,25/04/2026,Las Condes,Estándar
+747,163,13,2026-07-25,11700,35.0,Tarjeta,4.0,Entregado,Sushi Mar,Asiática,Las Condes,2026-03-18,Las Condes,Premium
+579,120,5,2026-07-25,7400,36.0,Tajeta,,Cancelado,  Dragón Dorado  ,Asiática,Ñuñoa,29-04-2025,Providencia,Estándar
+987,100,11,2026-07-26,11000,40.0,Tarjeta ,,Cancelado,Dulce Tentación,Italiana,Providencia,2026-05-01,La Florida,Estándar
+727,167,3,2026-07-26,11700,24.0,Tarjeta,,cancelado,Verde Bowl,Comida rápida,Las Condes,2026-05-20,Santiago,Estándar
+224,184,29,2026-07-26,$8.500,19.0,Tarjeta,5.0,Entregado,Mar y Tierra,Saludable,Ñuñoa,2026-04-10,Providencia,Premium
+445,264,3,2026-07-26,10000,47.0,Tarjeta,4.0,Entregado,Verde Bowl,Comida rápida,Las Condes,2024-12-12,Santiago,Premium
+666,141,8,2026-07-26,8400,34.0,Tarjeta,,Entregado,Fit & Rico,Asiática,,2025-06-12,la florida,Estándar
+1035,132,21,2026-07-26,12900,12.0,Tarjeta,5.0,Entregado,Ensalada Fresca, Saludable ,Santiago,2025-04-19,Santiago,Estándar
+658,143,26,2026-07-26,7000,30.0,TARJETA,,Cancelado,Green House,Saludable,Ñuñoa,08-11-2024,Ñuñoa,
+1371,115,6,2026-07-27,14600,500.0,Tarjeta,2.0,Entregado,Café Luna,Asiatica,Santiago,2025-06-08,Santiago,Premium
+1137,180,6,2026-07-27,$16.400,,Efectivo,3.0,Entregado,Café Luna,Asiatica,Santiago,2024-11-07,las condes,Premium
+420,249,17,2026-07-27,9900,31.0,Transferencia,4.0,Entregado,Noodle House,Italiana,Santiago,12/04/2025,Ñuñoa,Estándar
+570,33,18,2026-07-27,7600,30.0,Tarjeta,,Cancelado,El Rincón Light,Saludable,Santiago,2025-08-11,La Florida,Estándar
+41,131,12,2026-07-28,$8.000,19.0,Tarjeta,4.0,Entregado,Parrilla Andina,Comida rápida,,2026-09-11,Providencia,Premium
+247,150,16,2026-07-28,9700,,Tarjeta,5.0,Entregado,  Trattoria Roma  ,ASIÁTICA,Maipú,21-02-2025,La Florida,Estándar
+100,64,8,2026-07-28,7400,50.0,Transferencia ,5.0,Entregado,Fit & Rico,Asiática,,2025-08-26,Las Condes,Estándar
+39,101,17,2026-07-28,9100,36.0,Tarjeta,5.0,Entregado,Noodle House,Italiana,Santiago,2026-04-22,Santiago,Estándar
+29,250,14,2026-07-28,10800,45.0,Transferencia,5.0,Entregado,Panadería del Sol, Italiana ,Ñuñoa,2026-04-08,Las Condes,Estándar
+47,131,15,2026-07-29,8800,30.0,Tarjeta,5.0,Entregado,Veggie Life,saludable,Las Condes,2026-09-11,Providencia,Premium
+1282,117,14,2026-07-29,13900,27.0,Tarjeta,5.0,Entregado,Panadería del Sol, Italiana ,Ñuñoa,2025-04-21,Santiago,Estándar
+1418,91,30,2026-07-29,$5.000,16.0,Tarjeta,5.0, Entregado,Dulce Esquina,Postres y café,La Florida,10/08/2024,Las Condes,Premium
+1448,141,21,2026-07-29,15100,29.0,Tarjeta,5.0,Entregado,Ensalada Fresca, Saludable ,Santiago,2025-06-12,la florida,Estándar
+528,216,30,2026-07-29,8300,39.0,Efectivo,5.0, Entregado,Dulce Esquina,Postres y café,La Florida,27-05-2025,La Florida,Premium
+1182,142,13,2026-07-30,13800,46.0,Tarjeta,5.0,Entregado,Sushi Mar,Asiática,Las Condes,24/08/2025,Providencia,Estándar
+594,293,12,2026-07-30,6700,43.0,Tarjeta,5.0,Entregado,Parrilla Andina,Comida rápida,,2024-08-04,La Florida,Estándar
+850,34,15,2026-07-30,9600,28.0,Transferencia,2.0,Entregado,Veggie Life,saludable,Las Condes,2026-01-08,Las Condes,Estándar
+1114,155,12,2026-07-30,9000,39.0,Efectivo,,Entregado,Parrilla Andina,Comida rápida,,03/09/2026,Santiago,Premium
+222,9,16,2026-07-30,12100,32.0,Tarjeta,4.0,Entregado,  Trattoria Roma  ,ASIÁTICA,Maipú,2025-03-30,Providencia,Estándar
+1097,214,26,2026-07-31,12100,37.0,Transferencia,4.0,Entregado,Green House,Saludable,Ñuñoa,2025-03-17,La Florida,
+1234,298,15,2026-07-31,8800,42.0,Tarjeta,5.0,Entregado,Veggie Life,saludable,Las Condes,2026-09-08,ÑUÑOA,Estándar
+1208,286,22,2026-07-31,16100,48.0,Tarjeta,3.0,Entregado,  Ramen Ya  ,Asiática,Maipú,2025-07-15,La Florida,
+840,105,27,2026-08-01,11500,16.0,Tarjeta,5.0,Entregado,  Café Central  ,Saludable,La Florida,2026-04-16,Las Condes,Estándar
+375,280,29,2026-08-01,7600,,Tajeta,3.0,Entregado,Mar y Tierra,Saludable,Ñuñoa,04/08/2024,La Florida,Premium
+89,248,23,2026-08-01,11800,46.0,Transferencia,4.0,Entregado,La Baguette,Italiana,Santiago,24-04-2025,Providencia,Estándar
+1341,220,5,2026-08-01,15700,28.0,Efectivo,, Cancelado,  Dragón Dorado  ,Asiática,Ñuñoa,2024-10-18,Providencia,Premium
+336,203,17,2026-08-01,$9.700,14.0,Tarjeta,,Entregado,Noodle House,Italiana,Santiago,2024-07-31,Maipú,Estándar
+643,202,27,2026-08-01,9800,26.0,Efectivo,3.0,Entregado,  Café Central  ,Saludable,La Florida,2025-08-05,Santiago,Premium
+1122,78,11,2026-08-02,17200,21.0,Tarjeta,,Entregado,Dulce Tentación,Italiana,Providencia,08-04-2026,Ñuñoa,Estándar
+1222,162,4,2026-08-02,14400,40.0,EFECTIVO,4.0,Entregado,Pasta Nostra,Asiatica,Santiago,2024-08-06,la florida,Estándar
+1184,6,25,2026-08-02,15200,36.0,Tarjeta,4.0,ENTREGADO,Tacos y Punto,Saludable,Providencia,2024-10-16,Providencia,Premium
+814,95,14,2026-08-03,10300,42.0,Transferencia,5.0,Entregado,Panadería del Sol, Italiana ,Ñuñoa,2026-07-14,La Florida,Estándar
+591,190,7,2026-08-03,8900,18.0,Tarjeta,,Entregado,El Buen Sazón,Comida rápida,La Florida,2025-09-18,Santiago,Estándar
+55,56,6,2026-08-03,8500,39.0,Tajeta,4.0,Entregado,Café Luna,Asiatica,Santiago,2025-01-24,La Florida,Estándar
+868,82,23,2026-08-03,16900,29.0,Transferencia,,Cancelado,La Baguette,Italiana,Santiago,2025-03-04,Providencia,Estándar
+1044,289,27,2026-08-03,7300,29.0,Tarjeta,,Cancelado,  Café Central  ,Saludable,La Florida,2025-02-10,Santiago,Premium
+905,122,20,2026-08-03,10600,22.0,tarjeta,,Entregado,Brasas del Sur,Saludable,Ñuñoa,2025-07-10,Santiago,Estándar
+117,223,14,2026-08-04,10400,28.0,Transferencia,4.0,Entregado,Panadería del Sol, Italiana ,Ñuñoa,2024-11-21,Ñuñoa,Estándar
+763,293,21,2026-08-04,7500,25.0,Tarjeta,5.0,Entregado,Ensalada Fresca, Saludable ,Santiago,2024-08-04,La Florida,Estándar
+1322,246,30,2026-08-04,4700,34.0,Efectivo,2.0,Entregado,Dulce Esquina,Postres y café,La Florida,2025-01-14,Providencia,Estándar
+300,242,30,2026-08-04,7900 CLP,22.0,Tarjeta,4.0,Entregado,Dulce Esquina,Postres y café,La Florida,2025-05-07,Ñuñoa,Premium
+555,103,3,2026-08-05,6300,40.0,Tarjeta,4.0,Entregado,Verde Bowl,Comida rápida,Las Condes,2024-10-08,Ñuñoa,Premium
+654,254,15,2026-08-05,10000,20.0,Efectivo,4.0,Entregado,Veggie Life,saludable,Las Condes,11-04-2026,Santiago,Estándar
+1249,87,11,2026-08-05,12400,38.0,Transferencia,4.0,entregado,Dulce Tentación,Italiana,Providencia,2024-11-17,Ñuñoa,Premium
+1031,291,13,2026-08-05,12300,26.0,Tarjeta,3.0,Entregado,Sushi Mar,Asiática,Las Condes,23-12-2025,Santiago,Estándar
+1373,169,3,2026-08-05,8000,53.0,Transferencia,2.0,Entregado,Verde Bowl,Comida rápida,Las Condes,07-04-2025,Santiago,Estándar
+165,189,6,2026-08-05,8700,39.0,TARJETA,4.0,Entregado,Café Luna,Asiatica,Santiago,2025-04-02,Santiago,Estándar
+917,263,11,2026-08-06,14400,35.0,Tarjeta,5.0,Entregado,Dulce Tentación,Italiana,Providencia,13/01/2025,Maipú,Estándar
+1251,157,18,2026-08-06,11200,35.0,Tarjeta,5.0,Entregado,El Rincón Light,Saludable,Santiago,10/09/2024,La Florida,Estándar
+750,269,9,2026-08-06,13900,30.0,Efectivo ,4.0,Entregado,Pizza Nonna,ITALIANA,La Florida,2024-07-21,Providencia,Premium
+978,28,11,2026-08-07,9900,47.0,Tarjeta,3.0,Entregado,Dulce Tentación,Italiana,Providencia,2026-08-20,maipú,Premium
+1061,18,1,2026-08-07,6300,37.0,Tarjeta,5.0,Entregado,  Sabores del Barrio  ,COMIDA RÁPIDA,Providencia,2024-09-07,Las Condes,Estándar
+345,179,25,2026-08-07,14700,22.0,efectivo,4.0, Entregado,Tacos y Punto,Saludable,Providencia,2025-03-05,La Florida,Estándar
+1197,20,25,2026-08-07,8400,34.0,Tarjeta,4.0,Entregado,Tacos y Punto,Saludable,Providencia,2025-06-30,Santiago,Estándar
+345,179,25,2026-08-07,14700,22.0,efectivo,4.0, Entregado,Tacos y Punto,Saludable,Providencia,2025-03-05,La Florida,Estándar
+1070,205,26,2026-08-07,10200,27.0,Tarjeta,5.0,Entregado,Green House,Saludable,Ñuñoa,22-05-2026,Santiago,Estándar
+989,22,12,2026-08-08,13100,23.0,Efectivo,5.0, Entregado,Parrilla Andina,Comida rápida,,25-07-2025,Maipú,Estándar
+485,190,2,2026-08-08,8800,31.0,Tarjeta,4.0,Entregado,La Esquina Criolla,Saludable,Santiago,2025-09-18,Santiago,Estándar
+413,68,15,2026-08-08,8800,,EFECTIVO,4.0,Entregado,Veggie Life,saludable,Las Condes,2026-01-26,Las Condes,Estándar
+294,158,7,2026-08-09,9300,30.0,tarjeta,3.0,Entregado,El Buen Sazón,Comida rápida,La Florida,2026-06-27,Maipú,Estándar
+179,227,30,2026-08-09,5500,42.0,Efectivo ,4.0,Entregado,Dulce Esquina,Postres y café,La Florida,27-06-2025,Providencia,Estándar
+520,142,14,2026-08-09,11300,39.0,Efectivo,3.0,Entregado,Panadería del Sol, Italiana ,Ñuñoa,24/08/2025,Providencia,Estándar
+144,187,8,2026-08-09,$13.600,29.0,Tajeta,,Entregado,Fit & Rico,Asiática,,12-04-2026,Las Condes,Premium
+235,32,16,2026-08-09,14000 CLP,45.0,Tarjeta,,Cancelado,  Trattoria Roma  ,ASIÁTICA,Maipú,2024-07-25,  Santiago  ,Estándar
+501,22,4,2026-08-09,16200,32.0,Tarjeta,4.0,Entregado,Pasta Nostra,Asiatica,Santiago,25-07-2025,Maipú,Estándar
+466,158,24,2026-08-10,12000,21.0,TRANSFERENCIA,4.0,Entregado,Pollo al Carbón,Asiatica,,2026-06-27,Maipú,Estándar
+842,186,4,2026-08-10,9100,30.0,transferencia,3.0,ENTREGADO,Pasta Nostra,Asiatica,Santiago,2026-05-22,Santiago,Estándar
+916,269,6,2026-08-10,7400,27.0,Tarjeta,5.0,Entregado,Café Luna,Asiatica,Santiago,2024-07-21,Providencia,Premium
+335,108,3,2026-08-10,12400,32.0,Tarjeta,5.0,ENTREGADO,Verde Bowl,Comida rápida,Las Condes,2026-09-29,Santiago,
+1381,171,4,2026-08-10,12400 CLP,25.0,Transferencia,4.0,Entregado,Pasta Nostra,Asiatica,Santiago,2025-01-03,Santiago,Estándar
+1167,22,11,2026-08-10,$17.500,36.0,Tarjeta ,3.0,Entregado,Dulce Tentación,Italiana,Providencia,25-07-2025,Maipú,Estándar
+19,1,14,2026-08-11,15400,21.0,Transferencia,5.0,Entregado,Panadería del Sol, Italiana ,Ñuñoa,2026-04-15,La Florida,Estándar
+660,195,17,2026-08-11,13400,34.0,Tarjeta,2.0,Entregado,Noodle House,Italiana,Santiago,2026-02-13,Santiago,Estándar
+785,59,16,2026-08-11,8100,20.0,Tarjeta,2.0,Entregado,  Trattoria Roma  ,ASIÁTICA,Maipú,12-04-2025,Ñuñoa,Estándar
+607,112,4,2026-08-11,11100,30.0,TARJETA,5.0,Entregado,Pasta Nostra,Asiatica,Santiago,2025-03-11,Providencia,
+1293,282,30,2026-08-12,4300,41.0,Efectivo,,Cancelado,Dulce Esquina,Postres y café,La Florida,02/03/2026,Las Condes,Estándar
+1145,167,7,2026-08-13,10600,,Transferencia,4.0,Entregado,El Buen Sazón,Comida rápida,La Florida,2026-05-20,Santiago,Estándar
+919,121,12,2026-08-13,11200,46.0,Tarjeta,5.0,Entregado,Parrilla Andina,Comida rápida,,2026-01-18,Maipú,Premium
+1359,109,2,2026-08-13,14700,30.0,Tarjeta,2.0,Entregado,La Esquina Criolla,Saludable,Santiago,19-07-2024,Santiago,Estándar
+925,205,13,2026-08-13,$9.500,48.0,Efectivo,3.0,Entregado,Sushi Mar,Asiática,Las Condes,22-05-2026,Santiago,Estándar
+1037,168,8,2026-08-14,14900,18.0,Efectivo ,5.0,Entregado,Fit & Rico,Asiática,,2026-03-12,santiago,Estándar
+551,143,4,2026-08-14,14000,17.0,Efectivo,5.0,Entregado,Pasta Nostra,Asiatica,Santiago,08-11-2024,Ñuñoa,
+692,53,15,2026-08-14,15200,36.0,Tarjeta,4.0,Entregado,Veggie Life,saludable,Las Condes,08-01-2026,La Florida,Premium
+135,212,8,2026-08-14,9500,38.0,Transferencia,4.0,Entregado,Fit & Rico,Asiática,,2025-10-01,Santiago,Estándar
+1433,135,27,2026-08-14,7600,27.0,Tarjeta,4.0,Entregado,  Café Central  ,Saludable,La Florida,2026-08-23,Providencia,Estándar
+859,1,23,2026-08-14,10000,31.0,Tarjeta,, Entregado,La Baguette,Italiana,Santiago,2026-04-15,La Florida,Estándar
+766,251,9,2026-08-14,14100,38.0,Tarjeta,4.0,Entregado,Pizza Nonna,ITALIANA,La Florida,2025-11-28,Ñuñoa,Estándar
+766,251,9,2026-08-14,14100,38.0,Tarjeta,4.0,Entregado,Pizza Nonna,ITALIANA,La Florida,2025-11-28,Ñuñoa,Estándar
+974,62,19,2026-08-15,12300,26.0,Tarjeta,4.0,Entregado,Churros & Más,Comida rápida,Santiago,2025-05-16,La Florida,Premium
+1262,79,1,2026-08-15,7900,26.0,Transferencia,3.0,Entregado,  Sabores del Barrio  ,COMIDA RÁPIDA,Providencia,20-07-2024,Las Condes,
+725,133,21,2026-08-15,12500,35.0,Tarjeta,4.0,Entregado,Ensalada Fresca, Saludable ,Santiago,2025-07-18,ñuñoa,Estándar
+1022,139,1,2026-08-15,12200,38.0,Transferencia,,Cancelado,  Sabores del Barrio  ,COMIDA RÁPIDA,Providencia,07/09/2025,Santiago,Estándar
+1420,145,18,2026-08-15,10900,24.0,Tarjeta,3.0,entregado,El Rincón Light,Saludable,Santiago,31/03/2026,  Las Condes  ,Estándar
+835,18,27,2026-08-16,10100,49.0,Tarjeta,3.0,ENTREGADO,  Café Central  ,Saludable,La Florida,2024-09-07,Las Condes,Estándar
+140,133,1,2026-08-16,11300,27.0,Tarjeta,5.0,Entregado,  Sabores del Barrio  ,COMIDA RÁPIDA,Providencia,2025-07-18,ñuñoa,Estándar
+1360,90,25,2026-08-16,10700,23.0,Tarjeta,3.0,Entregado,Tacos y Punto,Saludable,Providencia,06-02-2026,santiago,Estándar
+492,229,21,2026-08-16,14200,54.0,Tarjeta,5.0,Entregado,Ensalada Fresca, Saludable ,Santiago,2025-06-14,Providencia,Premium
+510,249,23,2026-08-16,13000,27.0,Efectivo,4.0,ENTREGADO,La Baguette,Italiana,Santiago,12/04/2025,Ñuñoa,Estándar
+242,79,6,2026-08-16,9200,,Tarjeta,5.0,Entregado,Café Luna,Asiatica,Santiago,20-07-2024,Las Condes,
+1108,25,11,2026-08-17,9800 CLP,41.0,Tarjeta,,Entregado,Dulce Tentación,Italiana,Providencia,2025-08-24,La Florida,Estándar
+772,26,26,2026-08-17,10000,20.0,Tajeta,4.0,Entregado,Green House,Saludable,Ñuñoa,2026-03-10,Santiago,Estándar
+548,215,10,2026-08-17,15100,38.0,transferencia,5.0,Entregado,Wok Express,Saludable,Ñuñoa,2025-12-02,Providencia,Estándar
+36,139,8,2026-08-17,$13.200,44.0,Efectivo,4.0,Entregado,Fit & Rico,Asiática,,07/09/2025,Santiago,Estándar
+1041,290,16,2026-08-17,13200,32.0,Efectivo,,Cancelado,  Trattoria Roma  ,ASIÁTICA,Maipú,25/04/2026,Las Condes,Estándar
+1108,25,11,2026-08-17,9800 CLP,41.0,Tarjeta,,Entregado,Dulce Tentación,Italiana,Providencia,2025-08-24,La Florida,Estándar
+110,219,15,2026-08-18,15200,29.0,Tarjeta,,Cancelado,Veggie Life,saludable,Las Condes,11-06-2026,Santiago,Estándar
+1175,69,4,2026-08-18,8400,19.0,Tarjeta,5.0,ENTREGADO,Pasta Nostra,Asiatica,Santiago,14-06-2025,Santiago,Premium
+218,120,19,2026-08-18,13300,29.0,Transferencia,4.0,Entregado,Churros & Más,Comida rápida,Santiago,29-04-2025,Providencia,Estándar
+830,1,23,2026-08-18,8700,21.0,TARJETA,4.0,Entregado,La Baguette,Italiana,Santiago,2026-04-15,La Florida,Estándar
+250,282,27,2026-08-19,10600,36.0,Tarjeta,4.0,Entregado,  Café Central  ,Saludable,La Florida,02/03/2026,Las Condes,Estándar
+735,253,17,2026-08-19,8400,29.0,Tarjeta,4.0,Entregado,Noodle House,Italiana,Santiago,2026-02-20,  Ñuñoa  ,Estándar
+90,253,5,2026-08-19,9000,43.0,Tarjeta,5.0,Entregado,  Dragón Dorado  ,Asiática,Ñuñoa,2026-02-20,  Ñuñoa  ,Estándar
+912,67,22,2026-08-20,8100,45.0,Tarjeta,5.0,Entregado,  Ramen Ya  ,Asiática,Maipú,2025-04-07,La Florida,Estándar
+664,87,25,2026-08-20,12600,34.0,Tarjeta,4.0,Entregado,Tacos y Punto,Saludable,Providencia,2024-11-17,Ñuñoa,Premium
+912,67,22,2026-08-20,8100,45.0,Tarjeta,5.0,Entregado,  Ramen Ya  ,Asiática,Maipú,2025-04-07,La Florida,Estándar
+590,246,21,2026-08-20,$12.500,29.0,Tarjeta,5.0,Entregado,Ensalada Fresca, Saludable ,Santiago,2025-01-14,Providencia,Estándar
+1024,204,7,2026-08-20,8600,33.0,Tarjeta,5.0,Entregado,El Buen Sazón,Comida rápida,La Florida,2026-03-01,Las Condes,Estándar
+1088,88,3,2026-08-20,11700,19.0,Tarjeta,5.0,Entregado,Verde Bowl,Comida rápida,Las Condes,05-08-2026,  Ñuñoa  ,Estándar
+1441,34,15,2026-08-21,10100,32.0,Transferencia,4.0,Entregado,Veggie Life,saludable,Las Condes,2026-01-08,Las Condes,Estándar
+1211,20,29,2026-08-21,14700,20.0,Tarjeta,5.0,Entregado,Mar y Tierra,Saludable,Ñuñoa,2025-06-30,Santiago,Estándar
+659,138,10,2026-08-21,10500,33.0,transferencia,5.0,Entregado,Wok Express,Saludable,Ñuñoa,2026-05-11,Las Condes,Estándar
+1441,34,15,2026-08-21,10100,32.0,Transferencia,4.0,Entregado,Veggie Life,saludable,Las Condes,2026-01-08,Las Condes,Estándar
+650,119,8,2026-08-21,15000,44.0,Efectivo,5.0,Entregado,Fit & Rico,Asiática,,2026-01-04,SANTIAGO,
+845,153,23,2026-08-22,11000,26.0,Tarjeta,4.0,Entregado,La Baguette,Italiana,Santiago,03-07-2024,Maipú,Estándar
+852,3,13,2026-08-22,7900,32.0,Tarjeta,3.0,entregado,Sushi Mar,Asiática,Las Condes,2024-12-01,Providencia,Premium
+85,80,18,2026-08-22,11400,36.0,Efectivo,5.0,Entregado,El Rincón Light,Saludable,Santiago,2026-04-29,Santiago,Estándar
+1496,101,14,2026-08-22,13000,27.0,Tarjeta,4.0,Entregado,Panadería del Sol, Italiana ,Ñuñoa,2026-04-22,Santiago,Estándar
+154,276,25,2026-08-22,8400,43.0,Efectivo,5.0,Entregado,Tacos y Punto,Saludable,Providencia,11-08-2024,Ñuñoa,Estándar
+578,82,10,2026-08-23,15100,35.0,Tarjeta,5.0,Entregado,Wok Express,Saludable,Ñuñoa,2025-03-04,Providencia,Estándar
+1250,199,13,2026-08-23,14300,35.0,Tarjeta,, Cancelado,Sushi Mar,Asiática,Las Condes,30-11-2024,Santiago,Estándar
+609,139,6,2026-08-23,16100,42.0,Tarjeta,5.0,Entregado,Café Luna,Asiatica,Santiago,07/09/2025,Santiago,Estándar
+896,278,8,2026-08-23,10200,38.0,Efectivo,3.0,Entregado,Fit & Rico,Asiática,,07-01-2026,Santiago,Estándar
+1183,43,28,2026-08-24,6900,29.0,Tarjeta,4.0,Entregado,  Pasta & Co  ,Saludable,Santiago,04-12-2025,SANTIAGO,Estándar
+1135,152,20,2026-08-24,13700,,TARJETA,3.0,Entregado,Brasas del Sur,Saludable,Ñuñoa,25-06-2026,Providencia,Estándar
+885,210,24,2026-08-24,10600,44.0,Transferencia ,4.0,Entregado,Pollo al Carbón,Asiatica,,23-11-2024,Ñuñoa,Estándar
+782,161,10,2026-08-24,7100,29.0,Tarjeta,3.0,Entregado,Wok Express,Saludable,Ñuñoa,12-07-2026,Santiago,Estándar
+11,103,7,2026-08-24,11300 CLP,28.0,EFECTIVO,4.0,Entregado,El Buen Sazón,Comida rápida,La Florida,2024-10-08,Ñuñoa,Premium
+1357,50,18,2026-08-24,15200,39.0,Transferencia,4.0,Entregado,El Rincón Light,Saludable,Santiago,05-05-2025,Santiago,Premium
+536,286,2,2026-08-24,15000,,Efectivo,4.0,Entregado,La Esquina Criolla,Saludable,Santiago,2025-07-15,La Florida,
+832,275,20,2026-08-24,11000,29.0,Efectivo,4.0,Entregado,Brasas del Sur,Saludable,Ñuñoa,06/01/2025,Santiago,Estándar
+201,125,10,2026-08-25,10000,33.0,Tarjeta,5.0,Entregado,Wok Express,Saludable,Ñuñoa,2026-07-15,La Florida,Premium
+713,286,17,2026-08-25,14300,28.0,Transferencia,3.0,Entregado,Noodle House,Italiana,Santiago,2025-07-15,La Florida,
+1367,70,4,2026-08-25,10100,25.0,Efectivo,5.0,Entregado,Pasta Nostra,Asiatica,Santiago,2024-10-19,La Florida,Premium
+327,30,15,2026-08-25,13100,27.0,Tarjeta,5.0,Entregado,Veggie Life,saludable,Las Condes,2026-03-15,Providencia,Premium
+953,143,9,2026-08-25,12100,35.0,Tarjeta,4.0, Entregado,Pizza Nonna,ITALIANA,La Florida,08-11-2024,Ñuñoa,
+1072,182,4,2026-08-25,$16.600,,Efectivo,3.0,Entregado,Pasta Nostra,Asiatica,Santiago,28-09-2024,La Florida,Premium
+1494,218,17,2026-08-26,14400,35.0,Tarjeta,5.0,Entregado,Noodle House,Italiana,Santiago,2024-10-16,La Florida,Estándar
+1258,113,6,2026-08-26,15900,26.0,Transferencia,4.0,Entregado,Café Luna,Asiatica,Santiago,25-02-2026,La Florida,Premium
+1337,67,14,2026-08-27,7900,22.0,Tarjeta,5.0,Entregado,Panadería del Sol, Italiana ,Ñuñoa,2025-04-07,La Florida,Estándar
+629,29,18,2026-08-27,8800,30.0,TARJETA,5.0,Entregado,El Rincón Light,Saludable,Santiago,03-11-2024,la florida,Estándar
+1365,67,24,2026-08-27,14000,21.0,Efectivo,,Entregado,Pollo al Carbón,Asiatica,,2025-04-07,La Florida,Estándar
+1337,67,14,2026-08-27,7900,22.0,Tarjeta,5.0,Entregado,Panadería del Sol, Italiana ,Ñuñoa,2025-04-07,La Florida,Estándar
+655,40,8,2026-08-27,9300,33.0,EFECTIVO,5.0,Entregado,Fit & Rico,Asiática,,21/06/2025,Santiago,Estándar
+443,193,4,2026-08-27,11100 CLP,31.0,efectivo,5.0,Entregado,Pasta Nostra,Asiatica,Santiago,09-05-2026,La Florida,Estándar
+1365,67,24,2026-08-27,14000,21.0,Efectivo,,Entregado,Pollo al Carbón,Asiatica,,2025-04-07,La Florida,Estándar
+513,232,5,2026-08-28,9600 CLP,28.0,Tarjeta,,Cancelado,  Dragón Dorado  ,Asiática,Ñuñoa,2025-02-08,La Florida,Estándar
+1482,4,14,2026-08-28,17300,44.0,Tarjeta,4.0,Entregado,Panadería del Sol, Italiana ,Ñuñoa,13/09/2024,Providencia,Premium
+441,37,18,2026-08-28,6900,29.0,Tarjeta,,Cancelado,El Rincón Light,Saludable,Santiago,2025-12-20,La Florida,Estándar
+991,168,25,2026-08-28,14400,500.0,Tarjeta,4.0,Entregado,Tacos y Punto,Saludable,Providencia,2026-03-12,santiago,Estándar
+102,250,18,2026-08-28,9300,37.0,Transferencia,4.0,Entregado,El Rincón Light,Saludable,Santiago,2026-04-08,Las Condes,Estándar
+393,46,16,2026-08-29,8300 CLP,27.0,Tarjeta,,Entregado,  Trattoria Roma  ,ASIÁTICA,Maipú,2026-02-20,Las Condes,Premium
+44,60,6,2026-08-29,9300,40.0,Transferencia,5.0,Entregado,Café Luna,Asiatica,Santiago,20-06-2026,La Florida,Premium
+760,39,12,2026-08-29,12500,45.0,Tarjeta,3.0,Entregado,Parrilla Andina,Comida rápida,,22-10-2024,Maipú,Premium
+389,196,14,2026-08-29,10300,26.0,Tarjeta,4.0,Entregado,Panadería del Sol, Italiana ,Ñuñoa,10-05-2026,Santiago,Estándar
+1134,67,4,2026-08-29,7500,22.0,efectivo,4.0,Entregado,Pasta Nostra,Asiatica,Santiago,2025-04-07,La Florida,Estándar
+1134,67,4,2026-08-29,7500,22.0,efectivo,4.0,Entregado,Pasta Nostra,Asiatica,Santiago,2025-04-07,La Florida,Estándar
+531,215,9,2026-08-30,12600,36.0,Tarjeta,4.0,Entregado,Pizza Nonna,ITALIANA,La Florida,2025-12-02,Providencia,Estándar
+1444,237,8,2026-08-30,8100,27.0,Efectivo,,Cancelado,Fit & Rico,Asiática,,2024-10-28,Las Condes,Estándar
+111,156,26,2026-08-30,11000,28.0,Transferencia,4.0,Entregado,Green House,Saludable,Ñuñoa,2025-04-23,La Florida,Premium
+27,71,15,2026-08-30,13000,30.0,Transferencia,5.0,entregado,Veggie Life,saludable,Las Condes,2025-10-04,Las Condes,Estándar
+550,144,9,2026-08-30,11100,34.0,transferencia,5.0,Entregado,Pizza Nonna,ITALIANA,La Florida,08/12/2025,Ñuñoa,Estándar
+674,183,17,2026-08-30,9600 CLP,32.0,Tarjeta,4.0,Entregado,Noodle House,Italiana,Santiago,08-12-2024,Providencia,Estándar
+1287,202,9,2026-08-31,12000,41.0,Tarjeta ,5.0,Entregado,Pizza Nonna,ITALIANA,La Florida,2025-08-05,Santiago,Premium
+1104,287,12,2026-08-31,9400,32.0,Tarjeta,4.0,ENTREGADO,Parrilla Andina,Comida rápida,,23-03-2025,Maipú,Estándar
+1104,287,12,2026-08-31,9400,32.0,Tarjeta,4.0,ENTREGADO,Parrilla Andina,Comida rápida,,23-03-2025,Maipú,Estándar
+481,190,14,2026-08-31,13100,18.0,Efectivo,3.0,Entregado,Panadería del Sol, Italiana ,Ñuñoa,2025-09-18,Santiago,Estándar
+1480,240,15,2026-09-01,15100,32.0,Tarjeta,,CANCELADO,Veggie Life,saludable,Las Condes,2025-07-30,Santiago,Estándar
+449,6,7,2026-09-01,8700,36.0,Efectivo,,cancelado,El Buen Sazón,Comida rápida,La Florida,2024-10-16,Providencia,Premium
+331,116,19,2026-09-01,7000,12.0,Tarjeta,,Cancelado,Churros & Más,Comida rápida,Santiago,02/07/2025,Providencia,Estándar
+1480,240,15,2026-09-01,15100,32.0,Tarjeta,,CANCELADO,Veggie Life,saludable,Las Condes,2025-07-30,Santiago,Estándar
+818,238,21,2026-09-01,9400,35.0,Tajeta,4.0,Entregado,Ensalada Fresca, Saludable ,Santiago,2026-04-28,Santiago,Estándar
+482,296,2,2026-09-02,9200,33.0,Tarjeta,5.0,Entregado,La Esquina Criolla,Saludable,Santiago,20-09-2024,santiago,Estándar
+3,115,6,2026-09-02,15300,29.0,Tarjeta,4.0,Entregado,Café Luna,Asiatica,Santiago,2025-06-08,Santiago,Premium
+694,147,22,2026-09-02,11800,15.0,Tarjeta,4.0,Entregado,  Ramen Ya  ,Asiática,Maipú,2026-05-19,Maipú,Estándar
+328,58,7,2026-09-02,8200,32.0,Tarjeta,3.0,Entregado,El Buen Sazón,Comida rápida,La Florida,2024-08-07,Santiago,Estándar
+129,114,7,2026-09-02,7000,20.0,Transferencia,2.0,Entregado,El Buen Sazón,Comida rápida,La Florida,13/09/2024,Santiago,Premium
+530,55,13,2026-09-03,9500 CLP,33.0,Tarjeta,2.0,Entregado,Sushi Mar,Asiática,Las Condes,2026-05-08,  Santiago  ,Premium
+1151,63,4,2026-09-03,10900,999.0,Tarjeta,4.0,entregado,Pasta Nostra,Asiatica,Santiago,2025-01-12,Ñuñoa,Estándar
+84,183,9,2026-09-03,$11.200,45.0,TARJETA,5.0,Entregado,Pizza Nonna,ITALIANA,La Florida,08-12-2024,Providencia,Estándar
+867,188,6,2026-09-03,10900 CLP,27.0,Tarjeta,3.0,Entregado,Café Luna,Asiatica,Santiago,2025-08-27,Nunoa,Premium
+262,177,12,2026-09-03,10300,46.0,Tarjeta,4.0,Entregado,Parrilla Andina,Comida rápida,,2025-03-08,Las Condes,Premium
+644,176,2,2026-09-03,12200,37.0,Tarjeta,4.0,Entregado,La Esquina Criolla,Saludable,Santiago,27/03/2025,Santiago,Estándar
+350,48,18,2026-09-03,12700,17.0,Transferencia,5.0,Entregado,El Rincón Light,Saludable,Santiago,23/07/2024,Santiago,Estándar
+704,111,18,2026-09-04,12900 CLP,24.0,Transferencia,5.0,Entregado,El Rincón Light,Saludable,Santiago,02-02-2026,Santiago,Estándar
+1398,159,20,2026-09-04,$11.600,26.0,Efectivo,5.0,ENTREGADO,Brasas del Sur,Saludable,Ñuñoa,03/11/2024,Santiago,Premium
+99,13,9,2026-09-04,11900,39.0,Efectivo,4.0,Entregado,Pizza Nonna,ITALIANA,La Florida,2026-01-18,Santiago,Estándar
+130,207,28,2026-09-04,$9.500,36.0,Transferencia,3.0,Entregado,  Pasta & Co  ,Saludable,Santiago,27-09-2024,Providencia,Estándar
+221,45,3,2026-09-04,9600 CLP,37.0,Efectivo,3.0,ENTREGADO,Verde Bowl,Comida rápida,Las Condes,11-02-2026,Maipú,Estándar
+1408,38,4,2026-09-04,11600,35.0,Efectivo,5.0,Entregado,Pasta Nostra,Asiatica,Santiago,2025-02-18,Providencia,Estándar
+1344,139,24,2026-09-04,15600,46.0,Tarjeta,4.0,Entregado,Pollo al Carbón,Asiatica,,07/09/2025,Santiago,Estándar
+233,226,15,2026-09-04,10000 CLP,18.0,Efectivo,4.0,Entregado,Veggie Life,saludable,Las Condes,2025-04-22,Providencia,Estándar
+601,9,9,2026-09-05,16100,52.0,Tarjeta,,Cancelado,Pizza Nonna,ITALIANA,La Florida,2025-03-30,Providencia,Estándar
+801,31,12,2026-09-05,7900,27.0,Efectivo,5.0, Entregado,Parrilla Andina,Comida rápida,,2026-06-25,La Florida,Premium
+176,25,3,2026-09-05,7800,,Tarjeta,4.0,Entregado,Verde Bowl,Comida rápida,Las Condes,2025-08-24,La Florida,Estándar
+1188,268,21,2026-09-05,$8.200,34.0,tarjeta,4.0,Entregado,Ensalada Fresca, Saludable ,Santiago,2026-09-23,Ñuñoa,Estándar
+176,25,3,2026-09-05,7800,,Tarjeta,4.0,Entregado,Verde Bowl,Comida rápida,Las Condes,2025-08-24,La Florida,Estándar
+500,256,14,2026-09-05,9100,32.0,Tarjeta,5.0,Entregado,Panadería del Sol, Italiana ,Ñuñoa,27-09-2025,Las Condes,Estándar
+934,28,14,2026-09-05,11900 CLP,19.0,Efectivo,3.0,Entregado,Panadería del Sol, Italiana ,Ñuñoa,2026-08-20,maipú,Premium
+475,43,28,2026-09-05,9300,26.0,Tarjeta,4.0, Entregado,  Pasta & Co  ,Saludable,Santiago,04-12-2025,SANTIAGO,Estándar
+669,84,6,2026-09-05,12300,34.0,Tarjeta,5.0,Entregado,Café Luna,Asiatica,Santiago,31/01/2026,Providencia,Estándar
+1188,268,21,2026-09-05,$8.200,34.0,tarjeta,4.0,Entregado,Ensalada Fresca, Saludable ,Santiago,2026-09-23,Ñuñoa,Estándar
+1275,240,12,2026-09-05,11600,34.0,Transferencia,4.0,Entregado,Parrilla Andina,Comida rápida,,2025-07-30,Santiago,Estándar
+1275,240,12,2026-09-05,11600,34.0,Transferencia,4.0,Entregado,Parrilla Andina,Comida rápida,,2025-07-30,Santiago,Estándar
+93,236,2,2026-09-05,7400 CLP,27.0,Efectivo,,ENTREGADO,La Esquina Criolla,Saludable,Santiago,05-10-2025,Ñuñoa,Estándar
+895,271,22,2026-09-05,13700,35.0,Transferencia,4.0,Entregado,  Ramen Ya  ,Asiática,Maipú,15/04/2025,santiago,Estándar
+612,63,18,2026-09-06,15000,25.0,Tajeta,5.0,Entregado,El Rincón Light,Saludable,Santiago,2025-01-12,Ñuñoa,Estándar
+451,141,19,2026-09-06,8300,21.0,Tarjeta,4.0,Entregado,Churros & Más,Comida rápida,Santiago,2025-06-12,la florida,Estándar
+1379,43,27,2026-09-06,14100,25.0,Tarjeta,3.0,Entregado,  Café Central  ,Saludable,La Florida,04-12-2025,SANTIAGO,Estándar
+506,30,5,2026-09-06,$8.200,32.0,TARJETA,4.0,Entregado,  Dragón Dorado  ,Asiática,Ñuñoa,2026-03-15,Providencia,Premium
+1266,199,28,2026-09-06,14600,31.0,transferencia,4.0, Entregado,  Pasta & Co  ,Saludable,Santiago,30-11-2024,Santiago,Estándar
+1200,113,10,2026-09-06,11800,35.0,Tarjeta ,5.0,Entregado,Wok Express,Saludable,Ñuñoa,25-02-2026,La Florida,Premium
+779,194,11,2026-09-07,15600,24.0,Tarjeta,4.0,Entregado,Dulce Tentación,Italiana,Providencia,04-12-2025,La Florida,Premium
+265,117,5,2026-09-07,11400,29.0,Tarjeta,5.0,entregado,  Dragón Dorado  ,Asiática,Ñuñoa,2025-04-21,Santiago,Estándar
+892,138,29,2026-09-08,10500,32.0,Tarjeta,5.0,Entregado,Mar y Tierra,Saludable,Ñuñoa,2026-05-11,Las Condes,Estándar
+1449,232,24,2026-09-08,15400,39.0,Tarjeta,,Cancelado,Pollo al Carbón,Asiatica,,2025-02-08,La Florida,Estándar
+603,214,24,2026-09-08,14000,21.0,Efectivo,2.0,Entregado,Pollo al Carbón,Asiatica,,2025-03-17,La Florida,
+807,50,15,2026-09-08,8300,30.0,Tarjeta,4.0,Entregado,Veggie Life,saludable,Las Condes,05-05-2025,Santiago,Premium
+651,14,8,2026-09-08,7400,30.0,Efectivo,3.0,entregado,Fit & Rico,Asiática,,2026-04-28,Santiago,Premium
+681,26,25,2026-09-08,8800,54.0,Efectivo,4.0,Entregado,Tacos y Punto,Saludable,Providencia,2026-03-10,Santiago,Estándar
+2,296,5,2026-09-09,14000,40.0,Tarjeta,,Cancelado,  Dragón Dorado  ,Asiática,Ñuñoa,20-09-2024,santiago,Estándar
+348,170,14,2026-09-09,14200,41.0,Transferencia,3.0,Entregado,Panadería del Sol, Italiana ,Ñuñoa,28/02/2026,Ñuñoa,Estándar
+1235,295,21,2026-09-09,11500,41.0,Tarjeta,5.0,Entregado,Ensalada Fresca, Saludable ,Santiago,06/08/2024,las condes,Estándar
+992,14,14,2026-09-09,14000,34.0,Transferencia,,Cancelado,Panadería del Sol, Italiana ,Ñuñoa,2026-04-28,Santiago,Premium
+426,40,29,2026-09-09,8900,,Tarjeta,5.0,Entregado,Mar y Tierra,Saludable,Ñuñoa,21/06/2025,Santiago,Estándar
+1327,33,22,2026-09-09,16000,14.0,Tarjeta,5.0,Entregado,  Ramen Ya  ,Asiática,Maipú,2025-08-11,La Florida,Estándar
+261,278,20,2026-09-09,7300,51.0,Tarjeta ,5.0,Entregado,Brasas del Sur,Saludable,Ñuñoa,07-01-2026,Santiago,Estándar
+282,221,27,2026-09-10,8900,20.0,Efectivo,3.0,Entregado,  Café Central  ,Saludable,La Florida,2026-05-01,Santiago,
+1015,94,29,2026-09-11,9700,,Tarjeta,,Cancelado,Mar y Tierra,Saludable,Ñuñoa,2026-05-05,Santiago,Estándar
+103,242,15,2026-09-11,12700,26.0,Efectivo,4.0,ENTREGADO,Veggie Life,saludable,Las Condes,2025-05-07,Ñuñoa,Premium
+1464,274,17,2026-09-11,12700,24.0,Tarjeta,3.0,Entregado,Noodle House,Italiana,Santiago,2025-04-11,Santiago,Premium
+833,32,29,2026-09-11,10300,49.0,Transferencia,4.0,Entregado,Mar y Tierra,Saludable,Ñuñoa,2024-07-25,  Santiago  ,Estándar
+1017,53,15,2026-09-11,12300,,Tarjeta,5.0,ENTREGADO,Veggie Life,saludable,Las Condes,08-01-2026,La Florida,Premium
+26,271,14,2026-09-12,12000,25.0,Tarjeta,4.0,Entregado,Panadería del Sol, Italiana ,Ñuñoa,15/04/2025,santiago,Estándar
+353,21,30,2026-09-12,6800,14.0,Tarjeta,4.0,Entregado,Dulce Esquina,Postres y café,La Florida,2024-11-09,La Florida,Premium
+800,11,10,2026-09-12,11400,18.0,Tarjeta,4.0,Entregado,Wok Express,Saludable,Ñuñoa,31/08/2026,Ñuñoa,Estándar
+469,152,7,2026-09-12,12600,24.0,Transferencia,5.0,Entregado,El Buen Sazón,Comida rápida,La Florida,25-06-2026,Providencia,Estándar
+366,201,11,2026-09-12,11000,40.0,Tarjeta,2.0, Entregado,Dulce Tentación,Italiana,Providencia,2025-12-23,Santiago,Estándar
+206,278,12,2026-09-12,9500,42.0,Efectivo,5.0,Entregado,Parrilla Andina,Comida rápida,,07-01-2026,Santiago,Estándar
+1461,166,30,2026-09-12,6800,36.0,Transferencia,5.0,entregado,Dulce Esquina,Postres y café,La Florida,06/08/2025,Las Condes,Estándar
+1052,294,8,2026-09-13,13200,49.0,Transferencia,4.0,Entregado,Fit & Rico,Asiática,,2024-07-08,Las Condes,Estándar
+362,203,9,2026-09-14,11900,40.0,Tarjeta,4.0,Entregado,Pizza Nonna,ITALIANA,La Florida,2024-07-31,Maipú,Estándar
+1471,284,7,2026-09-14,8500,42.0,Transferencia,4.0,Entregado,El Buen Sazón,Comida rápida,La Florida,2025-06-15,La Florida,Estándar
+13,238,24,2026-09-14,13500,22.0,Transferencia,5.0,Entregado,Pollo al Carbón,Asiatica,,2026-04-28,Santiago,Estándar
+1232,232,30,2026-09-14,6000,40.0,Efectivo,4.0,Entregado,Dulce Esquina,Postres y café,La Florida,2025-02-08,La Florida,Estándar
+421,293,11,2026-09-15,14500,26.0,tarjeta,5.0,Entregado,Dulce Tentación,Italiana,Providencia,2024-08-04,La Florida,Estándar
+630,86,29,2026-09-15,13600,23.0,Tarjeta,,Cancelado,Mar y Tierra,Saludable,Ñuñoa,06/11/2024,Maipú,Estándar
+1294,256,25,2026-09-15,13300,20.0,Tarjeta,4.0,Entregado,Tacos y Punto,Saludable,Providencia,27-09-2025,Las Condes,Estándar
+106,80,22,2026-09-16,10100,23.0,Tarjeta ,4.0,Entregado,  Ramen Ya  ,Asiática,Maipú,2026-04-29,Santiago,Estándar
+69,174,25,2026-09-16,13600,47.0,Efectivo,5.0,Entregado,Tacos y Punto,Saludable,Providencia,2026-07-24,Santiago,Estándar
+411,235,23,2026-09-16,13400,34.0,Tarjeta,4.0,Entregado,La Baguette,Italiana,Santiago,2025-11-12,La Florida,Premium
+411,235,23,2026-09-16,13400,34.0,Tarjeta,4.0,Entregado,La Baguette,Italiana,Santiago,2025-11-12,La Florida,Premium
+856,117,3,2026-09-16,13200,24.0,Efectivo,4.0,Entregado,Verde Bowl,Comida rápida,Las Condes,2025-04-21,Santiago,Estándar
+30,158,23,2026-09-16,12000,25.0,Tarjeta,4.0,Entregado,La Baguette,Italiana,Santiago,2026-06-27,Maipú,Estándar
+205,87,17,2026-09-16,11900,24.0,Efectivo,3.0,Entregado,Noodle House,Italiana,Santiago,2024-11-17,Ñuñoa,Premium
+1136,244,13,2026-09-16,16500,25.0,Efectivo,,Cancelado,Sushi Mar,Asiática,Las Condes,2026-06-19,Santiago,Estándar
+385,202,6,2026-09-16,11600,29.0,Tarjeta,2.0,Entregado,Café Luna,Asiatica,Santiago,2025-08-05,Santiago,Premium
+957,122,3,2026-09-17,11900,17.0,Tarjeta,3.0,Entregado,Verde Bowl,Comida rápida,Las Condes,2025-07-10,Santiago,Estándar
+535,226,28,2026-09-17,9500,30.0,Tarjeta,5.0,Entregado,  Pasta & Co  ,Saludable,Santiago,2025-04-22,Providencia,Estándar
+457,140,21,2026-09-17,9100,33.0,Tarjeta,4.0,Entregado,Ensalada Fresca, Saludable ,Santiago,2026-01-20,Santiago,
+1230,109,9,2026-09-17,14100,12.0,Efectivo,4.0,Entregado,Pizza Nonna,ITALIANA,La Florida,19-07-2024,Santiago,Estándar
+9,286,5,2026-09-17,12900,35.0,Efectivo,4.0,Entregado,  Dragón Dorado  ,Asiática,Ñuñoa,2025-07-15,La Florida,
+12,182,10,2026-09-18,9500,34.0,Tarjeta,,cancelado,Wok Express,Saludable,Ñuñoa,28-09-2024,La Florida,Premium
+437,45,6,2026-09-18,8000,24.0,Transferencia,3.0,Entregado,Café Luna,Asiatica,Santiago,11-02-2026,Maipú,Estándar
+456,37,20,2026-09-18,8500,42.0,Efectivo,3.0,Entregado,Brasas del Sur,Saludable,Ñuñoa,2025-12-20,La Florida,Estándar
+1099,187,25,2026-09-18,12600,32.0,Tarjeta,,Cancelado,Tacos y Punto,Saludable,Providencia,12-04-2026,Las Condes,Premium
+525,65,22,2026-09-19,13400,18.0,Efectivo,5.0,Entregado,  Ramen Ya  ,Asiática,Maipú,2026-08-28,Maipú,Estándar
+546,177,13,2026-09-19,11200,35.0,Efectivo,4.0,Entregado,Sushi Mar,Asiática,Las Condes,2025-03-08,Las Condes,Premium
+484,194,9,2026-09-19,17500,35.0,Tarjeta,4.0,Entregado,Pizza Nonna,ITALIANA,La Florida,04-12-2025,La Florida,Premium
+542,212,15,2026-09-19,13500,39.0,efectivo,4.0,Entregado,Veggie Life,saludable,Las Condes,2025-10-01,Santiago,Estándar
+1206,195,18,2026-09-19,10900,26.0,Tarjeta,5.0,Entregado,El Rincón Light,Saludable,Santiago,2026-02-13,Santiago,Estándar
+878,45,24,2026-09-19,9900,34.0,Tarjeta,4.0,Entregado,Pollo al Carbón,Asiatica,,11-02-2026,Maipú,Estándar
+51,19,20,2026-09-19,14900,39.0,Tarjeta,5.0,Entregado,Brasas del Sur,Saludable,Ñuñoa,13-03-2025,La Florida,Estándar
+368,257,26,2026-09-20,10900,21.0,Tarjeta,5.0,Entregado,Green House,Saludable,Ñuñoa,2026-07-26,Las Condes,Estándar
+653,275,1,2026-09-20,13400,20.0,Tarjeta ,,cancelado,  Sabores del Barrio  ,COMIDA RÁPIDA,Providencia,06/01/2025,Santiago,Estándar
+402,295,4,2026-09-20,10400,28.0,Tarjeta,5.0,Entregado,Pasta Nostra,Asiatica,Santiago,06/08/2024,las condes,Estándar
+554,155,21,2026-09-20,9800,27.0,Tarjeta,4.0,Entregado,Ensalada Fresca, Saludable ,Santiago,03/09/2026,Santiago,Premium
+1389,37,3,2026-09-21,6000,22.0,Tarjeta,5.0,Entregado,Verde Bowl,Comida rápida,Las Condes,2025-12-20,La Florida,Estándar
+333,277,21,2026-09-21,12100,29.0,tarjeta,5.0,Entregado,Ensalada Fresca, Saludable ,Santiago,2024-07-04,Las Condes,Estándar
+719,298,30,2026-09-21,4000 CLP,29.0,Efectivo,4.0,Entregado,Dulce Esquina,Postres y café,La Florida,2026-09-08,ÑUÑOA,Estándar
+454,23,12,2026-09-21,9200,32.0,Transferencia,5.0,Entregado,Parrilla Andina,Comida rápida,,2025-08-16,Santiago,Estándar
+1013,67,16,2026-09-22,13600,39.0,Transferencia,5.0,ENTREGADO,  Trattoria Roma  ,ASIÁTICA,Maipú,2025-04-07,La Florida,Estándar
+1013,67,16,2026-09-22,13600,39.0,Transferencia,5.0,ENTREGADO,  Trattoria Roma  ,ASIÁTICA,Maipú,2025-04-07,La Florida,Estándar
+605,148,12,2026-09-22,8200,19.0,Transferencia,5.0,Entregado,Parrilla Andina,Comida rápida,,2026-06-10,Santiago,Estándar
+390,195,12,2026-09-22,8700,36.0,Efectivo,3.0,Entregado,Parrilla Andina,Comida rápida,,2026-02-13,Santiago,Estándar
+566,268,20,2026-09-22,13200,39.0,Tarjeta ,5.0,entregado,Brasas del Sur,Saludable,Ñuñoa,2026-09-23,Ñuñoa,Estándar
+541,256,20,2026-09-22,10700,35.0,EFECTIVO,4.0,Entregado,Brasas del Sur,Saludable,Ñuñoa,27-09-2025,Las Condes,Estándar
+604,173,27,2026-09-23,12500,25.0,Efectivo,5.0,Entregado,  Café Central  ,Saludable,La Florida,2025-12-14,LAS CONDES,Premium
+447,270,27,2026-09-23,13600,33.0,Tarjeta,3.0,Entregado,  Café Central  ,Saludable,La Florida,2025-02-20,Providencia,Premium
+410,292,19,2026-09-23,12700,27.0,Tarjeta,4.0,Entregado,Churros & Más,Comida rápida,Santiago,20-04-2026,Maipú,Estándar
+947,235,17,2026-09-23,8400,38.0,Transferencia,,Cancelado,Noodle House,Italiana,Santiago,2025-11-12,La Florida,Premium
+947,235,17,2026-09-23,8400,38.0,Transferencia,,Cancelado,Noodle House,Italiana,Santiago,2025-11-12,La Florida,Premium
+738,119,13,2026-09-24,16300,32.0,Tarjeta,4.0,ENTREGADO,Sushi Mar,Asiática,Las Condes,2026-01-04,SANTIAGO,
+709,155,23,2026-09-24,8100,28.0,Tarjeta,4.0,Entregado,La Baguette,Italiana,Santiago,03/09/2026,Santiago,Premium
+1374,242,19,2026-09-24,8400,33.0,Tarjeta,4.0,Entregado,Churros & Más,Comida rápida,Santiago,2025-05-07,Ñuñoa,Premium
+346,130,19,2026-09-24,13300,,Tarjeta,5.0,Entregado,Churros & Más,Comida rápida,Santiago,2026-03-29,Santiago,Estándar
+384,63,22,2026-09-25,9200,46.0,Efectivo,4.0,Entregado,  Ramen Ya  ,Asiática,Maipú,2025-01-12,Ñuñoa,Estándar
+1467,238,15,2026-09-25,9400,25.0,Tarjeta,4.0,Entregado,Veggie Life,saludable,Las Condes,2026-04-28,Santiago,Estándar
+73,152,1,2026-09-25,10900,38.0,Tarjeta,4.0,Entregado,  Sabores del Barrio  ,COMIDA RÁPIDA,Providencia,25-06-2026,Providencia,Estándar
+1119,248,4,2026-09-25,10500,39.0,Transferencia,5.0,Entregado,Pasta Nostra,Asiatica,Santiago,24-04-2025,Providencia,Estándar
+480,225,28,2026-09-26,13100,27.0,Efectivo,,Entregado,  Pasta & Co  ,Saludable,Santiago,2025-04-30,maipú,Premium
+162,47,12,2026-09-26,7400,41.0,Tarjeta,4.0,Entregado,Parrilla Andina,Comida rápida,,2024-11-25,Ñuñoa,Estándar
+430,144,26,2026-09-26,13100,35.0,Efectivo,,Entregado,Green House,Saludable,Ñuñoa,08/12/2025,Ñuñoa,Estándar
+602,242,25,2026-09-26,14800 CLP,43.0,Transferencia,5.0,Entregado,Tacos y Punto,Saludable,Providencia,2025-05-07,Ñuñoa,Premium
+639,248,1,2026-09-26,8400,22.0,Tarjeta,5.0,Entregado,  Sabores del Barrio  ,COMIDA RÁPIDA,Providencia,24-04-2025,Providencia,Estándar
+480,225,28,2026-09-26,13100,27.0,Efectivo,,Entregado,  Pasta & Co  ,Saludable,Santiago,2025-04-30,maipú,Premium
+1210,99,14,2026-09-27,14200,25.0,Tarjeta ,,Entregado,Panadería del Sol, Italiana ,Ñuñoa,2024-08-17,Santiago,Estándar
+780,98,9,2026-09-27,7900,38.0,Tarjeta,3.0,Entregado,Pizza Nonna,ITALIANA,La Florida,2025-08-16,Providencia,Estándar
+59,244,16,2026-09-27,12500,30.0,Efectivo,,Cancelado,  Trattoria Roma  ,ASIÁTICA,Maipú,2026-06-19,Santiago,Estándar
+805,129,12,2026-09-27,7700,20.0,Tarjeta,4.0,Entregado,Parrilla Andina,Comida rápida,,02/08/2024,Maipú,Estándar
+662,147,20,2026-09-27,$12.400,30.0,Transferencia,,Cancelado,Brasas del Sur,Saludable,Ñuñoa,2026-05-19,Maipú,Estándar
+620,177,9,2026-09-28,9300,50.0,Efectivo,4.0,Entregado,Pizza Nonna,ITALIANA,La Florida,2025-03-08,Las Condes,Premium
+592,250,8,2026-09-28,12000,38.0,Tarjeta,3.0,Entregado,Fit & Rico,Asiática,,2026-04-08,Las Condes,Estándar
+114,225,8,2026-09-28,14600,31.0,Tarjeta ,4.0,Entregado,Fit & Rico,Asiática,,2025-04-30,maipú,Premium
+114,225,8,2026-09-28,14600,31.0,Tarjeta ,4.0,Entregado,Fit & Rico,Asiática,,2025-04-30,maipú,Premium
+522,277,6,2026-09-28,16400,30.0,Tarjeta,5.0,Entregado,Café Luna,Asiatica,Santiago,2024-07-04,Las Condes,Estándar
+960,204,7,2026-09-28,13300,17.0,Efectivo ,5.0,Entregado,El Buen Sazón,Comida rápida,La Florida,2026-03-01,Las Condes,Estándar
+1493,40,27,2026-09-28,9500,13.0,Transferencia,,Cancelado,  Café Central  ,Saludable,La Florida,21/06/2025,Santiago,Estándar
+564,49,22,2026-09-29,10900,31.0,Tarjeta,4.0,Entregado,  Ramen Ya  ,Asiática,Maipú,2025-10-01,Santiago,Estándar
+1399,105,5,2026-09-29,16400,34.0,Transferencia,5.0,Entregado,  Dragón Dorado  ,Asiática,Ñuñoa,2026-04-16,Las Condes,Estándar
+412,262,18,2026-09-30,14000,28.0,Efectivo,5.0,Entregado,El Rincón Light,Saludable,Santiago,2025-05-26,Las Condes,Estándar
+1330,131,15,2026-09-30,14600 CLP,27.0,Tarjeta,,Cancelado,Veggie Life,saludable,Las Condes,2026-09-11,Providencia,Premium
+855,128,1,2026-09-30,8300,26.0,Tarjeta,3.0,entregado,  Sabores del Barrio  ,COMIDA RÁPIDA,Providencia,2025-03-01,las condes,Premium
+1156,121,8,2026-09-30,13900,23.0,Tarjeta,5.0,Entregado,Fit & Rico,Asiática,,2026-01-18,Maipú,Premium
+899,106,7,2026-09-30,7600,30.0,Tarjeta,5.0,Entregado,El Buen Sazón,Comida rápida,La Florida,2024-07-14,La Florida,Estándar
+80,174,3,2026-09-30,$10.500,35.0,Tarjeta,5.0,Entregado,Verde Bowl,Comida rápida,Las Condes,2026-07-24,Santiago,Estándar
+982,232,9,2026-09-30,9800,24.0,Efectivo,3.0,Entregado,Pizza Nonna,ITALIANA,La Florida,2025-02-08,La Florida,Estándar
+1264,279,20,2026-10-02,9800,33.0,Tarjeta,5.0,Entregado,Brasas del Sur,Saludable,Ñuñoa,06-07-2025,Santiago,Estándar
+1422,28,15,2026-10-02,7200,38.0,Tarjeta,, Cancelado,Veggie Life,saludable,Las Condes,2026-08-20,maipú,Premium
+318,276,6,2026-10-02,14500,39.0,Transferencia,5.0, Entregado,Café Luna,Asiatica,Santiago,11-08-2024,Ñuñoa,Estándar
+377,51,19,2026-10-02,11900,34.0,Tarjeta,3.0,Entregado,Churros & Más,Comida rápida,Santiago,22-04-2025,Ñuñoa,Estándar
+1491,86,3,2026-10-02,6400,35.0,transferencia,4.0,Entregado,Verde Bowl,Comida rápida,Las Condes,06/11/2024,Maipú,Estándar
+990,244,22,2026-10-02,7400,40.0,Transferencia,,Cancelado,  Ramen Ya  ,Asiática,Maipú,2026-06-19,Santiago,Estándar
+174,153,14,2026-10-03,14600,38.0,Tarjeta,5.0,Entregado,Panadería del Sol, Italiana ,Ñuñoa,03-07-2024,Maipú,Estándar
+214,115,27,2026-10-03,15100,23.0,Efectivo,5.0,Entregado,  Café Central  ,Saludable,La Florida,2025-06-08,Santiago,Premium
+733,74,20,2026-10-03,8100,49.0,Efectivo,4.0,Entregado,Brasas del Sur,Saludable,Ñuñoa,07/03/2026,Santiago,Premium
+1009,281,12,2026-10-03,10300,38.0,Efectivo,4.0,Entregado,Parrilla Andina,Comida rápida,,25-09-2024,Santiago,
+718,29,10,2026-10-03,7300,27.0,Tarjeta,,Entregado,Wok Express,Saludable,Ñuñoa,03-11-2024,la florida,Estándar
+115,108,2,2026-10-03,9500,35.0,Tarjeta,5.0,Entregado,La Esquina Criolla,Saludable,Santiago,2026-09-29,Santiago,
+1244,257,12,2026-10-03,12200,29.0,Transferencia,3.0,Entregado,Parrilla Andina,Comida rápida,,2026-07-26,Las Condes,Estándar
+1469,173,28,2026-10-03,7800,35.0,Tarjeta,4.0,Entregado,  Pasta & Co  ,Saludable,Santiago,2025-12-14,LAS CONDES,Premium
+1366,298,17,2026-10-03,9400,22.0,Transferencia ,3.0,Entregado,Noodle House,Italiana,Santiago,2026-09-08,ÑUÑOA,Estándar
+1396,128,11,2026-10-03,12800 CLP,36.0,Efectivo,5.0,Entregado,Dulce Tentación,Italiana,Providencia,2025-03-01,las condes,Premium
+255,74,21,2026-10-04,9400,37.0,Transferencia,4.0,Entregado,Ensalada Fresca, Saludable ,Santiago,07/03/2026,Santiago,Premium
+83,15,23,2026-10-04,15800,40.0,Tarjeta,,Cancelado,La Baguette,Italiana,Santiago,2025-06-06,Providencia,Premium
+1305,212,8,2026-10-04,7700,33.0,Efectivo,5.0,Entregado,Fit & Rico,Asiática,,2025-10-01,Santiago,Estándar
+1071,140,2,2026-10-04,14900,,Efectivo,5.0,Entregado,La Esquina Criolla,Saludable,Santiago,2026-01-20,Santiago,
+874,133,19,2026-10-05,10300 CLP,28.0,TARJETA,5.0,Entregado,Churros & Más,Comida rápida,Santiago,2025-07-18,ñuñoa,Estándar
+951,192,3,2026-10-05,13400,20.0,Tarjeta,3.0,Entregado,Verde Bowl,Comida rápida,Las Condes,07-09-2025,Las Condes,Premium
+1325,45,13,2026-10-05,8600,22.0,tarjeta,5.0,Entregado,Sushi Mar,Asiática,Las Condes,11-02-2026,Maipú,Estándar
+1353,102,7,2026-10-05,10800,34.0,Tarjeta,4.0,entregado,El Buen Sazón,Comida rápida,La Florida,2025-06-06,Las Condes,Estándar
+521,5,5,2026-10-05,12100,21.0,Tarjeta,4.0,Entregado,  Dragón Dorado  ,Asiática,Ñuñoa,2026-09-06,Ñuñoa,Estándar
+470,72,11,2026-10-05,10400,35.0,Tajeta,,Entregado,Dulce Tentación,Italiana,Providencia,2025-10-28,Ñuñoa,Estándar
+942,45,16,2026-10-05,14000,,Efectivo,,Cancelado,  Trattoria Roma  ,ASIÁTICA,Maipú,11-02-2026,Maipú,Estándar
+1236,123,12,2026-10-06,8500 CLP,27.0,Transferencia,4.0,ENTREGADO,Parrilla Andina,Comida rápida,,2025-09-18,maipú,Estándar
+71,137,30,2026-10-06,4000,26.0,Transferencia,4.0,Entregado,Dulce Esquina,Postres y café,La Florida,02-07-2026,Maipú,Estándar
+349,237,7,2026-10-06,6800,34.0,Tarjeta,4.0,Entregado,El Buen Sazón,Comida rápida,La Florida,2024-10-28,Las Condes,Estándar
+634,283,20,2026-10-06,9700,38.0,Efectivo,5.0,entregado,Brasas del Sur,Saludable,Ñuñoa,02/04/2025,Providencia,Premium
+498,82,11,2026-10-07,11900,29.0,Efectivo,5.0,Entregado,Dulce Tentación,Italiana,Providencia,2025-03-04,Providencia,Estándar
+204,233,30,2026-10-07,4500,24.0,Tarjeta ,4.0,Entregado,Dulce Esquina,Postres y café,La Florida,2025-05-18,Las Condes,Estándar
+1477,12,10,2026-10-07,7900,43.0,Transferencia,,Entregado,Wok Express,Saludable,Ñuñoa,2025-05-19,  Santiago  ,Estándar
+1110,18,23,2026-10-07,15600,25.0,Tarjeta,4.0,Entregado,La Baguette,Italiana,Santiago,2024-09-07,Las Condes,Estándar
+462,230,4,2026-10-08,7900,47.0,Transferencia,5.0,Entregado,Pasta Nostra,Asiatica,Santiago,15/11/2025,SANTIAGO,Estándar
+78,147,4,2026-10-08,15500,28.0,Tarjeta,5.0,Entregado,Pasta Nostra,Asiatica,Santiago,2026-05-19,Maipú,Estándar
+408,161,23,2026-10-08,14300,14.0,Tarjeta,5.0,Entregado,La Baguette,Italiana,Santiago,12-07-2026,Santiago,Estándar
+289,22,23,2026-10-08,9600,39.0,Tarjeta,5.0,Entregado,La Baguette,Italiana,Santiago,25-07-2025,Maipú,Estándar
+672,170,6,2026-10-08,16100,20.0,Transferencia,4.0,Entregado,Café Luna,Asiatica,Santiago,28/02/2026,Ñuñoa,Estándar
+271,1,2,2026-10-09,10300,41.0,Tarjeta,4.0,Entregado,La Esquina Criolla,Saludable,Santiago,2026-04-15,La Florida,Estándar
+1397,189,11,2026-10-10,10700,25.0,Transferencia,5.0,Entregado,Dulce Tentación,Italiana,Providencia,2025-04-02,Santiago,Estándar
+688,208,13,2026-10-10,10600,41.0,Tarjeta,5.0,Entregado,Sushi Mar,Asiática,Las Condes,2026-05-20,Maipú,Estándar
+799,38,30,2026-10-11,5600,16.0,Efectivo,5.0,Entregado,Dulce Esquina,Postres y café,La Florida,2025-02-18,Providencia,Estándar
+826,22,3,2026-10-11,$13.000,36.0,Transferencia,3.0,Entregado,Verde Bowl,Comida rápida,Las Condes,25-07-2025,Maipú,Estándar
+623,265,13,2026-10-11,14900,37.0,Tarjeta,,Cancelado,Sushi Mar,Asiática,Las Condes,2024-12-17,Las Condes,Estándar
+794,297,13,2026-10-11,16600,31.0,Tarjeta,4.0,Entregado,Sushi Mar,Asiática,Las Condes,20/09/2024,  Ñuñoa  ,
+399,83,7,2026-10-12,7700,34.0,Tarjeta,2.0,Entregado,El Buen Sazón,Comida rápida,La Florida,2026-06-03,Maipú,Estándar
+1435,134,8,2026-10-12,15000,37.0,Efectivo,,Cancelado,Fit & Rico,Asiática,,13/01/2026,Santiago,Estándar
+229,165,6,2026-10-12,11700,23.0,Transferencia,4.0,Entregado,Café Luna,Asiatica,Santiago,2025-10-25,Las Condes,Estándar
+1383,55,28,2026-10-12,8300,51.0,Efectivo,4.0,Entregado,  Pasta & Co  ,Saludable,Santiago,2026-05-08,  Santiago  ,Premium
+1383,55,28,2026-10-12,8300,51.0,Efectivo,4.0,Entregado,  Pasta & Co  ,Saludable,Santiago,2026-05-08,  Santiago  ,Premium
+527,279,21,2026-10-12,14800,35.0,Efectivo,,Cancelado,Ensalada Fresca, Saludable ,Santiago,06-07-2025,Santiago,Estándar
+372,299,6,2026-10-12,12100,17.0,TARJETA,5.0,Entregado,Café Luna,Asiatica,Santiago,2024-12-16,La Florida,Premium
+876,85,11,2026-10-13,10900,35.0,Efectivo,4.0,Entregado,Dulce Tentación,Italiana,Providencia,2025-04-17,Las Condes,Premium
+1078,11,1,2026-10-13,7900,31.0,Tarjeta,,Entregado,  Sabores del Barrio  ,COMIDA RÁPIDA,Providencia,31/08/2026,Ñuñoa,Estándar
+1302,218,21,2026-10-13,7100,25.0,Tarjeta,4.0,Entregado,Ensalada Fresca, Saludable ,Santiago,2024-10-16,La Florida,Estándar
+147,128,8,2026-10-14,16200,26.0,Efectivo,5.0,Entregado,Fit & Rico,Asiática,,2025-03-01,las condes,Premium
+1080,268,14,2026-10-14,11300,55.0,Transferencia,4.0,Entregado,Panadería del Sol, Italiana ,Ñuñoa,2026-09-23,Ñuñoa,Estándar
+671,120,24,2026-10-14,12000,38.0,Efectivo,2.0,Entregado,Pollo al Carbón,Asiatica,,29-04-2025,Providencia,Estándar
+1199,196,23,2026-10-14,14900,31.0,Efectivo,5.0,Entregado,La Baguette,Italiana,Santiago,10-05-2026,Santiago,Estándar
+427,297,13,2026-10-14,16300,21.0,Tarjeta,4.0,Entregado,Sushi Mar,Asiática,Las Condes,20/09/2024,  Ñuñoa  ,
+545,218,4,2026-10-14,9700,46.0,Tarjeta,,Cancelado,Pasta Nostra,Asiatica,Santiago,2024-10-16,La Florida,Estándar
+701,92,4,2026-10-15,14700,54.0,Transferencia,4.0,Entregado,Pasta Nostra,Asiatica,Santiago,2024-12-10,Providencia,
+587,134,28,2026-10-15,12900,14.0,Tarjeta,3.0,Entregado,  Pasta & Co  ,Saludable,Santiago,13/01/2026,Santiago,Estándar
+518,105,2,2026-10-15,9900,29.0,Tarjeta,3.0,Entregado,La Esquina Criolla,Saludable,Santiago,2026-04-16,Las Condes,Estándar
+879,300,11,2026-10-15,12600,25.0,Tarjeta,4.0,Entregado,Dulce Tentación,Italiana,Providencia,23-09-2024,Santiago,Estándar
+1256,261,28,2026-10-15,11300,21.0,Tarjeta,4.0,Entregado,  Pasta & Co  ,Saludable,Santiago,2026-03-06,Santiago,Premium
+808,35,28,2026-10-15,10900,32.0,Tarjeta,5.0,Entregado,  Pasta & Co  ,Saludable,Santiago,2025-01-10,Las Condes,
+79,211,3,2026-10-16,8900,21.0,TRANSFERENCIA,,Entregado,Verde Bowl,Comida rápida,Las Condes,2025-06-13,Santiago,Estándar
+909,10,22,2026-10-16,7700,18.0,Tarjeta,5.0,Entregado,  Ramen Ya  ,Asiática,Maipú,2025-05-15,Santiago,Estándar
+248,148,21,2026-10-16,11900,45.0,Tarjeta,4.0,Entregado,Ensalada Fresca, Saludable ,Santiago,2026-06-10,Santiago,Estándar
+928,2,8,2026-10-16,16100,24.0,Tarjeta,4.0, Entregado,Fit & Rico,Asiática,,2025-01-17,Providencia,Estándar
+416,213,3,2026-10-17,9200,22.0,tarjeta,5.0,Entregado,Verde Bowl,Comida rápida,Las Condes,2026-01-14,Las Condes,Estándar
+981,225,27,2026-10-17,9700,33.0,Efectivo,4.0,Entregado,  Café Central  ,Saludable,La Florida,2025-04-30,maipú,Premium
+981,225,27,2026-10-17,9700,33.0,Efectivo,4.0,Entregado,  Café Central  ,Saludable,La Florida,2025-04-30,maipú,Premium
+1094,25,2,2026-10-17,9800,41.0,Transferencia,5.0,Entregado,La Esquina Criolla,Saludable,Santiago,2025-08-24,La Florida,Estándar
+1094,25,2,2026-10-17,9800,41.0,Transferencia,5.0,Entregado,La Esquina Criolla,Saludable,Santiago,2025-08-24,La Florida,Estándar
+967,275,11,2026-10-17,13800,23.0,Efectivo,,Entregado,Dulce Tentación,Italiana,Providencia,06/01/2025,Santiago,Estándar
+939,246,3,2026-10-18,11400,29.0,Transferencia,3.0, Entregado,Verde Bowl,Comida rápida,Las Condes,2025-01-14,Providencia,Estándar
+970,153,30,2026-10-18,$8.500,,Transferencia,5.0,Entregado,Dulce Esquina,Postres y café,La Florida,03-07-2024,Maipú,Estándar
+24,249,7,2026-10-18,11200,28.0,Tarjeta,4.0,Entregado,El Buen Sazón,Comida rápida,La Florida,12/04/2025,Ñuñoa,Estándar
+1425,203,9,2026-10-18,9600,38.0,Efectivo,5.0,Entregado,Pizza Nonna,ITALIANA,La Florida,2024-07-31,Maipú,Estándar
+703,33,1,2026-10-19,7900,36.0,Tarjeta,,Entregado,  Sabores del Barrio  ,COMIDA RÁPIDA,Providencia,2025-08-11,La Florida,Estándar
+638,203,12,2026-10-19,7200,33.0,Tarjeta,3.0,Entregado,Parrilla Andina,Comida rápida,,2024-07-31,Maipú,Estándar
+1456,269,8,2026-10-19,15200,22.0,Tarjeta,3.0,Entregado,Fit & Rico,Asiática,,2024-07-21,Providencia,Premium
+404,237,1,2026-10-19,13000,22.0,Transferencia,4.0,Entregado,  Sabores del Barrio  ,COMIDA RÁPIDA,Providencia,2024-10-28,Las Condes,Estándar
+954,155,22,2026-10-19,$7.800,39.0,Tarjeta,4.0,Entregado,  Ramen Ya  ,Asiática,Maipú,03/09/2026,Santiago,Premium
+509,128,22,21-06-2026,13900,35.0,Efectivo,3.0,Entregado,  Ramen Ya  ,Asiática,Maipú,2025-03-01,las condes,Premium
+883,141,30,21-07-2026,5900,26.0,Efectivo,5.0,Entregado,Dulce Esquina,Postres y café,La Florida,2025-06-12,la florida,Estándar
+20,45,3,21-08-2026,10400,28.0,Tarjeta,4.0,Entregado,Verde Bowl,Comida rápida,Las Condes,11-02-2026,Maipú,Estándar
+145,144,13,21-08-2026,10300,27.0,Tarjeta,5.0,Entregado,Sushi Mar,Asiática,Las Condes,08/12/2025,Ñuñoa,Estándar
+1457,251,18,21-09-2026,7400,39.0,Efectivo,4.0,Entregado,El Rincón Light,Saludable,Santiago,2025-11-28,Ñuñoa,Estándar
+1457,251,18,21-09-2026,7400,39.0,Efectivo,4.0,Entregado,El Rincón Light,Saludable,Santiago,2025-11-28,Ñuñoa,Estándar
+143,222,21,21/05/2026,12300 CLP,22.0,Efectivo,4.0,Entregado,Ensalada Fresca, Saludable ,Santiago,2026-03-01,Providencia,Premium
+1215,180,25,21/05/2026,10700,40.0,Efectivo,5.0,Entregado,Tacos y Punto,Saludable,Providencia,2024-11-07,las condes,Premium
+370,29,18,21/05/2026,14400,29.0,Efectivo,4.0,Entregado,El Rincón Light,Saludable,Santiago,03-11-2024,la florida,Estándar
+325,193,15,21/05/2026,14300,28.0,Efectivo,4.0,Entregado,Veggie Life,saludable,Las Condes,09-05-2026,La Florida,Estándar
+42,164,21,21/05/2026,12500,16.0,Tarjeta,5.0,Entregado,Ensalada Fresca, Saludable ,Santiago,05-06-2026,Maipú,Estándar
+580,201,3,21/06/2026,13100,,Tarjeta,,entregado,Verde Bowl,Comida rápida,Las Condes,2025-12-23,Santiago,Estándar
+1459,81,3,21/06/2026,9000,36.0,Tarjeta,4.0,Entregado,Verde Bowl,Comida rápida,Las Condes,2024-07-20,Santiago,Estándar
+716,174,27,21/07/2026,14400,39.0,Tarjeta,4.0,Entregado,  Café Central  ,Saludable,La Florida,2026-07-24,Santiago,Estándar
+1049,271,17,21/07/2026,16500 CLP,0.0,Tarjeta,4.0,Entregado,Noodle House,Italiana,Santiago,15/04/2025,santiago,Estándar
+707,225,9,21/07/2026,10500,42.0,Tarjeta,,Cancelado,Pizza Nonna,ITALIANA,La Florida,2025-04-30,maipú,Premium
+707,225,9,21/07/2026,10500,42.0,Tarjeta,,Cancelado,Pizza Nonna,ITALIANA,La Florida,2025-04-30,maipú,Premium
+755,56,10,21/07/2026,7500,32.0,Efectivo,5.0,Entregado,Wok Express,Saludable,Ñuñoa,2025-01-24,La Florida,Estándar
+1040,219,11,21/07/2026,13000,28.0,Efectivo,3.0,Entregado,Dulce Tentación,Italiana,Providencia,11-06-2026,Santiago,Estándar
+306,297,2,22-05-2026,13500,38.0,Tajeta,5.0,Entregado,La Esquina Criolla,Saludable,Santiago,20/09/2024,  Ñuñoa  ,
+119,159,22,22-05-2026,14300,,Tarjeta,4.0,Entregado,  Ramen Ya  ,Asiática,Maipú,03/11/2024,Santiago,Premium
+1346,229,10,22-06-2026,15200,43.0,Efectivo,5.0,Entregado,Wok Express,Saludable,Ñuñoa,2025-06-14,Providencia,Premium
+547,62,17,22-08-2026,12900,21.0,Transferencia,3.0,Entregado,Noodle House,Italiana,Santiago,2025-05-16,La Florida,Premium
+778,37,20,22-09-2026,9500,12.0,Tarjeta,,Cancelado,Brasas del Sur,Saludable,Ñuñoa,2025-12-20,La Florida,Estándar
+212,267,11,22-09-2026,16000,43.0,Efectivo,3.0,Entregado,Dulce Tentación,Italiana,Providencia,07-09-2026,providencia,Estándar
+340,240,4,22/05/2026,14000,34.0,Tarjeta,4.0,Entregado,Pasta Nostra,Asiatica,Santiago,2025-07-30,Santiago,Estándar
+1033,205,19,22/05/2026,13100,36.0,Tarjeta,4.0,ENTREGADO,Churros & Más,Comida rápida,Santiago,22-05-2026,Santiago,Estándar
+340,240,4,22/05/2026,14000,34.0,Tarjeta,4.0,Entregado,Pasta Nostra,Asiatica,Santiago,2025-07-30,Santiago,Estándar
+1428,32,21,22/06/2026,8100,32.0,Tarjeta,4.0,Entregado,Ensalada Fresca, Saludable ,Santiago,2024-07-25,  Santiago  ,Estándar
+1140,25,9,22/06/2026,10200,28.0,Tarjeta,3.0,Entregado,Pizza Nonna,ITALIANA,La Florida,2025-08-24,La Florida,Estándar
+1140,25,9,22/06/2026,10200,28.0,Tarjeta,3.0,Entregado,Pizza Nonna,ITALIANA,La Florida,2025-08-24,La Florida,Estándar
+887,213,12,22/07/2026,13200,29.0,Efectivo,4.0,Entregado,Parrilla Andina,Comida rápida,,2026-01-14,Las Condes,Estándar
+1050,197,30,22/07/2026,4100,27.0,Efectivo,3.0,Entregado,Dulce Esquina,Postres y café,La Florida,2025-09-02,Maipú,Estándar
+1143,78,18,22/07/2026,11900,38.0,Tarjeta,3.0,Entregado,El Rincón Light,Saludable,Santiago,08-04-2026,Ñuñoa,Estándar
+790,206,27,22/07/2026,7800,25.0,Efectivo,4.0,Entregado,  Café Central  ,Saludable,La Florida,2024-12-30,Ñuñoa,Premium
+968,202,7,22/08/2026,7200,22.0,Tarjeta,5.0,Entregado,El Buen Sazón,Comida rápida,La Florida,2025-08-05,Santiago,Premium
+853,33,25,22/08/2026,11300,31.0,Efectivo,5.0,Entregado,Tacos y Punto,Saludable,Providencia,2025-08-11,La Florida,Estándar
+326,45,18,22/08/2026,9700,28.0,Tarjeta,4.0,Entregado,El Rincón Light,Saludable,Santiago,11-02-2026,Maipú,Estándar
+269,93,28,23-05-2026,7500,34.0,Tarjeta,5.0, Entregado,  Pasta & Co  ,Saludable,Santiago,2025-04-07,MAIPÚ,Estándar
+569,39,11,23-05-2026,11500,26.0,Transferencia,5.0,Entregado,Dulce Tentación,Italiana,Providencia,22-10-2024,Maipú,Premium
+53,169,14,23-05-2026,11100,32.0,Tarjeta,5.0,Entregado,Panadería del Sol, Italiana ,Ñuñoa,07-04-2025,Santiago,Estándar
+1116,138,26,23-08-2026,11200,45.0,Tarjeta,5.0,Entregado,Green House,Saludable,Ñuñoa,2026-05-11,Las Condes,Estándar
+823,97,11,23-09-2026,9900 CLP,37.0,Efectivo,4.0,Entregado,Dulce Tentación,Italiana,Providencia,21/01/2025,Santiago,Estándar
+823,97,11,23-09-2026,9900 CLP,37.0,Efectivo,4.0,Entregado,Dulce Tentación,Italiana,Providencia,21/01/2025,Santiago,Estándar
+931,297,4,23/05/2026,12100,32.0,Efectivo,3.0,Entregado,Pasta Nostra,Asiatica,Santiago,20/09/2024,  Ñuñoa  ,
+563,30,23,23/05/2026,14000,28.0,Tarjeta,3.0,Entregado,La Baguette,Italiana,Santiago,2026-03-15,Providencia,Premium
+298,172,10,23/06/2026,12600,39.0,Tarjeta,,Cancelado,Wok Express,Saludable,Ñuñoa,16-11-2025,Providencia,Premium
+1499,174,1,23/07/2026,8500,28.0,Tarjeta,5.0,Entregado,  Sabores del Barrio  ,COMIDA RÁPIDA,Providencia,2026-07-24,Santiago,Estándar
+1228,209,25,24-06-2026,6700,17.0,Transferencia,5.0,Entregado,Tacos y Punto,Saludable,Providencia,31-08-2024,maipú,
+988,160,15,24-08-2026,11000,31.0,Efectivo ,4.0,Entregado,Veggie Life,saludable,Las Condes,2025-11-16,Providencia,Estándar
+163,39,29,24-09-2026,8800,36.0,Tarjeta,5.0,Entregado,Mar y Tierra,Saludable,Ñuñoa,22-10-2024,Maipú,Premium
+565,270,27,24/05/2026,7400,21.0,Efectivo,4.0, Entregado,  Café Central  ,Saludable,La Florida,2025-02-20,Providencia,Premium
+1011,219,26,24/06/2026,12000,42.0,Tarjeta,4.0,Entregado,Green House,Saludable,Ñuñoa,11-06-2026,Santiago,Estándar
+1223,47,12,24/06/2026,10900,29.0,Efectivo,3.0,Entregado,Parrilla Andina,Comida rápida,,2024-11-25,Ñuñoa,Estándar
+301,105,26,24/06/2026,11500,32.0,Tarjeta,3.0,Entregado,Green House,Saludable,Ñuñoa,2026-04-16,Las Condes,Estándar
+571,69,9,24/07/2026,10700,27.0,Efectivo,4.0,Entregado,Pizza Nonna,ITALIANA,La Florida,14-06-2025,Santiago,Premium
+768,164,12,24/07/2026,11400,37.0,Tarjeta,4.0,Entregado,Parrilla Andina,Comida rápida,,05-06-2026,Maipú,Estándar
+1047,165,23,24/08/2026,11400,35.0,Tarjeta,3.0, Entregado,La Baguette,Italiana,Santiago,2025-10-25,Las Condes,Estándar
+267,65,22,24/08/2026,8700,12.0,Tarjeta,5.0,Entregado,  Ramen Ya  ,Asiática,Maipú,2026-08-28,Maipú,Estándar
+1465,262,28,24/08/2026,10800,35.0,Tarjeta ,5.0,Entregado,  Pasta & Co  ,Saludable,Santiago,2025-05-26,Las Condes,Estándar
+406,122,15,24/08/2026,11000,,Tarjeta,5.0,Entregado,Veggie Life,saludable,Las Condes,2025-07-10,Santiago,Estándar
+181,286,7,24/08/2026,11500,37.0,tarjeta,4.0,Entregado,El Buen Sazón,Comida rápida,La Florida,2025-07-15,La Florida,
+397,33,19,24/08/2026,6900,17.0,Tarjeta,4.0,ENTREGADO,Churros & Más,Comida rápida,Santiago,2025-08-11,La Florida,Estándar
+1500,160,1,24/09/2026,8000,27.0,Tarjeta,5.0,Entregado,  Sabores del Barrio  ,COMIDA RÁPIDA,Providencia,2025-11-16,Providencia,Estándar
+984,299,8,25-05-2026,13200,36.0,Efectivo,,Cancelado,Fit & Rico,Asiática,,2024-12-16,La Florida,Premium
+798,192,1,25-05-2026,13400,20.0,Transferencia,3.0,ENTREGADO,  Sabores del Barrio  ,COMIDA RÁPIDA,Providencia,07-09-2025,Las Condes,Premium
+352,184,2,25-05-2026,10300,32.0,Efectivo,,Entregado,La Esquina Criolla,Saludable,Santiago,2026-04-10,Providencia,Premium
+1233,68,14,25-06-2026,16400,38.0,Tarjeta,3.0,Entregado,Panadería del Sol, Italiana ,Ñuñoa,2026-01-26,Las Condes,Estándar
+254,15,1,25-07-2026,12500,40.0,Tarjeta,4.0,Entregado,  Sabores del Barrio  ,COMIDA RÁPIDA,Providencia,2025-06-06,Providencia,Premium
+1063,252,4,25-07-2026,14300,43.0,Tarjeta,5.0,Entregado,Pasta Nostra,Asiatica,Santiago,09/02/2025,Ñuñoa,Estándar
+226,204,13,25-07-2026,14100 CLP,37.0,Transferencia,3.0,Entregado,Sushi Mar,Asiática,Las Condes,2026-03-01,Las Condes,Estándar
+1058,243,19,25-08-2026,10300,19.0,Tarjeta,4.0,Entregado,Churros & Más,Comida rápida,Santiago,2026-01-01,Maipú,
+870,280,30,25-08-2026,8200,22.0,Efectivo,4.0,Entregado,Dulce Esquina,Postres y café,La Florida,04/08/2024,La Florida,Premium
+1126,139,11,25-09-2026,15800,-5.0,Efectivo,4.0,Entregado,Dulce Tentación,Italiana,Providencia,07/09/2025,Santiago,Estándar
+386,68,9,25-09-2026,12000,33.0,Tarjeta ,4.0,Entregado,Pizza Nonna,ITALIANA,La Florida,2026-01-26,Las Condes,Estándar
+142,247,20,25-09-2026,11900,40.0,Tarjeta,5.0,Entregado,Brasas del Sur,Saludable,Ñuñoa,2025-01-25,Santiago,Estándar
+1421,139,7,25/05/2026,6100,31.0,Tarjeta,4.0,Entregado,El Buen Sazón,Comida rápida,La Florida,07/09/2025,Santiago,Estándar
+762,67,20,25/05/2026,$9.900,29.0,Transferencia,3.0,Entregado,Brasas del Sur,Saludable,Ñuñoa,2025-04-07,La Florida,Estándar
+762,67,20,25/05/2026,$9.900,29.0,Transferencia,3.0,Entregado,Brasas del Sur,Saludable,Ñuñoa,2025-04-07,La Florida,Estándar
+1329,51,1,25/06/2026,7900,39.0,EFECTIVO,5.0,Entregado,  Sabores del Barrio  ,COMIDA RÁPIDA,Providencia,22-04-2025,Ñuñoa,Estándar
+633,244,5,25/07/2026,12500,,Efectivo,4.0,entregado,  Dragón Dorado  ,Asiática,Ñuñoa,2026-06-19,Santiago,Estándar
+1069,180,28,25/07/2026,7500,44.0,Tarjeta,5.0,ENTREGADO,  Pasta & Co  ,Saludable,Santiago,2024-11-07,las condes,Premium
+1472,156,22,25/08/2026,8900,43.0,Tarjeta,3.0,Entregado,  Ramen Ya  ,Asiática,Maipú,2025-04-23,La Florida,Premium
+559,224,26,25/09/2026,10400,32.0,Tarjeta,5.0,Entregado,Green House,Saludable,Ñuñoa,2026-03-13,Santiago,Estándar
+1436,228,2,26-05-2026,15000,33.0,Tarjeta,,Cancelado,La Esquina Criolla,Saludable,Santiago,17/09/2026,Santiago,Premium
+1442,86,27,26-05-2026,9600,23.0,Tarjeta,4.0,entregado,  Café Central  ,Saludable,La Florida,06/11/2024,Maipú,Estándar
+1147,227,17,26-06-2026,11300,23.0,Tarjeta,3.0,entregado,Noodle House,Italiana,Santiago,27-06-2025,Providencia,Estándar
+273,256,5,26-06-2026,11800,32.0,Tarjeta,5.0,Entregado,  Dragón Dorado  ,Asiática,Ñuñoa,27-09-2025,Las Condes,Estándar
+1138,107,3,26-07-2026,9100,15.0,Efectivo,4.0,Entregado,Verde Bowl,Comida rápida,Las Condes,2025-02-23,  Santiago  ,Estándar
+167,230,28,26-07-2026,14600 CLP,33.0,Tarjeta,4.0,Entregado,  Pasta & Co  ,Saludable,Santiago,15/11/2025,SANTIAGO,Estándar
+720,203,13,26-07-2026,14200,33.0,Tarjeta,,Entregado,Sushi Mar,Asiática,Las Condes,2024-07-31,Maipú,Estándar
+356,200,20,26-08-2026,8300,28.0,Efectivo,5.0,Entregado,Brasas del Sur,Saludable,Ñuñoa,02-06-2026,Santiago,Premium
+770,17,17,26-09-2026,15200,22.0,TARJETA,5.0,Entregado,Noodle House,Italiana,Santiago,26/09/2024,Santiago,Estándar
+1463,168,2,26-09-2026,14400,23.0,Efectivo,5.0,Entregado,La Esquina Criolla,Saludable,Santiago,2026-03-12,santiago,Estándar
+177,127,16,26-09-2026,$13.600,25.0,Tarjeta,5.0,Entregado,  Trattoria Roma  ,ASIÁTICA,Maipú,2024-10-08,Ñuñoa,Estándar
+610,69,26,26-09-2026,6900,29.0,Tarjeta,4.0,Entregado,Green House,Saludable,Ñuñoa,14-06-2025,Santiago,Premium
+647,16,23,26/06/2026,13000,27.0,Transferencia,5.0,Entregado,La Baguette,Italiana,Santiago,2025-06-28,Ñuñoa,Premium
+731,14,19,26/06/2026,13200,42.0,tarjeta,,cancelado,Churros & Más,Comida rápida,Santiago,2026-04-28,Santiago,Premium
+354,192,13,26/06/2026,15500,29.0,Efectivo,3.0,ENTREGADO,Sushi Mar,Asiática,Las Condes,07-09-2025,Las Condes,Premium
+777,169,14,26/07/2026,13800,34.0,Efectivo,3.0,Entregado,Panadería del Sol, Italiana ,Ñuñoa,07-04-2025,Santiago,Estándar
+557,299,26,26/07/2026,12900,31.0,Tarjeta,2.0,Entregado,Green House,Saludable,Ñuñoa,2024-12-16,La Florida,Premium
+40,42,18,26/08/2026,11500,37.0,Efectivo,4.0,entregado,El Rincón Light,Saludable,Santiago,2025-07-12,Maipú,Estándar
+1205,96,3,26/08/2026,13400,45.0,Tarjeta,4.0,Entregado,Verde Bowl,Comida rápida,Las Condes,26-09-2024,Las Condes,Estándar
+1062,234,24,26/09/2026,9700,55.0,Tarjeta,3.0,Entregado,Pollo al Carbón,Asiatica,,2025-05-24,ÑUÑOA,Estándar
+1375,48,14,26/09/2026,11700,31.0,Transferencia,,Cancelado,Panadería del Sol, Italiana ,Ñuñoa,23/07/2024,Santiago,Estándar
+1332,259,9,26/09/2026,12200,33.0,Tarjeta,3.0,Entregado,Pizza Nonna,ITALIANA,La Florida,2026-03-03,providencia,Estándar
+646,264,11,26/09/2026,12500,41.0,Tarjeta,3.0,Entregado,Dulce Tentación,Italiana,Providencia,2024-12-12,Santiago,Premium
+1062,234,24,26/09/2026,9700,55.0,Tarjeta,3.0,Entregado,Pollo al Carbón,Asiatica,,2025-05-24,ÑUÑOA,Estándar
+1309,105,23,27-05-2026,14500,,Tarjeta,5.0,ENTREGADO,La Baguette,Italiana,Santiago,2026-04-16,Las Condes,Estándar
+184,110,14,27-05-2026,13800,44.0,TARJETA,,Entregado,Panadería del Sol, Italiana ,Ñuñoa,2025-05-16,Ñuñoa,Premium
+1382,254,12,27-06-2026,13200,39.0,tarjeta,5.0,Entregado,Parrilla Andina,Comida rápida,,11-04-2026,Santiago,Estándar
+153,58,13,27-06-2026,11500,36.0,EFECTIVO,4.0,Entregado,Sushi Mar,Asiática,Las Condes,2024-08-07,Santiago,Estándar
+1483,257,6,27-08-2026,13800,33.0,Efectivo,2.0,Entregado,Café Luna,Asiatica,Santiago,2026-07-26,Las Condes,Estándar
+58,259,2,27-08-2026,14900,34.0,Tarjeta,3.0,Entregado,La Esquina Criolla,Saludable,Santiago,2026-03-03,providencia,Estándar
+1290,59,25,27-09-2026,11300,32.0,Tarjeta,4.0,Entregado,Tacos y Punto,Saludable,Providencia,12-04-2025,Ñuñoa,Estándar
+1091,258,21,27-09-2026,11400,40.0,Efectivo,5.0,Entregado,Ensalada Fresca, Saludable ,Santiago,26-04-2026,Santiago,Estándar
+423,147,7,27/05/2026,9700,22.0,Tarjeta,4.0,entregado,El Buen Sazón,Comida rápida,La Florida,2026-05-19,Maipú,Estándar
+315,87,2,27/05/2026,10000,36.0,Efectivo,,Cancelado,La Esquina Criolla,Saludable,Santiago,2024-11-17,Ñuñoa,Premium
+665,148,15,27/05/2026,10400,26.0,Tarjeta,5.0,Entregado,Veggie Life,saludable,Las Condes,2026-06-10,Santiago,Estándar
+1317,255,21,27/08/2026,14000,33.0,Tarjeta,5.0,Entregado,Ensalada Fresca, Saludable ,Santiago,25/10/2024,Providencia,Estándar
+72,51,2,27/08/2026,9000,12.0,Transferencia,2.0,Entregado,La Esquina Criolla,Saludable,Santiago,22-04-2025,Ñuñoa,Estándar
+228,113,30,27/09/2026,5000,38.0,Tarjeta,4.0,Entregado,Dulce Esquina,Postres y café,La Florida,25-02-2026,La Florida,Premium
+1240,223,23,27/09/2026,12600,17.0,Efectivo,5.0,Entregado,La Baguette,Italiana,Santiago,2024-11-21,Ñuñoa,Estándar
+1323,38,23,28-05-2026,9200 CLP,39.0,Efectivo,5.0,Entregado,La Baguette,Italiana,Santiago,2025-02-18,Providencia,Estándar
+973,208,30,28-05-2026,4800,19.0,Efectivo,,Cancelado,Dulce Esquina,Postres y café,La Florida,2026-05-20,Maipú,Estándar
+1213,244,22,28-06-2026,8500,41.0,Tarjeta,5.0,Entregado,  Ramen Ya  ,Asiática,Maipú,2026-06-19,Santiago,Estándar
+862,297,8,28-06-2026,9000,29.0,transferencia,5.0,Entregado,Fit & Rico,Asiática,,20/09/2024,  Ñuñoa  ,
+935,177,7,28-07-2026,11000,19.0,Tarjeta,4.0,Entregado,El Buen Sazón,Comida rápida,La Florida,2025-03-08,Las Condes,Premium
+985,98,16,28-07-2026,14600,22.0,Efectivo,3.0,Entregado,  Trattoria Roma  ,ASIÁTICA,Maipú,2025-08-16,Providencia,Estándar
+407,189,1,28-07-2026,13100,33.0,Efectivo,5.0,Entregado,  Sabores del Barrio  ,COMIDA RÁPIDA,Providencia,2025-04-02,Santiago,Estándar
+418,139,23,28-08-2026,13800,41.0,Tarjeta,5.0,Entregado,La Baguette,Italiana,Santiago,07/09/2025,Santiago,Estándar
+625,250,26,28-08-2026,12300,38.0,Tarjeta,,Entregado,Green House,Saludable,Ñuñoa,2026-04-08,Las Condes,Estándar
+94,53,16,28-09-2026,15400,15.0,Efectivo,5.0,Entregado,  Trattoria Roma  ,ASIÁTICA,Maipú,08-01-2026,La Florida,Premium
+70,11,20,28/05/2026,$7.500,28.0,Tarjeta,4.0,Entregado,Brasas del Sur,Saludable,Ñuñoa,31/08/2026,Ñuñoa,Estándar
+317,289,25,28/05/2026,8400,31.0,Transferencia,3.0,Entregado,Tacos y Punto,Saludable,Providencia,2025-02-10,Santiago,Premium
+1007,190,14,28/06/2026,16300,49.0,Transferencia,,Cancelado,Panadería del Sol, Italiana ,Ñuñoa,2025-09-18,Santiago,Estándar
+687,184,8,28/06/2026,8300,27.0,Transferencia,,Cancelado,Fit & Rico,Asiática,,2026-04-10,Providencia,Premium
+1292,198,28,28/06/2026,9600,35.0,Tarjeta,5.0,Entregado,  Pasta & Co  ,Saludable,Santiago,04-09-2024,Ñuñoa,Estándar
+1090,238,15,28/06/2026,9000,38.0,Tarjeta,,Cancelado,Veggie Life,saludable,Las Condes,2026-04-28,Santiago,Estándar
+722,253,20,28/06/2026,9600,34.0,Transferencia,2.0,Entregado,Brasas del Sur,Saludable,Ñuñoa,2026-02-20,  Ñuñoa  ,Estándar
+1003,23,2,28/07/2026,8500,35.0,Efectivo,4.0,Entregado,La Esquina Criolla,Saludable,Santiago,2025-08-16,Santiago,Estándar
+753,104,13,29-06-2026,9800,18.0,tarjeta,4.0,Entregado,Sushi Mar,Asiática,Las Condes,2025-12-22,Las Condes,Premium
+641,158,23,29-06-2026,10900,32.0,Tarjeta,4.0,Entregado,La Baguette,Italiana,Santiago,2026-06-27,Maipú,Estándar
+795,103,25,29-07-2026,14100 CLP,34.0,Tarjeta,5.0,Entregado,Tacos y Punto,Saludable,Providencia,2024-10-08,Ñuñoa,Premium
+618,33,21,29-07-2026,14400,27.0,Tarjeta,3.0,Entregado,Ensalada Fresca, Saludable ,Santiago,2025-08-11,La Florida,Estándar
+182,25,1,29-07-2026,14500,34.0,Transferencia,3.0,Entregado,  Sabores del Barrio  ,COMIDA RÁPIDA,Providencia,2025-08-24,La Florida,Estándar
+182,25,1,29-07-2026,14500,34.0,Transferencia,3.0,Entregado,  Sabores del Barrio  ,COMIDA RÁPIDA,Providencia,2025-08-24,La Florida,Estándar
+1354,249,16,29-07-2026,16200,35.0,Efectivo,5.0,Entregado,  Trattoria Roma  ,ASIÁTICA,Maipú,12/04/2025,Ñuñoa,Estándar
+1060,21,26,29-07-2026,11000,43.0,Tarjeta,3.0,Entregado,Green House,Saludable,Ñuñoa,2024-11-09,La Florida,Premium
+1083,232,28,29-08-2026,12000,35.0,Efectivo,4.0,Entregado,  Pasta & Co  ,Saludable,Santiago,2025-02-08,La Florida,Estándar
+1272,22,23,29-08-2026,8700,45.0,Transferencia,3.0, Entregado,La Baguette,Italiana,Santiago,25-07-2025,Maipú,Estándar
+791,7,8,29-08-2026,9200,12.0,Efectivo,5.0,Entregado,Fit & Rico,Asiática,,2024-10-25,Maipú,Estándar
+343,218,7,29-09-2026,9400,16.0,Tarjeta,4.0, Entregado,El Buen Sazón,Comida rápida,La Florida,2024-10-16,La Florida,Estándar
+965,191,17,29-09-2026,8400,19.0,Tarjeta,5.0,Entregado,Noodle House,Italiana,Santiago,2026-01-08,Ñuñoa,Estándar
+264,158,22,29-09-2026,10900,30.0,Tarjeta,4.0,Entregado,  Ramen Ya  ,Asiática,Maipú,2026-06-27,Maipú,Estándar
+290,242,2,29-09-2026,13300,26.0,Transferencia,4.0,Entregado,La Esquina Criolla,Saludable,Santiago,2025-05-07,Ñuñoa,Premium
+309,269,23,29/05/2026,13700,19.0,Efectivo,5.0,Entregado,La Baguette,Italiana,Santiago,2024-07-21,Providencia,Premium
+802,276,23,29/06/2026,14400,31.0,Transferencia,5.0,ENTREGADO,La Baguette,Italiana,Santiago,11-08-2024,Ñuñoa,Estándar
+1165,148,5,29/07/2026,11500,38.0,Transferencia,4.0,Entregado,  Dragón Dorado  ,Asiática,Ñuñoa,2026-06-10,Santiago,Estándar
+334,133,15,29/07/2026,10200,0.0,Transferencia,4.0,Entregado,Veggie Life,saludable,Las Condes,2025-07-18,ñuñoa,Estándar
+1446,218,21,29/07/2026,13200,31.0,Tarjeta,4.0,Entregado,Ensalada Fresca, Saludable ,Santiago,2024-10-16,La Florida,Estándar
+952,298,12,30-05-2026,13000,43.0,Tarjeta,4.0,Entregado,Parrilla Andina,Comida rápida,,2026-09-08,ÑUÑOA,Estándar
+877,274,13,30-05-2026,7600,18.0,Tajeta,5.0,Entregado,Sushi Mar,Asiática,Las Condes,2025-04-11,Santiago,Premium
+1112,180,27,30-05-2026,14200,39.0,Tarjeta,5.0,Entregado,  Café Central  ,Saludable,La Florida,2024-11-07,las condes,Premium
+256,215,25,30-07-2026,8000,34.0,tarjeta,5.0,Entregado,Tacos y Punto,Saludable,Providencia,2025-12-02,Providencia,Estándar
+1490,228,26,30-07-2026,14100,43.0,Efectivo,3.0,Entregado,Green House,Saludable,Ñuñoa,17/09/2026,Santiago,Premium
+252,199,22,30-08-2026,14300,21.0,Tarjeta,,Entregado,  Ramen Ya  ,Asiática,Maipú,30-11-2024,Santiago,Estándar
+726,36,16,30-09-2026,8400,37.0,Tarjeta,3.0,Entregado,  Trattoria Roma  ,ASIÁTICA,Maipú,2026-06-11,La Florida,Premium
+573,257,25,30-09-2026,8400,31.0,Tarjeta,3.0,Entregado,Tacos y Punto,Saludable,Providencia,2026-07-26,Las Condes,Estándar
+1216,92,11,30/06/2026,16300 CLP,33.0,Tarjeta,4.0,Entregado,Dulce Tentación,Italiana,Providencia,2024-12-10,Providencia,
+1124,262,6,30/06/2026,16100,32.0,Tarjeta ,4.0,Entregado,Café Luna,Asiatica,Santiago,2025-05-26,Las Condes,Estándar
+944,134,14,30/06/2026,9700,44.0,Efectivo,5.0,Entregado,Panadería del Sol, Italiana ,Ñuñoa,13/01/2026,Santiago,Estándar
+1388,122,4,30/07/2026,7400,39.0,Tarjeta,3.0,Entregado,Pasta Nostra,Asiatica,Santiago,2025-07-10,Santiago,Estándar
+1191,92,8,30/07/2026,15500,42.0,Tarjeta,5.0,Entregado,Fit & Rico,Asiática,,2024-12-10,Providencia,
+880,286,28,30/07/2026,12600,32.0,Tarjeta,4.0,Entregado,  Pasta & Co  ,Saludable,Santiago,2025-07-15,La Florida,
+395,79,7,30/08/2026,6600,12.0,Efectivo,4.0,Entregado,El Buen Sazón,Comida rápida,La Florida,20-07-2024,Las Condes,
+374,39,15,30/09/2026,14200,23.0,Transferencia,4.0,Entregado,Veggie Life,saludable,Las Condes,22-10-2024,Maipú,Premium
+1218,263,6,31-05-2026,15100,38.0,Efectivo,4.0,Entregado,Café Luna,Asiatica,Santiago,13/01/2025,Maipú,Estándar
+1076,91,19,31-05-2026,11100,35.0,tarjeta,,Cancelado,Churros & Más,Comida rápida,Santiago,10/08/2024,Las Condes,Premium
+583,20,24,31-07-2026,11800,29.0,Efectivo,,Entregado,Pollo al Carbón,Asiatica,,2025-06-30,Santiago,Estándar
+1089,51,15,31-07-2026,7100,36.0,Tarjeta,4.0,Entregado,Veggie Life,saludable,Las Condes,22-04-2025,Ñuñoa,Estándar
+1036,63,16,31-07-2026,9800,43.0,Tarjeta,5.0,Entregado,  Trattoria Roma  ,ASIÁTICA,Maipú,2025-01-12,Ñuñoa,Estándar
+736,114,26,31-07-2026,9800,40.0,Tarjeta,5.0,Entregado,Green House,Saludable,Ñuñoa,13/09/2024,Santiago,Premium
+32,28,25,31-08-2026,8700,41.0,TRANSFERENCIA,4.0,Entregado,Tacos y Punto,Saludable,Providencia,2026-08-20,maipú,Premium
+788,4,17,31-08-2026,11100,37.0,Tarjeta,5.0, Entregado,Noodle House,Italiana,Santiago,13/09/2024,Providencia,Premium
+1048,242,14,31-08-2026,$8.500,37.0,Tarjeta ,5.0,Entregado,Panadería del Sol, Italiana ,Ñuñoa,2025-05-07,Ñuñoa,Premium
+1259,226,5,31/05/2026,10400,,Tarjeta,,Cancelado,  Dragón Dorado  ,Asiática,Ñuñoa,2025-04-22,Providencia,Estándar
+652,291,8,31/07/2026,12000,22.0,Tarjeta ,4.0,Entregado,Fit & Rico,Asiática,,23-12-2025,Santiago,Estándar
+562,234,7,31/08/2026,7900,40.0,Transferencia,4.0,Entregado,El Buen Sazón,Comida rápida,La Florida,2025-05-24,ÑUÑOA,Estándar
+562,234,7,31/08/2026,7900,40.0,Transferencia,4.0,Entregado,El Buen Sazón,Comida rápida,La Florida,2025-05-24,ÑUÑOA,Estándar
+742,298,3,31/08/2026,8300,52.0,Transferencia,4.0,Entregado,Verde Bowl,Comida rápida,Las Condes,2026-09-08,ÑUÑOA,Estándar
+871,68,25,31/08/2026,11800,37.0,Tarjeta,4.0,Entregado,Tacos y Punto,Saludable,Providencia,2026-01-26,Las Condes,Estándar

@@ -1,0 +1,1 @@
+{"$schema":"https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.14.0/schema.json","name":"a9e102fb499e69bd65ed","position":{"x":0,"y":14.589665653495441,"z":0,"height":49.6048632218845,"width":325.34954407294833},"visual":{"visualType":"pageNavigator","drillFilterOtherVisuals":true},"howCreated":"InsertVisualButton"}
